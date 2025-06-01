@@ -1,0 +1,852 @@
+2025-06-01 14:53:32,128 - gift_ops - INFO - GiftOperations Cog initializing...
+2025-06-01 14:53:32,236 - gift_ops - WARNING - GiftOps __init__: No OCR settings found in DB. Inserting defaults (Enabled=1, SaveImages=0).
+2025-06-01 14:53:32,241 - gift_ops - INFO - GiftOps __init__: Attempting initialization with default settings...
+2025-06-01 14:53:32,433 - gift_ops - INFO - GiftOps __init__: DdddOcr solver initialized successfully.
+2025-06-01 14:53:32,447 - gift_ops - INFO - Initialized default test FID (244886619) in database
+2025-06-01 14:54:28,269 - gift_ops - INFO - GiftOperations Cog initializing...
+2025-06-01 14:54:28,295 - gift_ops - INFO - GiftOps __init__: OCR is enabled. Initializing ddddocr solver...
+2025-06-01 14:54:28,366 - gift_ops - INFO - GiftOps __init__: DdddOcr solver initialized successfully.
+2025-06-01 14:55:42,803 - gift_ops - INFO - GiftOperations Cog initializing...
+2025-06-01 14:55:42,828 - gift_ops - INFO - GiftOps __init__: OCR is enabled. Initializing ddddocr solver...
+2025-06-01 14:55:42,903 - gift_ops - INFO - GiftOps __init__: DdddOcr solver initialized successfully.
+2025-06-01 14:56:01,563 - gift_ops - INFO - GiftOperations Cog initializing...
+2025-06-01 14:56:01,587 - gift_ops - INFO - GiftOps __init__: OCR is enabled. Initializing ddddocr solver...
+2025-06-01 14:56:01,664 - gift_ops - INFO - GiftOps __init__: DdddOcr solver initialized successfully.
+2025-06-01 14:57:40,388 - gift_ops - INFO - GiftOperations Cog initializing...
+2025-06-01 14:57:40,412 - gift_ops - INFO - GiftOps __init__: OCR is enabled. Initializing ddddocr solver...
+2025-06-01 14:57:40,488 - gift_ops - INFO - GiftOps __init__: DdddOcr solver initialized successfully.
+2025-06-01 14:57:44,232 - gift_ops - INFO - GiftOps Cog: on_ready triggered.
+2025-06-01 14:57:44,233 - gift_ops - INFO - Checking ocr_settings table schema...
+2025-06-01 14:57:44,234 - gift_ops - INFO - ocr_settings table schema is up to date.
+2025-06-01 14:57:44,235 - gift_ops - INFO - Setting up ocr_settings table (ensuring correct schema)...
+2025-06-01 14:57:44,235 - gift_ops - INFO - ocr_settings table checked/created.
+2025-06-01 14:57:44,236 - gift_ops - INFO - Found 1 existing OCR settings row(s). Using the latest.
+2025-06-01 14:57:44,236 - gift_ops - INFO - Captcha solver was already initialized.
+2025-06-01 14:57:44,236 - gift_ops - INFO - Validating gift code channels...
+2025-06-01 14:57:44,237 - gift_ops - INFO - Found 0 gift code channel configurations in DB.
+2025-06-01 14:57:44,237 - gift_ops - INFO - All configured gift code channels appear valid.
+2025-06-01 14:57:44,237 - gift_ops - INFO - Starting check_channels_loop background task...
+2025-06-01 14:57:44,238 - gift_ops - INFO - check_channels_loop started.
+2025-06-01 14:57:44,238 - gift_ops - INFO - GiftOps Cog: on_ready setup finished successfully.
+2025-06-01 14:57:44,245 - gift_ops - INFO - GiftOps: Waiting for bot to be ready before starting check_channels_loop...
+2025-06-01 14:57:44,245 - gift_ops - INFO - GiftOps: Bot is ready, check_channels_loop starting.
+2025-06-01 14:57:44,246 - gift_ops - INFO - 
+GiftOps: check_channels_loop running at 2025-06-01 14:57:44
+2025-06-01 15:09:39,455 - gift_ops - INFO - GiftOperations Cog initializing...
+2025-06-01 15:09:39,480 - gift_ops - INFO - GiftOps __init__: OCR is enabled. Initializing ddddocr solver...
+2025-06-01 15:09:39,555 - gift_ops - INFO - GiftOps __init__: DdddOcr solver initialized successfully.
+2025-06-01 15:43:03,631 - gift_ops - INFO - GiftOperations Cog initializing...
+2025-06-01 15:43:03,805 - gift_ops - INFO - GiftOps __init__: OCR is enabled. Initializing ddddocr solver...
+2025-06-01 15:43:04,859 - gift_ops - INFO - GiftOps __init__: DdddOcr solver initialized successfully.
+2025-06-01 15:43:10,104 - gift_ops - INFO - GiftOps Cog: on_ready triggered.
+2025-06-01 15:43:10,104 - gift_ops - INFO - Checking ocr_settings table schema...
+2025-06-01 15:43:10,105 - gift_ops - INFO - ocr_settings table schema is up to date.
+2025-06-01 15:43:10,106 - gift_ops - INFO - Setting up ocr_settings table (ensuring correct schema)...
+2025-06-01 15:43:10,107 - gift_ops - INFO - ocr_settings table checked/created.
+2025-06-01 15:43:10,108 - gift_ops - INFO - Found 1 existing OCR settings row(s). Using the latest.
+2025-06-01 15:43:10,110 - gift_ops - INFO - Captcha solver was already initialized.
+2025-06-01 15:43:10,110 - gift_ops - INFO - Validating gift code channels...
+2025-06-01 15:43:10,111 - gift_ops - INFO - Found 0 gift code channel configurations in DB.
+2025-06-01 15:43:10,111 - gift_ops - INFO - All configured gift code channels appear valid.
+2025-06-01 15:43:10,112 - gift_ops - INFO - Starting check_channels_loop background task...
+2025-06-01 15:43:10,112 - gift_ops - INFO - check_channels_loop started.
+2025-06-01 15:43:10,112 - gift_ops - INFO - GiftOps Cog: on_ready setup finished successfully.
+2025-06-01 15:43:10,120 - gift_ops - INFO - GiftOps: Waiting for bot to be ready before starting check_channels_loop...
+2025-06-01 15:43:10,120 - gift_ops - INFO - GiftOps: Bot is ready, check_channels_loop starting.
+2025-06-01 15:43:10,122 - gift_ops - INFO - 
+GiftOps: check_channels_loop running at 2025-06-01 15:43:10
+2025-06-01 15:56:27,736 - gift_ops - INFO - [CreateGiftCodeModal] on_submit started.
+2025-06-01 15:56:28,175 - gift_ops - INFO - [CreateGiftCodeModal] Interaction deferred.
+2025-06-01 15:56:28,176 - gift_ops - INFO - [CreateGiftCodeModal] Code entered: RowYourBoat
+2025-06-01 15:56:28,176 - gift_ops - INFO - [CreateGiftCodeModal] Adding code RowYourBoat to DB without validation.
+2025-06-01 15:56:28,211 - gift_ops - INFO - [CreateGiftCodeModal] Code 'RowYourBoat' added as pending - will send to API after validation.
+2025-06-01 15:56:29,003 - gift_ops - INFO - [CreateGiftCodeModal] Final result embed sent for code RowYourBoat.
+2025-06-01 15:56:47,813 - gift_ops - INFO - 
+GiftOps: Starting use_giftcode_for_alliance for Alliance 1, Code RowYourBoat
+2025-06-01 15:56:47,815 - gift_ops - INFO - GiftOps: Found 4 members for PXW.
+2025-06-01 15:56:47,816 - gift_ops - INFO - GiftOps: Pre-processed 0 members from cache. 4 remaining.
+2025-06-01 15:56:48,401 - gift_ops - INFO - GiftOps: Processing FID 154124121 (Ｌｏｋｅｓｈ), Cycle 1/10
+2025-06-01 15:56:50,247 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 154124121.
+2025-06-01 15:56:50,247 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 154124121
+2025-06-01 15:56:51,106 - gift_ops - INFO - Code 'RowYourBoat' validated for the first time - sending to API
+2025-06-01 15:56:51,113 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 154124121. Status: SUCCESS, Duration: 1.665s
+2025-06-01 15:56:51,114 - gift_ops - INFO - GiftOps: Final status for FID 154124121 / Code 'RowYourBoat': SUCCESS
+2025-06-01 15:56:51,114 - gift_ops - INFO - GiftOps: Processing FID 154812262 (Nyx ᴾˣᵂ), Cycle 1/10
+2025-06-01 15:56:53,574 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 154812262.
+2025-06-01 15:56:53,574 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 154812262
+2025-06-01 15:56:54,219 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 154812262. Status: SUCCESS, Duration: 1.828s
+2025-06-01 15:56:54,219 - gift_ops - INFO - GiftOps: Final status for FID 154812262 / Code 'RowYourBoat': SUCCESS
+2025-06-01 15:56:54,602 - gift_ops - INFO - GiftOps: Processing FID 156467620 (ツʟᴏᴋɪ፝֟፝֟ °ᴾˣᵂ), Cycle 1/10
+2025-06-01 15:56:56,592 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 156467620.
+2025-06-01 15:56:56,592 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 156467620
+2025-06-01 15:56:57,302 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 156467620. Status: RECEIVED, Duration: 1.496s
+2025-06-01 15:56:57,302 - gift_ops - INFO - GiftOps: Final status for FID 156467620 / Code 'RowYourBoat': RECEIVED
+2025-06-01 15:56:57,303 - gift_ops - INFO - GiftOps: Processing FID 360951616 (Baby Nyx), Cycle 1/10
+2025-06-01 15:56:59,142 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 360951616.
+2025-06-01 15:56:59,143 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 360951616
+2025-06-01 15:56:59,986 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 360951616. Status: SUCCESS, Duration: 1.609s
+2025-06-01 15:56:59,987 - gift_ops - INFO - GiftOps: Final status for FID 360951616 / Code 'RowYourBoat': SUCCESS
+2025-06-01 15:57:00,451 - gift_ops - INFO - GiftOps: Alliance 1 processing loop finished. Preparing final update.
+2025-06-01 15:57:00,841 - gift_ops - INFO - GiftOps: Successfully edited final status embed for alliance 1.
+2025-06-01 15:57:00,842 - gift_ops - INFO - 
+
+--- Redemption Summary Start ---
+Alliance: PXW (1)
+Gift Code: RowYourBoat
+Master Code Status at Log Time: validated
+Run Time: 2025-06-01 15:57:00
+------------------------
+Total Members: 4
+Successful: 3
+Already Redeemed: 1
+Failed: 0
+------------------------
+
+Successful Users (3):
+Ｌｏｋｅｓｈ
+Nyx ᴾˣᵂ
+Baby Nyx
+
+Already Redeemed Users (1):
+ツʟᴏᴋɪ፝֟፝֟ °ᴾˣᵂ
+--- Redemption Summary End ---
+
+2025-06-01 16:13:10,108 - gift_ops - INFO - 
+GiftOps: check_channels_loop running at 2025-06-01 16:13:10
+2025-06-01 16:17:48,043 - gift_ops - INFO - 
+GiftOps: Starting use_giftcode_for_alliance for Alliance 1, Code RowYourBoat
+2025-06-01 16:17:48,045 - gift_ops - INFO - GiftOps: Found 30 members for PXW.
+2025-06-01 16:17:48,046 - gift_ops - INFO - GiftOps: Pre-processed 4 members from cache. 26 remaining.
+2025-06-01 16:17:48,708 - gift_ops - INFO - GiftOps: Processing FID 128547543 (VamPire), Cycle 1/10
+2025-06-01 16:17:50,853 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 128547543.
+2025-06-01 16:17:50,854 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 128547543
+2025-06-01 16:17:52,002 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 128547543. Status: SUCCESS, Duration: 2.026s
+2025-06-01 16:17:52,002 - gift_ops - INFO - GiftOps: Final status for FID 128547543 / Code 'RowYourBoat': SUCCESS
+2025-06-01 16:17:52,004 - gift_ops - INFO - GiftOps: Processing FID 147582735 (ⒿⓐⓒⓚⓐⓢⓢⒾⓝⒶⒸⓐⓝ), Cycle 1/10
+2025-06-01 16:17:54,270 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 147582735.
+2025-06-01 16:17:54,270 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 147582735
+2025-06-01 16:17:55,068 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 147582735. Status: RECEIVED, Duration: 1.867s
+2025-06-01 16:17:55,068 - gift_ops - INFO - GiftOps: Final status for FID 147582735 / Code 'RowYourBoat': RECEIVED
+2025-06-01 16:17:55,511 - gift_ops - INFO - GiftOps: Processing FID 147926399 (Llamaste), Cycle 1/10
+2025-06-01 16:17:57,811 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 147926399.
+2025-06-01 16:17:57,812 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 147926399
+2025-06-01 16:17:58,158 - gift_ops - INFO - GiftOps: Attempt 2/4 to fetch/solve captcha for FID 147926399
+2025-06-01 16:17:58,991 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 147926399. Status: SUCCESS, Duration: 2.294s
+2025-06-01 16:17:58,991 - gift_ops - INFO - GiftOps: Final status for FID 147926399 / Code 'RowYourBoat': SUCCESS
+2025-06-01 16:17:58,992 - gift_ops - INFO - GiftOps: Processing FID 148581351 (Frankeinsteinᴾˣᵂ), Cycle 1/10
+2025-06-01 16:18:00,765 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 148581351.
+2025-06-01 16:18:00,766 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 148581351
+2025-06-01 16:18:01,533 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 148581351. Status: RECEIVED, Duration: 1.805s
+2025-06-01 16:18:01,533 - gift_ops - INFO - GiftOps: Final status for FID 148581351 / Code 'RowYourBoat': RECEIVED
+2025-06-01 16:18:01,925 - gift_ops - INFO - GiftOps: Processing FID 148975338 (JääJää), Cycle 1/10
+2025-06-01 16:18:04,087 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 148975338.
+2025-06-01 16:18:04,087 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 148975338
+2025-06-01 16:18:04,806 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 148975338. Status: RECEIVED, Duration: 1.587s
+2025-06-01 16:18:04,807 - gift_ops - INFO - GiftOps: Final status for FID 148975338 / Code 'RowYourBoat': RECEIVED
+2025-06-01 16:18:04,807 - gift_ops - INFO - GiftOps: Processing FID 149957951 (NameRequired), Cycle 1/10
+2025-06-01 16:18:07,023 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 149957951.
+2025-06-01 16:18:07,023 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 149957951
+2025-06-01 16:18:07,773 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 149957951. Status: SUCCESS, Duration: 1.812s
+2025-06-01 16:18:07,773 - gift_ops - INFO - GiftOps: Final status for FID 149957951 / Code 'RowYourBoat': SUCCESS
+2025-06-01 16:18:08,162 - gift_ops - INFO - GiftOps: Processing FID 150498861 (Funny BEAST), Cycle 1/10
+2025-06-01 16:18:10,126 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 150498861.
+2025-06-01 16:18:10,127 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 150498861
+2025-06-01 16:18:10,905 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 150498861. Status: SUCCESS, Duration: 1.831s
+2025-06-01 16:18:10,906 - gift_ops - INFO - GiftOps: Final status for FID 150498861 / Code 'RowYourBoat': SUCCESS
+2025-06-01 16:18:10,907 - gift_ops - INFO - GiftOps: Processing FID 151307367 (QueenVic), Cycle 1/10
+2025-06-01 16:18:12,757 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 151307367.
+2025-06-01 16:18:12,757 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 151307367
+2025-06-01 16:18:13,530 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 151307367. Status: RECEIVED, Duration: 1.764s
+2025-06-01 16:18:13,530 - gift_ops - INFO - GiftOps: Final status for FID 151307367 / Code 'RowYourBoat': RECEIVED
+2025-06-01 16:18:13,988 - gift_ops - INFO - GiftOps: Processing FID 151356480 (Solo), Cycle 1/10
+2025-06-01 16:18:16,034 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 151356480.
+2025-06-01 16:18:16,034 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 151356480
+2025-06-01 16:18:16,990 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 151356480. Status: SUCCESS, Duration: 2.210s
+2025-06-01 16:18:16,990 - gift_ops - INFO - GiftOps: Final status for FID 151356480 / Code 'RowYourBoat': SUCCESS
+2025-06-01 16:18:16,990 - gift_ops - INFO - GiftOps: Processing FID 151529462 (Ebar), Cycle 1/10
+2025-06-01 16:18:19,091 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 151529462.
+2025-06-01 16:18:19,091 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 151529462
+2025-06-01 16:18:19,501 - gift_ops - INFO - GiftOps: Attempt 2/4 to fetch/solve captcha for FID 151529462
+2025-06-01 16:18:20,234 - gift_ops - INFO - GiftOps: CAPTCHA_INVALID for FID 151529462 on attempt 2. Retrying fetch/solve...
+2025-06-01 16:18:22,217 - gift_ops - INFO - GiftOps: Attempt 3/4 to fetch/solve captcha for FID 151529462
+2025-06-01 16:18:22,907 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 151529462. Status: SUCCESS, Duration: 4.770s
+2025-06-01 16:18:22,907 - gift_ops - INFO - GiftOps: Final status for FID 151529462 / Code 'RowYourBoat': SUCCESS
+2025-06-01 16:18:23,286 - gift_ops - INFO - GiftOps: Processing FID 151970653 (Sargnarg), Cycle 1/10
+2025-06-01 16:18:25,409 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 151970653.
+2025-06-01 16:18:25,409 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 151970653
+2025-06-01 16:18:26,033 - gift_ops - INFO - GiftOps: CAPTCHA_INVALID for FID 151970653 on attempt 1. Retrying fetch/solve...
+2025-06-01 16:18:27,638 - gift_ops - INFO - GiftOps: Attempt 2/4 to fetch/solve captcha for FID 151970653
+2025-06-01 16:18:28,299 - gift_ops - INFO - GiftOps: CAPTCHA_INVALID for FID 151970653 on attempt 2. Retrying fetch/solve...
+2025-06-01 16:18:30,093 - gift_ops - INFO - GiftOps: Attempt 3/4 to fetch/solve captcha for FID 151970653
+2025-06-01 16:18:30,772 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 151970653. Status: SUCCESS, Duration: 6.229s
+2025-06-01 16:18:30,772 - gift_ops - INFO - GiftOps: Final status for FID 151970653 / Code 'RowYourBoat': SUCCESS
+2025-06-01 16:18:31,187 - gift_ops - INFO - GiftOps: Processing FID 152430430 (King Horus), Cycle 1/10
+2025-06-01 16:18:37,546 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 152430430.
+2025-06-01 16:18:37,546 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 152430430
+2025-06-01 16:18:38,405 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 152430430. Status: SUCCESS, Duration: 5.976s
+2025-06-01 16:18:38,405 - gift_ops - INFO - GiftOps: Final status for FID 152430430 / Code 'RowYourBoat': SUCCESS
+2025-06-01 16:18:39,380 - gift_ops - INFO - GiftOps: Processing FID 152545632 (Wackadoodle), Cycle 1/10
+2025-06-01 16:18:41,596 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 152545632.
+2025-06-01 16:18:41,597 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 152545632
+2025-06-01 16:18:42,286 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 152545632. Status: RECEIVED, Duration: 1.758s
+2025-06-01 16:18:42,286 - gift_ops - INFO - GiftOps: Final status for FID 152545632 / Code 'RowYourBoat': RECEIVED
+2025-06-01 16:18:42,287 - gift_ops - INFO - GiftOps: Processing FID 152741981 (kominic), Cycle 1/10
+2025-06-01 16:18:45,145 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 152741981.
+2025-06-01 16:18:45,145 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 152741981
+2025-06-01 16:18:45,537 - gift_ops - INFO - GiftOps: Attempt 2/4 to fetch/solve captcha for FID 152741981
+2025-06-01 16:18:45,880 - gift_ops - INFO - GiftOps: Attempt 3/4 to fetch/solve captcha for FID 152741981
+2025-06-01 16:18:46,692 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 152741981. Status: SUCCESS, Duration: 3.426s
+2025-06-01 16:18:46,692 - gift_ops - INFO - GiftOps: Final status for FID 152741981 / Code 'RowYourBoat': SUCCESS
+2025-06-01 16:18:47,108 - gift_ops - INFO - GiftOps: Processing FID 153003051 (ꉓꍏ꒒ꀤꊼ꓄ꍏ), Cycle 1/10
+2025-06-01 16:18:49,382 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 153003051.
+2025-06-01 16:18:49,382 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 153003051
+2025-06-01 16:18:50,101 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 153003051. Status: SUCCESS, Duration: 1.709s
+2025-06-01 16:18:50,101 - gift_ops - INFO - GiftOps: Final status for FID 153003051 / Code 'RowYourBoat': SUCCESS
+2025-06-01 16:18:50,102 - gift_ops - INFO - GiftOps: Processing FID 153118638 (ωєη °ᴾˣᵂ°), Cycle 1/10
+2025-06-01 16:18:53,308 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 153118638.
+2025-06-01 16:18:53,308 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 153118638
+2025-06-01 16:18:53,638 - gift_ops - INFO - GiftOps: Attempt 2/4 to fetch/solve captcha for FID 153118638
+2025-06-01 16:18:54,424 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 153118638. Status: RECEIVED, Duration: 3.119s
+2025-06-01 16:18:54,425 - gift_ops - INFO - GiftOps: Final status for FID 153118638 / Code 'RowYourBoat': RECEIVED
+2025-06-01 16:18:54,819 - gift_ops - INFO - GiftOps: Processing FID 153561550 (queenjulez), Cycle 1/10
+2025-06-01 16:18:56,741 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 153561550.
+2025-06-01 16:18:56,741 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 153561550
+2025-06-01 16:18:57,506 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 153561550. Status: SUCCESS, Duration: 1.627s
+2025-06-01 16:18:57,506 - gift_ops - INFO - GiftOps: Final status for FID 153561550 / Code 'RowYourBoat': SUCCESS
+2025-06-01 16:18:57,507 - gift_ops - INFO - GiftOps: Processing FID 153780116 (Slayer), Cycle 1/10
+2025-06-01 16:18:59,134 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 153780116.
+2025-06-01 16:18:59,134 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 153780116
+2025-06-01 16:18:59,885 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 153780116. Status: SUCCESS, Duration: 1.638s
+2025-06-01 16:18:59,885 - gift_ops - INFO - GiftOps: Final status for FID 153780116 / Code 'RowYourBoat': SUCCESS
+2025-06-01 16:19:00,401 - gift_ops - INFO - GiftOps: Processing FID 155052245 (SᴛOʀм °ᴾˣᵂ°), Cycle 1/10
+2025-06-01 16:19:02,297 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 155052245.
+2025-06-01 16:19:02,297 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 155052245
+2025-06-01 16:19:03,042 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 155052245. Status: SUCCESS, Duration: 1.605s
+2025-06-01 16:19:03,043 - gift_ops - INFO - GiftOps: Final status for FID 155052245 / Code 'RowYourBoat': SUCCESS
+2025-06-01 16:19:03,043 - gift_ops - INFO - GiftOps: Processing FID 155075701 (Lumiere), Cycle 1/10
+2025-06-01 16:19:05,039 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 155075701.
+2025-06-01 16:19:05,039 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 155075701
+2025-06-01 16:19:05,767 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 155075701. Status: RECEIVED, Duration: 1.595s
+2025-06-01 16:19:05,767 - gift_ops - INFO - GiftOps: Final status for FID 155075701 / Code 'RowYourBoat': RECEIVED
+2025-06-01 16:19:06,182 - gift_ops - INFO - GiftOps: Processing FID 157155747 (ᏰᎧᎧ), Cycle 1/10
+2025-06-01 16:19:08,442 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 157155747.
+2025-06-01 16:19:08,443 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 157155747
+2025-06-01 16:19:09,135 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 157155747. Status: RECEIVED, Duration: 1.636s
+2025-06-01 16:19:09,135 - gift_ops - INFO - GiftOps: Final status for FID 157155747 / Code 'RowYourBoat': RECEIVED
+2025-06-01 16:19:09,136 - gift_ops - INFO - GiftOps: Processing FID 157253832 (Sonic), Cycle 1/10
+2025-06-01 16:19:11,253 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 157253832.
+2025-06-01 16:19:11,253 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 157253832
+2025-06-01 16:19:11,581 - gift_ops - INFO - GiftOps: Attempt 2/4 to fetch/solve captcha for FID 157253832
+2025-06-01 16:19:12,319 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 157253832. Status: SUCCESS, Duration: 1.982s
+2025-06-01 16:19:12,319 - gift_ops - INFO - GiftOps: Final status for FID 157253832 / Code 'RowYourBoat': SUCCESS
+2025-06-01 16:19:12,741 - gift_ops - INFO - GiftOps: Processing FID 158236906 (SomeBro), Cycle 1/10
+2025-06-01 16:19:14,509 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 158236906.
+2025-06-01 16:19:14,510 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 158236906
+2025-06-01 16:19:14,881 - gift_ops - INFO - GiftOps: Attempt 2/4 to fetch/solve captcha for FID 158236906
+2025-06-01 16:19:15,658 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 158236906. Status: SUCCESS, Duration: 2.165s
+2025-06-01 16:19:15,659 - gift_ops - INFO - GiftOps: Final status for FID 158236906 / Code 'RowYourBoat': SUCCESS
+2025-06-01 16:19:15,660 - gift_ops - INFO - GiftOps: Processing FID 158404307 (Matron Malice), Cycle 1/10
+2025-06-01 16:19:17,362 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 158404307.
+2025-06-01 16:19:17,362 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 158404307
+2025-06-01 16:19:18,176 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 158404307. Status: RECEIVED, Duration: 1.692s
+2025-06-01 16:19:18,177 - gift_ops - INFO - GiftOps: Final status for FID 158404307 / Code 'RowYourBoat': RECEIVED
+2025-06-01 16:19:18,596 - gift_ops - INFO - GiftOps: Processing FID 158485883 (~ ᏉᎪᏆᎪᏁᏞᎾᏒᎠ ~), Cycle 1/10
+2025-06-01 16:19:20,449 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 158485883.
+2025-06-01 16:19:20,449 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 158485883
+2025-06-01 16:19:21,218 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 158485883. Status: SUCCESS, Duration: 1.669s
+2025-06-01 16:19:21,219 - gift_ops - INFO - GiftOps: Final status for FID 158485883 / Code 'RowYourBoat': SUCCESS
+2025-06-01 16:19:21,220 - gift_ops - INFO - GiftOps: Processing FID 158761357 (Abdulrhman pasha), Cycle 1/10
+2025-06-01 16:19:22,840 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 158761357.
+2025-06-01 16:19:22,840 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 158761357
+2025-06-01 16:19:23,618 - gift_ops - INFO - GiftOps: CAPTCHA_INVALID for FID 158761357 on attempt 1. Retrying fetch/solve...
+2025-06-01 16:19:25,792 - gift_ops - INFO - GiftOps: Attempt 2/4 to fetch/solve captcha for FID 158761357
+2025-06-01 16:19:26,650 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 158761357. Status: SUCCESS, Duration: 4.685s
+2025-06-01 16:19:26,650 - gift_ops - INFO - GiftOps: Final status for FID 158761357 / Code 'RowYourBoat': SUCCESS
+2025-06-01 16:19:27,112 - gift_ops - INFO - GiftOps: Alliance 1 processing loop finished. Preparing final update.
+2025-06-01 16:19:27,579 - gift_ops - INFO - GiftOps: Successfully edited final status embed for alliance 1.
+2025-06-01 16:19:27,580 - gift_ops - INFO - 
+
+--- Redemption Summary Start ---
+Alliance: PXW (1)
+Gift Code: RowYourBoat
+Master Code Status at Log Time: validated
+Run Time: 2025-06-01 16:19:27
+------------------------
+Total Members: 30
+Successful: 17
+Already Redeemed: 13
+Failed: 0
+------------------------
+
+Successful Users (17):
+VamPire
+Llamaste
+NameRequired
+Funny BEAST
+Solo
+Ebar
+Sargnarg
+King Horus
+kominic
+ꉓꍏ꒒ꀤꊼ꓄ꍏ
+queenjulez
+Slayer
+SᴛOʀм °ᴾˣᵂ°
+Sonic
+SomeBro
+~ ᏉᎪᏆᎪᏁᏞᎾᏒᎠ ~
+Abdulrhman pasha
+
+Already Redeemed Users (13):
+Ｌｏｋｅｓｈ
+Nyx ᴾˣᵂ
+ツʟᴏᴋɪ፝֟፝֟ °ᴾˣᵂ
+Baby Nyx
+ⒿⓐⓒⓚⓐⓢⓢⒾⓝⒶⒸⓐⓝ
+Frankeinsteinᴾˣᵂ
+JääJää
+QueenVic
+Wackadoodle
+ωєη °ᴾˣᵂ°
+Lumiere
+ᏰᎧᎧ
+Matron Malice
+--- Redemption Summary End ---
+
+2025-06-01 16:43:10,132 - gift_ops - INFO - 
+GiftOps: check_channels_loop running at 2025-06-01 16:43:10
+2025-06-01 17:07:10,546 - gift_ops - INFO - 
+GiftOps: Starting use_giftcode_for_alliance for Alliance 1, Code RowYourBoat
+2025-06-01 17:07:10,548 - gift_ops - INFO - GiftOps: Found 95 members for PXW.
+2025-06-01 17:07:10,549 - gift_ops - INFO - GiftOps: Pre-processed 30 members from cache. 65 remaining.
+2025-06-01 17:07:11,281 - gift_ops - INFO - GiftOps: Processing FID 126474911 (Alshekh), Cycle 1/10
+2025-06-01 17:07:15,026 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 126474911.
+2025-06-01 17:07:15,027 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 126474911
+2025-06-01 17:07:15,803 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 126474911. Status: SUCCESS, Duration: 3.717s
+2025-06-01 17:07:15,803 - gift_ops - INFO - GiftOps: Final status for FID 126474911 / Code 'RowYourBoat': SUCCESS
+2025-06-01 17:07:15,803 - gift_ops - INFO - GiftOps: Processing FID 127007689 (Nabil), Cycle 1/10
+2025-06-01 17:07:20,675 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 127007689.
+2025-06-01 17:07:20,676 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 127007689
+2025-06-01 17:07:21,868 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 127007689. Status: SUCCESS, Duration: 4.874s
+2025-06-01 17:07:21,868 - gift_ops - INFO - GiftOps: Final status for FID 127007689 / Code 'RowYourBoat': SUCCESS
+2025-06-01 17:07:22,315 - gift_ops - INFO - GiftOps: Processing FID 128269128 (3SJX), Cycle 1/10
+2025-06-01 17:07:24,664 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 128269128.
+2025-06-01 17:07:24,665 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 128269128
+2025-06-01 17:07:25,577 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 128269128. Status: SUCCESS, Duration: 2.455s
+2025-06-01 17:07:25,577 - gift_ops - INFO - GiftOps: Final status for FID 128269128 / Code 'RowYourBoat': SUCCESS
+2025-06-01 17:07:25,578 - gift_ops - INFO - GiftOps: Processing FID 128695070 (محمد ö), Cycle 1/10
+2025-06-01 17:07:27,420 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 128695070.
+2025-06-01 17:07:27,420 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 128695070
+2025-06-01 17:07:28,290 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 128695070. Status: SUCCESS, Duration: 1.720s
+2025-06-01 17:07:28,291 - gift_ops - INFO - GiftOps: Final status for FID 128695070 / Code 'RowYourBoat': SUCCESS
+2025-06-01 17:07:29,093 - gift_ops - INFO - GiftOps: Processing FID 128793369 (HoCiNe 父), Cycle 1/10
+2025-06-01 17:07:32,204 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 128793369.
+2025-06-01 17:07:32,204 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 128793369
+2025-06-01 17:07:32,538 - gift_ops - INFO - GiftOps: Attempt 2/4 to fetch/solve captcha for FID 128793369
+2025-06-01 17:07:33,234 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 128793369. Status: SUCCESS, Duration: 2.990s
+2025-06-01 17:07:33,234 - gift_ops - INFO - GiftOps: Final status for FID 128793369 / Code 'RowYourBoat': SUCCESS
+2025-06-01 17:07:33,235 - gift_ops - INFO - GiftOps: Processing FID 129022614 (IAmNr3), Cycle 1/10
+2025-06-01 17:07:35,710 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 129022614.
+2025-06-01 17:07:35,711 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 129022614
+2025-06-01 17:07:36,518 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 129022614. Status: SUCCESS, Duration: 2.136s
+2025-06-01 17:07:36,518 - gift_ops - INFO - GiftOps: Final status for FID 129022614 / Code 'RowYourBoat': SUCCESS
+2025-06-01 17:07:37,182 - gift_ops - INFO - GiftOps: Processing FID 135289899 (ڣڗٵ̍؏ジ), Cycle 1/10
+2025-06-01 17:08:02,054 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 135289899.
+2025-06-01 17:08:02,054 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 135289899
+2025-06-01 17:08:02,876 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 135289899. Status: SUCCESS, Duration: 24.633s
+2025-06-01 17:08:02,877 - gift_ops - INFO - GiftOps: Final status for FID 135289899 / Code 'RowYourBoat': SUCCESS
+2025-06-01 17:08:04,015 - gift_ops - INFO - GiftOps: Processing FID 138624622 (X̌ŜTĖVẸ), Cycle 1/10
+2025-06-01 17:08:16,877 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 138624622.
+2025-06-01 17:08:16,878 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 138624622
+2025-06-01 17:08:17,953 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 138624622. Status: SUCCESS, Duration: 13.171s
+2025-06-01 17:08:17,953 - gift_ops - INFO - GiftOps: Final status for FID 138624622 / Code 'RowYourBoat': SUCCESS
+2025-06-01 17:08:19,983 - gift_ops - INFO - GiftOps: Processing FID 138666412 (some guy here), Cycle 1/10
+2025-06-01 17:08:30,672 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 138666412.
+2025-06-01 17:08:30,673 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 138666412
+2025-06-01 17:08:31,443 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 138666412. Status: RECEIVED, Duration: 10.505s
+2025-06-01 17:08:31,443 - gift_ops - INFO - GiftOps: Final status for FID 138666412 / Code 'RowYourBoat': RECEIVED
+2025-06-01 17:08:31,904 - gift_ops - INFO - GiftOps: Processing FID 139937578 (Beth Dutton), Cycle 1/10
+2025-06-01 17:08:34,249 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 139937578.
+2025-06-01 17:08:34,250 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 139937578
+2025-06-01 17:08:35,055 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 139937578. Status: SUCCESS, Duration: 2.145s
+2025-06-01 17:08:35,055 - gift_ops - INFO - GiftOps: Final status for FID 139937578 / Code 'RowYourBoat': SUCCESS
+2025-06-01 17:08:35,056 - gift_ops - INFO - GiftOps: Processing FID 140817703 (konkedo), Cycle 1/10
+2025-06-01 17:08:37,068 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 140817703.
+2025-06-01 17:08:37,068 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 140817703
+2025-06-01 17:08:37,877 - gift_ops - INFO - GiftOps: CAPTCHA_INVALID for FID 140817703 on attempt 1. Retrying fetch/solve...
+2025-06-01 17:08:40,232 - gift_ops - INFO - GiftOps: Attempt 2/4 to fetch/solve captcha for FID 140817703
+2025-06-01 17:08:41,464 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 140817703. Status: SUCCESS, Duration: 5.571s
+2025-06-01 17:08:41,464 - gift_ops - INFO - GiftOps: Final status for FID 140817703 / Code 'RowYourBoat': SUCCESS
+2025-06-01 17:08:42,339 - gift_ops - INFO - GiftOps: Processing FID 146877863 (Romme), Cycle 1/10
+2025-06-01 17:08:47,407 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 146877863.
+2025-06-01 17:08:47,407 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 146877863
+2025-06-01 17:08:49,108 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 146877863. Status: SUCCESS, Duration: 5.606s
+2025-06-01 17:08:49,108 - gift_ops - INFO - GiftOps: Final status for FID 146877863 / Code 'RowYourBoat': SUCCESS
+2025-06-01 17:08:49,585 - gift_ops - INFO - GiftOps: Processing FID 146878747 (FrostDogeThe1st), Cycle 1/10
+2025-06-01 17:09:04,506 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 146878747.
+2025-06-01 17:09:04,507 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 146878747
+2025-06-01 17:09:05,189 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 146878747. Status: SUCCESS, Duration: 14.770s
+2025-06-01 17:09:05,190 - gift_ops - INFO - GiftOps: Final status for FID 146878747 / Code 'RowYourBoat': SUCCESS
+2025-06-01 17:09:05,655 - gift_ops - INFO - GiftOps: Processing FID 147042042 (Taz), Cycle 1/10
+2025-06-01 17:09:07,828 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 147042042.
+2025-06-01 17:09:07,828 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 147042042
+2025-06-01 17:09:08,537 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 147042042. Status: SUCCESS, Duration: 1.621s
+2025-06-01 17:09:08,537 - gift_ops - INFO - GiftOps: Final status for FID 147042042 / Code 'RowYourBoat': SUCCESS
+2025-06-01 17:09:08,538 - gift_ops - INFO - GiftOps: Processing FID 147451216 (Chickenthigh), Cycle 1/10
+2025-06-01 17:09:10,206 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 147451216.
+2025-06-01 17:09:10,206 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 147451216
+2025-06-01 17:09:10,958 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 147451216. Status: SUCCESS, Duration: 1.609s
+2025-06-01 17:09:10,958 - gift_ops - INFO - GiftOps: Final status for FID 147451216 / Code 'RowYourBoat': SUCCESS
+2025-06-01 17:09:11,390 - gift_ops - INFO - GiftOps: Processing FID 148500027 (orz), Cycle 1/10
+2025-06-01 17:09:13,484 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 148500027.
+2025-06-01 17:09:13,484 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 148500027
+2025-06-01 17:09:14,591 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 148500027. Status: SUCCESS, Duration: 2.312s
+2025-06-01 17:09:14,591 - gift_ops - INFO - GiftOps: Final status for FID 148500027 / Code 'RowYourBoat': SUCCESS
+2025-06-01 17:09:14,591 - gift_ops - INFO - GiftOps: Processing FID 148770136 (Moshi), Cycle 1/10
+2025-06-01 17:09:18,697 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 148770136.
+2025-06-01 17:09:18,697 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 148770136
+2025-06-01 17:09:19,115 - gift_ops - INFO - GiftOps: Attempt 2/4 to fetch/solve captcha for FID 148770136
+2025-06-01 17:09:19,809 - gift_ops - INFO - GiftOps: CAPTCHA_INVALID for FID 148770136 on attempt 2. Retrying fetch/solve...
+2025-06-01 17:09:21,851 - gift_ops - INFO - GiftOps: Attempt 3/4 to fetch/solve captcha for FID 148770136
+2025-06-01 17:09:23,044 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 148770136. Status: SUCCESS, Duration: 7.200s
+2025-06-01 17:09:23,044 - gift_ops - INFO - GiftOps: Final status for FID 148770136 / Code 'RowYourBoat': SUCCESS
+2025-06-01 17:09:23,532 - gift_ops - INFO - GiftOps: Processing FID 149434074 (꧁༒༺MrツCสrl༻༒꧂), Cycle 1/10
+2025-06-01 17:09:25,725 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 149434074.
+2025-06-01 17:09:25,726 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 149434074
+2025-06-01 17:09:26,904 - gift_ops - INFO - GiftOps: CAPTCHA_INVALID for FID 149434074 on attempt 1. Retrying fetch/solve...
+2025-06-01 17:09:29,002 - gift_ops - INFO - GiftOps: Attempt 2/4 to fetch/solve captcha for FID 149434074
+2025-06-01 17:09:29,875 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 149434074. Status: SUCCESS, Duration: 5.307s
+2025-06-01 17:09:29,876 - gift_ops - INFO - GiftOps: Final status for FID 149434074 / Code 'RowYourBoat': SUCCESS
+2025-06-01 17:09:30,340 - gift_ops - INFO - GiftOps: Processing FID 149696111 (Menz), Cycle 1/10
+2025-06-01 17:09:32,544 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 149696111.
+2025-06-01 17:09:32,545 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 149696111
+2025-06-01 17:09:33,407 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 149696111. Status: SUCCESS, Duration: 2.324s
+2025-06-01 17:09:33,407 - gift_ops - INFO - GiftOps: Final status for FID 149696111 / Code 'RowYourBoat': SUCCESS
+2025-06-01 17:09:33,407 - gift_ops - INFO - GiftOps: Processing FID 150173161 (rona), Cycle 1/10
+2025-06-01 17:09:35,846 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 150173161.
+2025-06-01 17:09:35,846 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 150173161
+2025-06-01 17:09:36,584 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 150173161. Status: SUCCESS, Duration: 2.090s
+2025-06-01 17:09:36,585 - gift_ops - INFO - GiftOps: Final status for FID 150173161 / Code 'RowYourBoat': SUCCESS
+2025-06-01 17:09:36,982 - gift_ops - INFO - GiftOps: Processing FID 150547737 (Marvel), Cycle 1/10
+2025-06-01 17:09:38,913 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 150547737.
+2025-06-01 17:09:38,913 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 150547737
+2025-06-01 17:09:39,594 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 150547737. Status: SUCCESS, Duration: 1.602s
+2025-06-01 17:09:39,594 - gift_ops - INFO - GiftOps: Final status for FID 150547737 / Code 'RowYourBoat': SUCCESS
+2025-06-01 17:09:39,595 - gift_ops - INFO - GiftOps: Processing FID 150695633 (BugsBunny), Cycle 1/10
+2025-06-01 17:09:41,346 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 150695633.
+2025-06-01 17:09:41,346 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 150695633
+2025-06-01 17:09:42,330 - gift_ops - INFO - GiftOps: CAPTCHA_INVALID for FID 150695633 on attempt 1. Retrying fetch/solve...
+2025-06-01 17:09:44,145 - gift_ops - INFO - GiftOps: Attempt 2/4 to fetch/solve captcha for FID 150695633
+2025-06-01 17:09:45,079 - gift_ops - INFO - GiftOps: CAPTCHA_INVALID for FID 150695633 on attempt 2. Retrying fetch/solve...
+2025-06-01 17:09:46,931 - gift_ops - INFO - GiftOps: Attempt 3/4 to fetch/solve captcha for FID 150695633
+2025-06-01 17:09:48,044 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 150695633. Status: SUCCESS, Duration: 7.611s
+2025-06-01 17:09:48,044 - gift_ops - INFO - GiftOps: Final status for FID 150695633 / Code 'RowYourBoat': SUCCESS
+2025-06-01 17:09:48,540 - gift_ops - INFO - GiftOps: Processing FID 151005608 (Dhimant_Boricha), Cycle 1/10
+2025-06-01 17:09:50,708 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 151005608.
+2025-06-01 17:09:50,708 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 151005608
+2025-06-01 17:09:51,977 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 151005608. Status: SUCCESS, Duration: 2.210s
+2025-06-01 17:09:51,977 - gift_ops - INFO - GiftOps: Final status for FID 151005608 / Code 'RowYourBoat': SUCCESS
+2025-06-01 17:09:51,977 - gift_ops - INFO - GiftOps: Processing FID 151191538 (Logan!), Cycle 1/10
+2025-06-01 17:09:54,179 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 151191538.
+2025-06-01 17:09:54,179 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 151191538
+2025-06-01 17:09:54,916 - gift_ops - INFO - GiftOps: CAPTCHA_INVALID for FID 151191538 on attempt 1. Retrying fetch/solve...
+2025-06-01 17:09:56,920 - gift_ops - INFO - GiftOps: Attempt 2/4 to fetch/solve captcha for FID 151191538
+2025-06-01 17:09:57,705 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 151191538. Status: SUCCESS, Duration: 4.526s
+2025-06-01 17:09:57,705 - gift_ops - INFO - GiftOps: Final status for FID 151191538 / Code 'RowYourBoat': SUCCESS
+2025-06-01 17:09:58,345 - gift_ops - INFO - GiftOps: Processing FID 151641886 (Lord of Thunder), Cycle 1/10
+2025-06-01 17:10:00,783 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 151641886.
+2025-06-01 17:10:00,783 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 151641886
+2025-06-01 17:10:01,595 - gift_ops - INFO - GiftOps: CAPTCHA_INVALID for FID 151641886 on attempt 1. Retrying fetch/solve...
+2025-06-01 17:10:03,325 - gift_ops - INFO - GiftOps: Attempt 2/4 to fetch/solve captcha for FID 151641886
+2025-06-01 17:10:04,022 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 151641886. Status: SUCCESS, Duration: 4.580s
+2025-06-01 17:10:04,022 - gift_ops - INFO - GiftOps: Final status for FID 151641886 / Code 'RowYourBoat': SUCCESS
+2025-06-01 17:10:04,458 - gift_ops - INFO - GiftOps: Processing FID 151879543 (LordHadrien), Cycle 1/10
+2025-06-01 17:10:06,311 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 151879543.
+2025-06-01 17:10:06,313 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 151879543
+2025-06-01 17:10:06,966 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 151879543. Status: SUCCESS, Duration: 1.527s
+2025-06-01 17:10:06,966 - gift_ops - INFO - GiftOps: Final status for FID 151879543 / Code 'RowYourBoat': SUCCESS
+2025-06-01 17:10:06,967 - gift_ops - INFO - GiftOps: Processing FID 152239976 (Nezukoo), Cycle 1/10
+2025-06-01 17:10:08,971 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 152239976.
+2025-06-01 17:10:08,972 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 152239976
+2025-06-01 17:10:09,843 - gift_ops - INFO - GiftOps: CAPTCHA_INVALID for FID 152239976 on attempt 1. Retrying fetch/solve...
+2025-06-01 17:10:11,423 - gift_ops - INFO - GiftOps: Attempt 2/4 to fetch/solve captcha for FID 152239976
+2025-06-01 17:10:12,508 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 152239976. Status: SUCCESS, Duration: 4.374s
+2025-06-01 17:10:12,508 - gift_ops - INFO - GiftOps: Final status for FID 152239976 / Code 'RowYourBoat': SUCCESS
+2025-06-01 17:10:12,924 - gift_ops - INFO - GiftOps: Processing FID 152518509 (Sysy), Cycle 1/10
+2025-06-01 17:10:18,600 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 152518509.
+2025-06-01 17:10:18,600 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 152518509
+2025-06-01 17:10:19,534 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 152518509. Status: SUCCESS, Duration: 5.646s
+2025-06-01 17:10:19,534 - gift_ops - INFO - GiftOps: Final status for FID 152518509 / Code 'RowYourBoat': SUCCESS
+2025-06-01 17:10:19,973 - gift_ops - INFO - GiftOps: Processing FID 152534925 (༺ﮩ٨ـﮩTürkﮩ٨ـﮩ༻), Cycle 1/10
+2025-06-01 17:10:23,077 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 152534925.
+2025-06-01 17:10:23,077 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 152534925
+2025-06-01 17:10:23,819 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 152534925. Status: SUCCESS, Duration: 2.624s
+2025-06-01 17:10:23,819 - gift_ops - INFO - GiftOps: Final status for FID 152534925 / Code 'RowYourBoat': SUCCESS
+2025-06-01 17:10:23,820 - gift_ops - INFO - GiftOps: Processing FID 152581570 (Liñda), Cycle 1/10
+2025-06-01 17:10:25,873 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 152581570.
+2025-06-01 17:10:25,873 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 152581570
+2025-06-01 17:10:26,236 - gift_ops - INFO - GiftOps: Attempt 2/4 to fetch/solve captcha for FID 152581570
+2025-06-01 17:10:26,885 - gift_ops - INFO - GiftOps: CAPTCHA_INVALID for FID 152581570 on attempt 2. Retrying fetch/solve...
+2025-06-01 17:10:29,321 - gift_ops - INFO - GiftOps: Attempt 3/4 to fetch/solve captcha for FID 152581570
+2025-06-01 17:10:30,044 - gift_ops - INFO - GiftOps: CAPTCHA_INVALID for FID 152581570 on attempt 3. Retrying fetch/solve...
+2025-06-01 17:10:32,277 - gift_ops - INFO - GiftOps: Attempt 4/4 to fetch/solve captcha for FID 152581570
+2025-06-01 17:10:32,979 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 152581570. Status: RECEIVED, Duration: 8.173s
+2025-06-01 17:10:32,979 - gift_ops - INFO - GiftOps: Final status for FID 152581570 / Code 'RowYourBoat': RECEIVED
+2025-06-01 17:10:33,411 - gift_ops - INFO - GiftOps: Processing FID 153075669 (@bidusse), Cycle 1/10
+2025-06-01 17:10:35,541 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 153075669.
+2025-06-01 17:10:35,541 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 153075669
+2025-06-01 17:10:36,220 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 153075669. Status: SUCCESS, Duration: 1.580s
+2025-06-01 17:10:36,220 - gift_ops - INFO - GiftOps: Final status for FID 153075669 / Code 'RowYourBoat': SUCCESS
+2025-06-01 17:10:36,220 - gift_ops - INFO - GiftOps: Processing FID 153125988 (MonAmi), Cycle 1/10
+2025-06-01 17:10:37,903 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 153125988.
+2025-06-01 17:10:37,903 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 153125988
+2025-06-01 17:10:38,521 - gift_ops - INFO - GiftOps: CAPTCHA_INVALID for FID 153125988 on attempt 1. Retrying fetch/solve...
+2025-06-01 17:10:40,889 - gift_ops - INFO - GiftOps: Attempt 2/4 to fetch/solve captcha for FID 153125988
+2025-06-01 17:10:41,528 - gift_ops - INFO - GiftOps: CAPTCHA_INVALID for FID 153125988 on attempt 2. Retrying fetch/solve...
+2025-06-01 17:10:43,608 - gift_ops - INFO - GiftOps: Attempt 3/4 to fetch/solve captcha for FID 153125988
+2025-06-01 17:10:44,281 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 153125988. Status: SUCCESS, Duration: 7.291s
+2025-06-01 17:10:44,281 - gift_ops - INFO - GiftOps: Final status for FID 153125988 / Code 'RowYourBoat': SUCCESS
+2025-06-01 17:10:44,658 - gift_ops - INFO - GiftOps: Processing FID 153386918 (黑狗兄), Cycle 1/10
+2025-06-01 17:10:46,525 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 153386918.
+2025-06-01 17:10:46,525 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 153386918
+2025-06-01 17:10:47,594 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 153386918. Status: SUCCESS, Duration: 2.183s
+2025-06-01 17:10:47,594 - gift_ops - INFO - GiftOps: Final status for FID 153386918 / Code 'RowYourBoat': SUCCESS
+2025-06-01 17:10:47,595 - gift_ops - INFO - GiftOps: Processing FID 153436146 (갈간이), Cycle 1/10
+2025-06-01 17:10:52,413 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 153436146.
+2025-06-01 17:10:52,413 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 153436146
+2025-06-01 17:10:52,754 - gift_ops - INFO - GiftOps: Attempt 2/4 to fetch/solve captcha for FID 153436146
+2025-06-01 17:10:53,517 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 153436146. Status: SUCCESS, Duration: 5.063s
+2025-06-01 17:10:53,517 - gift_ops - INFO - GiftOps: Final status for FID 153436146 / Code 'RowYourBoat': SUCCESS
+2025-06-01 17:10:53,925 - gift_ops - INFO - GiftOps: Processing FID 153994513 (Vit), Cycle 1/10
+2025-06-01 17:10:55,662 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 153994513.
+2025-06-01 17:10:55,662 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 153994513
+2025-06-01 17:10:56,109 - gift_ops - INFO - GiftOps: Attempt 2/4 to fetch/solve captcha for FID 153994513
+2025-06-01 17:10:56,821 - gift_ops - INFO - GiftOps: CAPTCHA_INVALID for FID 153994513 on attempt 2. Retrying fetch/solve...
+2025-06-01 17:10:59,318 - gift_ops - INFO - GiftOps: Attempt 3/4 to fetch/solve captcha for FID 153994513
+2025-06-01 17:10:59,966 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 153994513. Status: RECEIVED, Duration: 5.320s
+2025-06-01 17:10:59,966 - gift_ops - INFO - GiftOps: Final status for FID 153994513 / Code 'RowYourBoat': RECEIVED
+2025-06-01 17:11:00,422 - gift_ops - INFO - GiftOps: Processing FID 154222449 (linkyparky), Cycle 1/10
+2025-06-01 17:11:05,476 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 154222449.
+2025-06-01 17:11:05,476 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 154222449
+2025-06-01 17:11:06,130 - gift_ops - INFO - GiftOps: CAPTCHA_INVALID for FID 154222449 on attempt 1. Retrying fetch/solve...
+2025-06-01 17:11:07,670 - gift_ops - INFO - GiftOps: Attempt 2/4 to fetch/solve captcha for FID 154222449
+2025-06-01 17:11:08,131 - gift_ops - INFO - GiftOps: Attempt 3/4 to fetch/solve captcha for FID 154222449
+2025-06-01 17:11:08,859 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 154222449. Status: SUCCESS, Duration: 7.536s
+2025-06-01 17:11:08,859 - gift_ops - INFO - GiftOps: Final status for FID 154222449 / Code 'RowYourBoat': SUCCESS
+2025-06-01 17:11:10,048 - gift_ops - INFO - GiftOps: Processing FID 154550150 (KristijanZrinski), Cycle 1/10
+2025-06-01 17:11:11,676 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 154550150.
+2025-06-01 17:11:11,676 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 154550150
+2025-06-01 17:11:12,335 - gift_ops - INFO - GiftOps: CAPTCHA_INVALID for FID 154550150 on attempt 1. Retrying fetch/solve...
+2025-06-01 17:11:14,667 - gift_ops - INFO - GiftOps: Attempt 2/4 to fetch/solve captcha for FID 154550150
+2025-06-01 17:11:15,713 - gift_ops - INFO - GiftOps: CAPTCHA_INVALID for FID 154550150 on attempt 2. Retrying fetch/solve...
+2025-06-01 17:11:17,718 - gift_ops - INFO - GiftOps: Attempt 3/4 to fetch/solve captcha for FID 154550150
+2025-06-01 17:11:18,451 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 154550150. Status: SUCCESS, Duration: 7.686s
+2025-06-01 17:11:18,451 - gift_ops - INFO - GiftOps: Final status for FID 154550150 / Code 'RowYourBoat': SUCCESS
+2025-06-01 17:11:18,834 - gift_ops - INFO - GiftOps: Processing FID 154986624 (Kimmie), Cycle 1/10
+2025-06-01 17:11:21,466 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 154986624.
+2025-06-01 17:11:21,466 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 154986624
+2025-06-01 17:11:21,841 - gift_ops - INFO - GiftOps: Attempt 2/4 to fetch/solve captcha for FID 154986624
+2025-06-01 17:11:22,493 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 154986624. Status: SUCCESS, Duration: 2.553s
+2025-06-01 17:11:22,493 - gift_ops - INFO - GiftOps: Final status for FID 154986624 / Code 'RowYourBoat': SUCCESS
+2025-06-01 17:11:22,493 - gift_ops - INFO - GiftOps: Processing FID 155123629 (Firewitch), Cycle 1/10
+2025-06-01 17:11:24,623 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 155123629.
+2025-06-01 17:11:24,623 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 155123629
+2025-06-01 17:11:25,036 - gift_ops - INFO - GiftOps: Attempt 2/4 to fetch/solve captcha for FID 155123629
+2025-06-01 17:11:25,431 - gift_ops - INFO - GiftOps: Attempt 3/4 to fetch/solve captcha for FID 155123629
+2025-06-01 17:11:26,153 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 155123629. Status: SUCCESS, Duration: 2.937s
+2025-06-01 17:11:26,153 - gift_ops - INFO - GiftOps: Final status for FID 155123629 / Code 'RowYourBoat': SUCCESS
+2025-06-01 17:11:26,672 - gift_ops - INFO - GiftOps: Processing FID 155304312 (小茜茜), Cycle 1/10
+2025-06-01 17:11:28,763 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 155304312.
+2025-06-01 17:11:28,763 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 155304312
+2025-06-01 17:11:29,439 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 155304312. Status: SUCCESS, Duration: 1.687s
+2025-06-01 17:11:29,440 - gift_ops - INFO - GiftOps: Final status for FID 155304312 / Code 'RowYourBoat': SUCCESS
+2025-06-01 17:11:29,440 - gift_ops - INFO - GiftOps: Processing FID 155324906 (༒۝ ĎϒŞŞÝѦ ۝༒), Cycle 1/10
+2025-06-01 17:11:31,623 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 155324906.
+2025-06-01 17:11:31,624 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 155324906
+2025-06-01 17:11:32,294 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 155324906. Status: SUCCESS, Duration: 1.643s
+2025-06-01 17:11:32,294 - gift_ops - INFO - GiftOps: Final status for FID 155324906 / Code 'RowYourBoat': SUCCESS
+2025-06-01 17:11:32,728 - gift_ops - INFO - GiftOps: Processing FID 155451415 (yasin), Cycle 1/10
+2025-06-01 17:11:34,701 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 155451415.
+2025-06-01 17:11:34,701 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 155451415
+2025-06-01 17:11:35,615 - gift_ops - INFO - GiftOps: CAPTCHA_INVALID for FID 155451415 on attempt 1. Retrying fetch/solve...
+2025-06-01 17:11:37,402 - gift_ops - INFO - GiftOps: Attempt 2/4 to fetch/solve captcha for FID 155451415
+2025-06-01 17:11:38,328 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 155451415. Status: SUCCESS, Duration: 4.572s
+2025-06-01 17:11:38,328 - gift_ops - INFO - GiftOps: Final status for FID 155451415 / Code 'RowYourBoat': SUCCESS
+2025-06-01 17:11:38,747 - gift_ops - INFO - GiftOps: Processing FID 155566396 (Hossam), Cycle 1/10
+2025-06-01 17:11:40,543 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 155566396.
+2025-06-01 17:11:40,543 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 155566396
+2025-06-01 17:11:41,382 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 155566396. Status: SUCCESS, Duration: 1.770s
+2025-06-01 17:11:41,382 - gift_ops - INFO - GiftOps: Final status for FID 155566396 / Code 'RowYourBoat': SUCCESS
+2025-06-01 17:11:41,382 - gift_ops - INFO - GiftOps: Processing FID 155566479 (Just Jess), Cycle 1/10
+2025-06-01 17:11:43,144 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 155566479.
+2025-06-01 17:11:43,145 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 155566479
+2025-06-01 17:11:43,490 - gift_ops - INFO - GiftOps: Attempt 2/4 to fetch/solve captcha for FID 155566479
+2025-06-01 17:11:44,530 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 155566479. Status: SUCCESS, Duration: 2.270s
+2025-06-01 17:11:44,531 - gift_ops - INFO - GiftOps: Final status for FID 155566479 / Code 'RowYourBoat': SUCCESS
+2025-06-01 17:11:46,538 - gift_ops - INFO - GiftOps: Processing FID 156025089 (MechaGodzilla), Cycle 1/10
+2025-06-01 17:11:48,757 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 156025089.
+2025-06-01 17:11:48,758 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 156025089
+2025-06-01 17:11:49,490 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 156025089. Status: SUCCESS, Duration: 1.853s
+2025-06-01 17:11:49,490 - gift_ops - INFO - GiftOps: Final status for FID 156025089 / Code 'RowYourBoat': SUCCESS
+2025-06-01 17:11:49,490 - gift_ops - INFO - GiftOps: Processing FID 156958825 (Latess), Cycle 1/10
+2025-06-01 17:11:52,522 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 156958825.
+2025-06-01 17:11:52,522 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 156958825
+2025-06-01 17:11:54,126 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 156958825. Status: SUCCESS, Duration: 3.559s
+2025-06-01 17:11:54,126 - gift_ops - INFO - GiftOps: Final status for FID 156958825 / Code 'RowYourBoat': SUCCESS
+2025-06-01 17:11:54,606 - gift_ops - INFO - GiftOps: Processing FID 157204806 (ᵒˢᵃᵐᵃ ʸᵉᵐᵉᶰ ᴶᵉᶠᶠ), Cycle 1/10
+2025-06-01 17:11:56,829 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 157204806.
+2025-06-01 17:11:56,829 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 157204806
+2025-06-01 17:11:58,093 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 157204806. Status: SUCCESS, Duration: 2.722s
+2025-06-01 17:11:58,093 - gift_ops - INFO - GiftOps: Final status for FID 157204806 / Code 'RowYourBoat': SUCCESS
+2025-06-01 17:11:58,093 - gift_ops - INFO - GiftOps: Processing FID 157354827 (Azka~), Cycle 1/10
+2025-06-01 17:11:59,988 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 157354827.
+2025-06-01 17:11:59,989 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 157354827
+2025-06-01 17:12:00,863 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 157354827. Status: RECEIVED, Duration: 1.963s
+2025-06-01 17:12:00,863 - gift_ops - INFO - GiftOps: Final status for FID 157354827 / Code 'RowYourBoat': RECEIVED
+2025-06-01 17:12:01,507 - gift_ops - INFO - GiftOps: Processing FID 157500260 (W_Riz_004), Cycle 1/10
+2025-06-01 17:12:03,222 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 157500260.
+2025-06-01 17:12:03,222 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 157500260
+2025-06-01 17:12:03,864 - gift_ops - INFO - GiftOps: CAPTCHA_INVALID for FID 157500260 on attempt 1. Retrying fetch/solve...
+2025-06-01 17:12:06,158 - gift_ops - INFO - GiftOps: Attempt 2/4 to fetch/solve captcha for FID 157500260
+2025-06-01 17:12:06,901 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 157500260. Status: SUCCESS, Duration: 4.571s
+2025-06-01 17:12:06,901 - gift_ops - INFO - GiftOps: Final status for FID 157500260 / Code 'RowYourBoat': SUCCESS
+2025-06-01 17:12:07,327 - gift_ops - INFO - GiftOps: Processing FID 157515800 (Wolverine), Cycle 1/10
+2025-06-01 17:12:09,354 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 157515800.
+2025-06-01 17:12:09,354 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 157515800
+2025-06-01 17:12:09,716 - gift_ops - INFO - GiftOps: Attempt 2/4 to fetch/solve captcha for FID 157515800
+2025-06-01 17:12:10,044 - gift_ops - INFO - GiftOps: Attempt 3/4 to fetch/solve captcha for FID 157515800
+2025-06-01 17:12:10,746 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 157515800. Status: SUCCESS, Duration: 2.280s
+2025-06-01 17:12:10,746 - gift_ops - INFO - GiftOps: Final status for FID 157515800 / Code 'RowYourBoat': SUCCESS
+2025-06-01 17:12:10,746 - gift_ops - INFO - GiftOps: Processing FID 157778293 (Blanks ᴾˣᵂ), Cycle 1/10
+2025-06-01 17:12:12,405 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 157778293.
+2025-06-01 17:12:12,406 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 157778293
+2025-06-01 17:12:13,086 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 157778293. Status: SUCCESS, Duration: 1.595s
+2025-06-01 17:12:13,086 - gift_ops - INFO - GiftOps: Final status for FID 157778293 / Code 'RowYourBoat': SUCCESS
+2025-06-01 17:12:13,481 - gift_ops - INFO - GiftOps: Processing FID 157794405 (Morvë Lys), Cycle 1/10
+2025-06-01 17:12:16,209 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 157794405.
+2025-06-01 17:12:16,210 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 157794405
+2025-06-01 17:12:16,896 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 157794405. Status: SUCCESS, Duration: 2.168s
+2025-06-01 17:12:16,896 - gift_ops - INFO - GiftOps: Final status for FID 157794405 / Code 'RowYourBoat': SUCCESS
+2025-06-01 17:12:16,897 - gift_ops - INFO - GiftOps: Processing FID 157991083 (ᴊ ᴇ s s ɪ ᴇ ~), Cycle 1/10
+2025-06-01 17:12:18,787 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 157991083.
+2025-06-01 17:12:18,788 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 157991083
+2025-06-01 17:12:19,314 - gift_ops - INFO - GiftOps: Attempt 2/4 to fetch/solve captcha for FID 157991083
+2025-06-01 17:12:20,066 - gift_ops - INFO - GiftOps: CAPTCHA_INVALID for FID 157991083 on attempt 2. Retrying fetch/solve...
+2025-06-01 17:12:21,630 - gift_ops - INFO - GiftOps: Attempt 3/4 to fetch/solve captcha for FID 157991083
+2025-06-01 17:12:21,960 - gift_ops - INFO - GiftOps: Attempt 4/4 to fetch/solve captcha for FID 157991083
+2025-06-01 17:12:22,299 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 157991083. Status: MAX_CAPTCHA_ATTEMPTS_REACHED, Duration: 4.486s
+2025-06-01 17:12:22,300 - gift_ops - INFO - GiftOps: Final status for FID 157991083 / Code 'RowYourBoat': MAX_CAPTCHA_ATTEMPTS_REACHED
+2025-06-01 17:12:22,300 - gift_ops - INFO - GiftOps: FID 157991083 failed captcha cycle 1. Queuing for retry cycle 2 in 60.0s.
+2025-06-01 17:12:22,698 - gift_ops - INFO - GiftOps: Processing FID 158155130 (PISTOLA), Cycle 1/10
+2025-06-01 17:12:24,740 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 158155130.
+2025-06-01 17:12:24,740 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 158155130
+2025-06-01 17:12:25,419 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 158155130. Status: SUCCESS, Duration: 1.633s
+2025-06-01 17:12:25,419 - gift_ops - INFO - GiftOps: Final status for FID 158155130 / Code 'RowYourBoat': SUCCESS
+2025-06-01 17:12:25,419 - gift_ops - INFO - GiftOps: Processing FID 158518860 (Lone Wolf), Cycle 1/10
+2025-06-01 17:12:27,247 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 158518860.
+2025-06-01 17:12:27,247 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 158518860
+2025-06-01 17:12:27,914 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 158518860. Status: SUCCESS, Duration: 1.580s
+2025-06-01 17:12:27,915 - gift_ops - INFO - GiftOps: Final status for FID 158518860 / Code 'RowYourBoat': SUCCESS
+2025-06-01 17:12:28,391 - gift_ops - INFO - GiftOps: Processing FID 158810301 (Lord Kağan), Cycle 1/10
+2025-06-01 17:12:30,897 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 158810301.
+2025-06-01 17:12:30,897 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 158810301
+2025-06-01 17:12:32,166 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 158810301. Status: SUCCESS, Duration: 2.519s
+2025-06-01 17:12:32,166 - gift_ops - INFO - GiftOps: Final status for FID 158810301 / Code 'RowYourBoat': SUCCESS
+2025-06-01 17:12:32,166 - gift_ops - INFO - GiftOps: Processing FID 158892149 (Nikkiᴾˣᵂ), Cycle 1/10
+2025-06-01 17:12:37,406 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 158892149.
+2025-06-01 17:12:37,406 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 158892149
+2025-06-01 17:12:38,114 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 158892149. Status: SUCCESS, Duration: 4.640s
+2025-06-01 17:12:38,114 - gift_ops - INFO - GiftOps: Final status for FID 158892149 / Code 'RowYourBoat': SUCCESS
+2025-06-01 17:12:38,550 - gift_ops - INFO - GiftOps: Processing FID 158908605 (carpio), Cycle 1/10
+2025-06-01 17:12:40,400 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 158908605.
+2025-06-01 17:12:40,400 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 158908605
+2025-06-01 17:12:40,736 - gift_ops - INFO - GiftOps: Attempt 2/4 to fetch/solve captcha for FID 158908605
+2025-06-01 17:12:41,580 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 158908605. Status: SUCCESS, Duration: 2.269s
+2025-06-01 17:12:41,580 - gift_ops - INFO - GiftOps: Final status for FID 158908605 / Code 'RowYourBoat': SUCCESS
+2025-06-01 17:12:41,580 - gift_ops - INFO - GiftOps: Processing FID 159350797 (McMace), Cycle 1/10
+2025-06-01 17:12:50,481 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 159350797.
+2025-06-01 17:12:50,481 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 159350797
+2025-06-01 17:12:51,669 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 159350797. Status: SUCCESS, Duration: 9.366s
+2025-06-01 17:12:51,669 - gift_ops - INFO - GiftOps: Final status for FID 159350797 / Code 'RowYourBoat': SUCCESS
+2025-06-01 17:12:52,144 - gift_ops - INFO - GiftOps: Processing FID 160112192 (420Dmoney1982), Cycle 1/10
+2025-06-01 17:12:55,156 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 160112192.
+2025-06-01 17:12:55,156 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 160112192
+2025-06-01 17:12:55,621 - gift_ops - INFO - GiftOps: Attempt 2/4 to fetch/solve captcha for FID 160112192
+2025-06-01 17:12:56,293 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 160112192. Status: SUCCESS, Duration: 3.015s
+2025-06-01 17:12:56,293 - gift_ops - INFO - GiftOps: Final status for FID 160112192 / Code 'RowYourBoat': SUCCESS
+2025-06-01 17:12:56,293 - gift_ops - INFO - GiftOps: Processing FID 165270329 (Duck Plug), Cycle 1/10
+2025-06-01 17:12:59,595 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 165270329.
+2025-06-01 17:12:59,595 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 165270329
+2025-06-01 17:13:00,316 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 165270329. Status: SUCCESS, Duration: 2.968s
+2025-06-01 17:13:00,316 - gift_ops - INFO - GiftOps: Final status for FID 165270329 / Code 'RowYourBoat': SUCCESS
+2025-06-01 17:13:00,742 - gift_ops - INFO - GiftOps: Processing FID 197605525 (FιʂԋAɳԃCԋιρʂ), Cycle 1/10
+2025-06-01 17:13:02,586 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 197605525.
+2025-06-01 17:13:02,586 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 197605525
+2025-06-01 17:13:03,242 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 197605525. Status: SUCCESS, Duration: 1.580s
+2025-06-01 17:13:03,242 - gift_ops - INFO - GiftOps: Final status for FID 197605525 / Code 'RowYourBoat': SUCCESS
+2025-06-01 17:13:03,243 - gift_ops - INFO - GiftOps: Processing FID 214793760 (King H0rus), Cycle 1/10
+2025-06-01 17:13:05,710 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 214793760.
+2025-06-01 17:13:05,710 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 214793760
+2025-06-01 17:13:06,374 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 214793760. Status: SUCCESS, Duration: 1.956s
+2025-06-01 17:13:06,374 - gift_ops - INFO - GiftOps: Final status for FID 214793760 / Code 'RowYourBoat': SUCCESS
+2025-06-01 17:13:06,968 - gift_ops - INFO - GiftOps: Processing FID 232308131 (icy~), Cycle 1/10
+2025-06-01 17:13:09,102 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 232308131.
+2025-06-01 17:13:09,104 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 232308131
+2025-06-01 17:13:10,203 - gift_ops - INFO - GiftOps: CAPTCHA_INVALID for FID 232308131 on attempt 1. Retrying fetch/solve...
+2025-06-01 17:13:10,204 - gift_ops - INFO - 
+GiftOps: check_channels_loop running at 2025-06-01 17:13:10
+2025-06-01 17:13:11,988 - gift_ops - INFO - GiftOps: Attempt 2/4 to fetch/solve captcha for FID 232308131
+2025-06-01 17:13:12,738 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 232308131. Status: SUCCESS, Duration: 4.856s
+2025-06-01 17:13:12,738 - gift_ops - INFO - GiftOps: Final status for FID 232308131 / Code 'RowYourBoat': SUCCESS
+2025-06-01 17:13:13,148 - gift_ops - INFO - GiftOps: Processing FID 468739286 (FrankenWeenie), Cycle 1/10
+2025-06-01 17:13:15,178 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 468739286.
+2025-06-01 17:13:15,179 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 468739286
+2025-06-01 17:13:15,892 - gift_ops - INFO - GiftOps: CAPTCHA_INVALID for FID 468739286 on attempt 1. Retrying fetch/solve...
+2025-06-01 17:13:17,789 - gift_ops - INFO - GiftOps: Attempt 2/4 to fetch/solve captcha for FID 468739286
+2025-06-01 17:13:19,145 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 468739286. Status: SUCCESS, Duration: 5.139s
+2025-06-01 17:13:19,145 - gift_ops - INFO - GiftOps: Final status for FID 468739286 / Code 'RowYourBoat': SUCCESS
+2025-06-01 17:13:22,305 - gift_ops - INFO - GiftOps: Processing FID 157991083 (ᴊ ᴇ s s ɪ ᴇ ~), Cycle 2/10
+2025-06-01 17:13:23,955 - gift_ops - INFO - GiftOps: OCR enabled and solver initialized for FID 157991083.
+2025-06-01 17:13:23,955 - gift_ops - INFO - GiftOps: Attempt 1/4 to fetch/solve captcha for FID 157991083
+2025-06-01 17:13:24,247 - gift_ops - INFO - GiftOps: Attempt 2/4 to fetch/solve captcha for FID 157991083
+2025-06-01 17:13:24,990 - gift_ops - INFO - GiftOps: claim_giftcode_rewards_wos completed for FID 157991083. Status: RECEIVED, Duration: 1.809s
+2025-06-01 17:13:24,990 - gift_ops - INFO - GiftOps: Final status for FID 157991083 / Code 'RowYourBoat': RECEIVED
+2025-06-01 17:13:25,446 - gift_ops - INFO - GiftOps: Alliance 1 processing loop finished. Preparing final update.
+2025-06-01 17:13:25,830 - gift_ops - INFO - GiftOps: Successfully edited final status embed for alliance 1.
+2025-06-01 17:13:25,830 - gift_ops - INFO - 
+
+--- Redemption Summary Start ---
+Alliance: PXW (1)
+Gift Code: RowYourBoat
+Master Code Status at Log Time: validated
+Run Time: 2025-06-01 17:13:25
+------------------------
+Total Members: 95
+Successful: 60
+Already Redeemed: 35
+Failed: 0
+------------------------
+
+Successful Users (60):
+Alshekh
+Nabil
+3SJX
+محمد ö
+HoCiNe 父
+IAmNr3
+ڣڗٵ̍؏ジ
+X̌ŜTĖVẸ
+Beth Dutton
+konkedo
+Romme
+FrostDogeThe1st
+Taz
+Chickenthigh
+orz
+Moshi
+꧁༒༺MrツCสrl༻༒꧂
+Menz
+rona
+Marvel
+BugsBunny
+Dhimant_Boricha
+Logan!
+Lord of Thunder
+LordHadrien
+Nezukoo
+Sysy
+༺ﮩ٨ـﮩTürkﮩ٨ـﮩ༻
+@bidusse
+MonAmi
+黑狗兄
+갈간이
+linkyparky
+KristijanZrinski
+Kimmie
+Firewitch
+小茜茜
+༒۝ ĎϒŞŞÝѦ ۝༒
+yasin
+Hossam
+Just Jess
+MechaGodzilla
+Latess
+ᵒˢᵃᵐᵃ ʸᵉᵐᵉᶰ ᴶᵉᶠᶠ
+W_Riz_004
+Wolverine
+Blanks ᴾˣᵂ
+Morvë Lys
+PISTOLA
+Lone Wolf
+Lord Kağan
+Nikkiᴾˣᵂ
+carpio
+McMace
+420Dmoney1982
+Duck Plug
+FιʂԋAɳԃCԋιρʂ
+King H0rus
+icy~
+FrankenWeenie
+
+Already Redeemed Users (35):
+VamPire
+ⒿⓐⓒⓚⓐⓢⓢⒾⓝⒶⒸⓐⓝ
+Llamaste
+Frankeinsteinᴾˣᵂ
+JääJää
+NameRequired
+Funny BEAST
+QueenVic
+Solo
+Ebar
+Sargnarg
+King Horus
+Wackadoodle
+kominic
+ꉓꍏ꒒ꀤꊼ꓄ꍏ
+ωєη °ᴾˣᵂ°
+queenjulez
+Slayer
+Ｌｏｋｅｓｈ
+Nyx ᴾˣᵂ
+SᴛOʀм °ᴾˣᵂ°
+Lumiere
+ツʟᴏᴋɪ፝֟፝֟ °ᴾˣᵂ
+ᏰᎧᎧ
+Sonic
+SomeBro
+Matron Malice
+~ ᏉᎪᏆᎪᏁᏞᎾᏒᎠ ~
+Abdulrhman pasha
+Baby Nyx
+some guy here
+Liñda
+Vit
+Azka~
+ᴊ ᴇ s s ɪ ᴇ ~
+--- Redemption Summary End ---
+
+2025-06-01 17:16:03,677 - gift_ops - INFO - GiftOperations Cog initializing...
+2025-06-01 17:16:03,702 - gift_ops - INFO - GiftOps __init__: OCR is enabled. Initializing ddddocr solver...
+2025-06-01 17:16:03,783 - gift_ops - INFO - GiftOps __init__: DdddOcr solver initialized successfully.
+2025-06-01 17:18:29,054 - gift_ops - INFO - GiftOperations Cog initializing...
+2025-06-01 17:18:29,079 - gift_ops - INFO - GiftOps __init__: OCR is enabled. Initializing ddddocr solver...
+2025-06-01 17:18:29,156 - gift_ops - INFO - GiftOps __init__: DdddOcr solver initialized successfully.
+2025-06-01 17:18:42,748 - gift_ops - INFO - GiftOps Cog: on_ready triggered.
+2025-06-01 17:18:42,749 - gift_ops - INFO - Checking ocr_settings table schema...
+2025-06-01 17:18:42,750 - gift_ops - INFO - ocr_settings table schema is up to date.
+2025-06-01 17:18:42,751 - gift_ops - INFO - Setting up ocr_settings table (ensuring correct schema)...
+2025-06-01 17:18:42,752 - gift_ops - INFO - ocr_settings table checked/created.
+2025-06-01 17:18:42,753 - gift_ops - INFO - Found 1 existing OCR settings row(s). Using the latest.
+2025-06-01 17:18:42,754 - gift_ops - INFO - Captcha solver was already initialized.
+2025-06-01 17:18:42,755 - gift_ops - INFO - Validating gift code channels...
+2025-06-01 17:18:42,756 - gift_ops - INFO - Found 0 gift code channel configurations in DB.
+2025-06-01 17:18:42,756 - gift_ops - INFO - All configured gift code channels appear valid.
+2025-06-01 17:18:42,757 - gift_ops - INFO - Starting check_channels_loop background task...
+2025-06-01 17:18:42,758 - gift_ops - INFO - check_channels_loop started.
+2025-06-01 17:18:42,758 - gift_ops - INFO - GiftOps Cog: on_ready setup finished successfully.
+2025-06-01 17:18:42,768 - gift_ops - INFO - GiftOps: Waiting for bot to be ready before starting check_channels_loop...
+2025-06-01 17:18:42,769 - gift_ops - INFO - GiftOps: Bot is ready, check_channels_loop starting.
+2025-06-01 17:18:42,770 - gift_ops - INFO - 
+GiftOps: check_channels_loop running at 2025-06-01 17:18:42

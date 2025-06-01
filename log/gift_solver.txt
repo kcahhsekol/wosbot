@@ -1,0 +1,317 @@
+2025-06-01 14:53:32,242 - Initializing DdddOcr...
+2025-06-01 14:53:32,345 - DdddOcr object created. Performing test classification...
+2025-06-01 14:53:32,432 - DdddOcr test classification successful (Result: ''). Initialization complete.
+2025-06-01 14:54:28,296 - Initializing DdddOcr...
+2025-06-01 14:54:28,346 - DdddOcr object created. Performing test classification...
+2025-06-01 14:54:28,365 - DdddOcr test classification successful (Result: ''). Initialization complete.
+2025-06-01 14:55:42,828 - Initializing DdddOcr...
+2025-06-01 14:55:42,880 - DdddOcr object created. Performing test classification...
+2025-06-01 14:55:42,902 - DdddOcr test classification successful (Result: ''). Initialization complete.
+2025-06-01 14:56:01,588 - Initializing DdddOcr...
+2025-06-01 14:56:01,643 - DdddOcr object created. Performing test classification...
+2025-06-01 14:56:01,664 - DdddOcr test classification successful (Result: ''). Initialization complete.
+2025-06-01 14:57:40,413 - Initializing DdddOcr...
+2025-06-01 14:57:40,466 - DdddOcr object created. Performing test classification...
+2025-06-01 14:57:40,487 - DdddOcr test classification successful (Result: ''). Initialization complete.
+2025-06-01 15:09:39,481 - Initializing DdddOcr...
+2025-06-01 15:09:39,532 - DdddOcr object created. Performing test classification...
+2025-06-01 15:09:39,555 - DdddOcr test classification successful (Result: ''). Initialization complete.
+2025-06-01 15:43:03,807 - Initializing DdddOcr...
+2025-06-01 15:43:04,682 - DdddOcr object created. Performing test classification...
+2025-06-01 15:43:04,858 - DdddOcr test classification successful (Result: ''). Initialization complete.
+2025-06-01 15:56:50,747 - [Solver] FID 154124121, Attempt 1: DdddOcr raw result='3cpz' (0.055s)
+2025-06-01 15:56:50,748 - [Solver] FID 154124121, Attempt 1: Success. Solved: 3cpz
+2025-06-01 15:56:53,875 - [Solver] FID 154812262, Attempt 1: DdddOcr raw result='LzHx' (0.029s)
+2025-06-01 15:56:53,875 - [Solver] FID 154812262, Attempt 1: Success. Solved: LzHx
+2025-06-01 15:56:56,976 - [Solver] FID 156467620, Attempt 1: DdddOcr raw result='Vnvu' (0.098s)
+2025-06-01 15:56:56,977 - [Solver] FID 156467620, Attempt 1: Success. Solved: Vnvu
+2025-06-01 15:56:59,664 - [Solver] FID 360951616, Attempt 1: DdddOcr raw result='k9Bc' (0.052s)
+2025-06-01 15:56:59,665 - [Solver] FID 360951616, Attempt 1: Success. Solved: k9Bc
+2025-06-01 16:17:51,299 - [Solver] FID 128547543, Attempt 1: DdddOcr raw result='NLfw' (0.020s)
+2025-06-01 16:17:51,300 - [Solver] FID 128547543, Attempt 1: Success. Solved: NLfw
+2025-06-01 16:17:54,649 - [Solver] FID 147582735, Attempt 1: DdddOcr raw result='v3s4' (0.059s)
+2025-06-01 16:17:54,650 - [Solver] FID 147582735, Attempt 1: Success. Solved: v3s4
+2025-06-01 16:17:58,157 - [Solver] FID 147926399, Attempt 1: DdddOcr raw result='rb2xZ' (0.026s)
+2025-06-01 16:17:58,158 - [Solver] FID 147926399, Attempt 1: Failed validation (Length: 5, Chars OK: True)
+2025-06-01 16:17:58,554 - [Solver] FID 147926399, Attempt 2: DdddOcr raw result='np4n' (0.024s)
+2025-06-01 16:17:58,554 - [Solver] FID 147926399, Attempt 2: Success. Solved: np4n
+2025-06-01 16:18:01,168 - [Solver] FID 148581351, Attempt 1: DdddOcr raw result='IA2E' (0.085s)
+2025-06-01 16:18:01,169 - [Solver] FID 148581351, Attempt 1: Success. Solved: IA2E
+2025-06-01 16:18:04,448 - [Solver] FID 148975338, Attempt 1: DdddOcr raw result='rr72' (0.046s)
+2025-06-01 16:18:04,451 - [Solver] FID 148975338, Attempt 1: Success. Solved: rr72
+2025-06-01 16:18:07,385 - [Solver] FID 149957951, Attempt 1: DdddOcr raw result='npwP' (0.030s)
+2025-06-01 16:18:07,386 - [Solver] FID 149957951, Attempt 1: Success. Solved: npwP
+2025-06-01 16:18:10,555 - [Solver] FID 150498861, Attempt 1: DdddOcr raw result='ushk' (0.076s)
+2025-06-01 16:18:10,556 - [Solver] FID 150498861, Attempt 1: Success. Solved: ushk
+2025-06-01 16:18:13,164 - [Solver] FID 151307367, Attempt 1: DdddOcr raw result='zxdc' (0.083s)
+2025-06-01 16:18:13,164 - [Solver] FID 151307367, Attempt 1: Success. Solved: zxdc
+2025-06-01 16:18:16,367 - [Solver] FID 151356480, Attempt 1: DdddOcr raw result='tgnR' (0.019s)
+2025-06-01 16:18:16,368 - [Solver] FID 151356480, Attempt 1: Success. Solved: tgnR
+2025-06-01 16:18:19,499 - [Solver] FID 151529462, Attempt 1: DdddOcr raw result='fze' (0.077s)
+2025-06-01 16:18:19,500 - [Solver] FID 151529462, Attempt 1: Failed validation (Length: 3, Chars OK: True)
+2025-06-01 16:18:19,847 - [Solver] FID 151529462, Attempt 2: DdddOcr raw result='xumx' (0.025s)
+2025-06-01 16:18:19,848 - [Solver] FID 151529462, Attempt 2: Success. Solved: xumx
+2025-06-01 16:18:22,560 - [Solver] FID 151529462, Attempt 3: DdddOcr raw result='cks9' (0.022s)
+2025-06-01 16:18:22,561 - [Solver] FID 151529462, Attempt 3: Success. Solved: cks9
+2025-06-01 16:18:25,739 - [Solver] FID 151970653, Attempt 1: DdddOcr raw result='c7x2' (0.025s)
+2025-06-01 16:18:25,739 - [Solver] FID 151970653, Attempt 1: Success. Solved: c7x2
+2025-06-01 16:18:27,991 - [Solver] FID 151970653, Attempt 2: DdddOcr raw result='Wmfx' (0.038s)
+2025-06-01 16:18:27,992 - [Solver] FID 151970653, Attempt 2: Success. Solved: Wmfx
+2025-06-01 16:18:30,428 - [Solver] FID 151970653, Attempt 3: DdddOcr raw result='n8nq' (0.023s)
+2025-06-01 16:18:30,429 - [Solver] FID 151970653, Attempt 3: Success. Solved: n8nq
+2025-06-01 16:18:38,012 - [Solver] FID 152430430, Attempt 1: DdddOcr raw result='Geen' (0.049s)
+2025-06-01 16:18:38,012 - [Solver] FID 152430430, Attempt 1: Success. Solved: Geen
+2025-06-01 16:18:41,942 - [Solver] FID 152545632, Attempt 1: DdddOcr raw result='B32T' (0.027s)
+2025-06-01 16:18:41,942 - [Solver] FID 152545632, Attempt 1: Success. Solved: B32T
+2025-06-01 16:18:45,532 - [Solver] FID 152741981, Attempt 1: DdddOcr raw result='人md7y' (0.056s)
+2025-06-01 16:18:45,533 - [Solver] FID 152741981, Attempt 1: Failed validation (Length: 5, Chars OK: False)
+2025-06-01 16:18:45,878 - [Solver] FID 152741981, Attempt 2: DdddOcr raw result='Y9G' (0.031s)
+2025-06-01 16:18:45,879 - [Solver] FID 152741981, Attempt 2: Failed validation (Length: 3, Chars OK: True)
+2025-06-01 16:18:46,236 - [Solver] FID 152741981, Attempt 3: DdddOcr raw result='Uara' (0.024s)
+2025-06-01 16:18:46,237 - [Solver] FID 152741981, Attempt 3: Success. Solved: Uara
+2025-06-01 16:18:49,732 - [Solver] FID 153003051, Attempt 1: DdddOcr raw result='zTG4' (0.019s)
+2025-06-01 16:18:49,732 - [Solver] FID 153003051, Attempt 1: Success. Solved: zTG4
+2025-06-01 16:18:53,637 - [Solver] FID 153118638, Attempt 1: DdddOcr raw result='8' (0.021s)
+2025-06-01 16:18:53,638 - [Solver] FID 153118638, Attempt 1: Failed validation (Length: 1, Chars OK: True)
+2025-06-01 16:18:54,054 - [Solver] FID 153118638, Attempt 2: DdddOcr raw result='kbbk' (0.064s)
+2025-06-01 16:18:54,054 - [Solver] FID 153118638, Attempt 2: Success. Solved: kbbk
+2025-06-01 16:18:57,147 - [Solver] FID 153561550, Attempt 1: DdddOcr raw result='sqDW' (0.105s)
+2025-06-01 16:18:57,148 - [Solver] FID 153561550, Attempt 1: Success. Solved: sqDW
+2025-06-01 16:18:59,492 - [Solver] FID 153780116, Attempt 1: DdddOcr raw result='jkty' (0.047s)
+2025-06-01 16:18:59,493 - [Solver] FID 153780116, Attempt 1: Success. Solved: jkty
+2025-06-01 16:19:02,645 - [Solver] FID 155052245, Attempt 1: DdddOcr raw result='cycE' (0.037s)
+2025-06-01 16:19:02,646 - [Solver] FID 155052245, Attempt 1: Success. Solved: cycE
+2025-06-01 16:19:05,428 - [Solver] FID 155075701, Attempt 1: DdddOcr raw result='xvzy' (0.075s)
+2025-06-01 16:19:05,429 - [Solver] FID 155075701, Attempt 1: Success. Solved: xvzy
+2025-06-01 16:19:08,791 - [Solver] FID 157155747, Attempt 1: DdddOcr raw result='2sfm' (0.019s)
+2025-06-01 16:19:08,791 - [Solver] FID 157155747, Attempt 1: Success. Solved: 2sfm
+2025-06-01 16:19:11,580 - [Solver] FID 157253832, Attempt 1: DdddOcr raw result='lrskh' (0.016s)
+2025-06-01 16:19:11,580 - [Solver] FID 157253832, Attempt 1: Failed validation (Length: 5, Chars OK: True)
+2025-06-01 16:19:11,939 - [Solver] FID 157253832, Attempt 2: DdddOcr raw result='kse6' (0.024s)
+2025-06-01 16:19:11,939 - [Solver] FID 157253832, Attempt 2: Success. Solved: kse6
+2025-06-01 16:19:14,877 - [Solver] FID 158236906, Attempt 1: DdddOcr raw result='tawwj' (0.058s)
+2025-06-01 16:19:14,878 - [Solver] FID 158236906, Attempt 1: Failed validation (Length: 5, Chars OK: True)
+2025-06-01 16:19:15,296 - [Solver] FID 158236906, Attempt 2: DdddOcr raw result='akau' (0.071s)
+2025-06-01 16:19:15,297 - [Solver] FID 158236906, Attempt 2: Success. Solved: akau
+2025-06-01 16:19:17,842 - [Solver] FID 158404307, Attempt 1: DdddOcr raw result='BhCt' (0.058s)
+2025-06-01 16:19:17,842 - [Solver] FID 158404307, Attempt 1: Success. Solved: BhCt
+2025-06-01 16:19:20,855 - [Solver] FID 158485883, Attempt 1: DdddOcr raw result='v2mt' (0.092s)
+2025-06-01 16:19:20,856 - [Solver] FID 158485883, Attempt 1: Success. Solved: v2mt
+2025-06-01 16:19:23,199 - [Solver] FID 158761357, Attempt 1: DdddOcr raw result='n6c2' (0.045s)
+2025-06-01 16:19:23,200 - [Solver] FID 158761357, Attempt 1: Success. Solved: n6c2
+2025-06-01 16:19:26,190 - [Solver] FID 158761357, Attempt 2: DdddOcr raw result='aeej' (0.096s)
+2025-06-01 16:19:26,191 - [Solver] FID 158761357, Attempt 2: Success. Solved: aeej
+2025-06-01 17:07:15,476 - [Solver] FID 126474911, Attempt 1: DdddOcr raw result='vqp4' (0.116s)
+2025-06-01 17:07:15,476 - [Solver] FID 126474911, Attempt 1: Success. Solved: vqp4
+2025-06-01 17:07:21,183 - [Solver] FID 127007689, Attempt 1: DdddOcr raw result='3xan' (0.111s)
+2025-06-01 17:07:21,184 - [Solver] FID 127007689, Attempt 1: Success. Solved: 3xan
+2025-06-01 17:07:25,178 - [Solver] FID 128269128, Attempt 1: DdddOcr raw result='xCZD' (0.133s)
+2025-06-01 17:07:25,179 - [Solver] FID 128269128, Attempt 1: Success. Solved: xCZD
+2025-06-01 17:07:27,749 - [Solver] FID 128695070, Attempt 1: DdddOcr raw result='kwf4' (0.020s)
+2025-06-01 17:07:27,750 - [Solver] FID 128695070, Attempt 1: Success. Solved: kwf4
+2025-06-01 17:07:32,538 - [Solver] FID 128793369, Attempt 1: DdddOcr raw result='uyp' (0.026s)
+2025-06-01 17:07:32,538 - [Solver] FID 128793369, Attempt 1: Failed validation (Length: 3, Chars OK: True)
+2025-06-01 17:07:32,868 - [Solver] FID 128793369, Attempt 2: DdddOcr raw result='zmhs' (0.019s)
+2025-06-01 17:07:32,868 - [Solver] FID 128793369, Attempt 2: Success. Solved: zmhs
+2025-06-01 17:07:36,141 - [Solver] FID 129022614, Attempt 1: DdddOcr raw result='qf5k' (0.097s)
+2025-06-01 17:07:36,141 - [Solver] FID 129022614, Attempt 1: Success. Solved: qf5k
+2025-06-01 17:08:02,488 - [Solver] FID 135289899, Attempt 1: DdddOcr raw result='plrd' (0.040s)
+2025-06-01 17:08:02,489 - [Solver] FID 135289899, Attempt 1: Success. Solved: plrd
+2025-06-01 17:08:17,537 - [Solver] FID 138624622, Attempt 1: DdddOcr raw result='3u9n' (0.068s)
+2025-06-01 17:08:17,541 - [Solver] FID 138624622, Attempt 1: Success. Solved: 3u9n
+2025-06-01 17:08:31,076 - [Solver] FID 138666412, Attempt 1: DdddOcr raw result='jY5a' (0.068s)
+2025-06-01 17:08:31,077 - [Solver] FID 138666412, Attempt 1: Success. Solved: jY5a
+2025-06-01 17:08:34,625 - [Solver] FID 139937578, Attempt 1: DdddOcr raw result='vkGx' (0.046s)
+2025-06-01 17:08:34,625 - [Solver] FID 139937578, Attempt 1: Success. Solved: vkGx
+2025-06-01 17:08:37,507 - [Solver] FID 140817703, Attempt 1: DdddOcr raw result='arBX' (0.027s)
+2025-06-01 17:08:37,509 - [Solver] FID 140817703, Attempt 1: Success. Solved: arBX
+2025-06-01 17:08:40,698 - [Solver] FID 140817703, Attempt 2: DdddOcr raw result='ekxJ' (0.094s)
+2025-06-01 17:08:40,699 - [Solver] FID 140817703, Attempt 2: Success. Solved: ekxJ
+2025-06-01 17:08:48,692 - [Solver] FID 146877863, Attempt 1: DdddOcr raw result='y2f2' (0.044s)
+2025-06-01 17:08:48,693 - [Solver] FID 146877863, Attempt 1: Success. Solved: y2f2
+2025-06-01 17:09:04,848 - [Solver] FID 146878747, Attempt 1: DdddOcr raw result='bbrp' (0.022s)
+2025-06-01 17:09:04,850 - [Solver] FID 146878747, Attempt 1: Success. Solved: bbrp
+2025-06-01 17:09:08,176 - [Solver] FID 147042042, Attempt 1: DdddOcr raw result='zyck' (0.026s)
+2025-06-01 17:09:08,177 - [Solver] FID 147042042, Attempt 1: Success. Solved: zyck
+2025-06-01 17:09:10,557 - [Solver] FID 147451216, Attempt 1: DdddOcr raw result='xdRy' (0.039s)
+2025-06-01 17:09:10,558 - [Solver] FID 147451216, Attempt 1: Success. Solved: xdRy
+2025-06-01 17:09:13,889 - [Solver] FID 148500027, Attempt 1: DdddOcr raw result='43xg' (0.010s)
+2025-06-01 17:09:13,890 - [Solver] FID 148500027, Attempt 1: Success. Solved: 43xg
+2025-06-01 17:09:19,114 - [Solver] FID 148770136, Attempt 1: DdddOcr raw result='okma' (0.009s)
+2025-06-01 17:09:19,115 - [Solver] FID 148770136, Attempt 1: Failed validation (Length: 4, Chars OK: False)
+2025-06-01 17:09:19,512 - [Solver] FID 148770136, Attempt 2: DdddOcr raw result='CFpu' (0.009s)
+2025-06-01 17:09:19,512 - [Solver] FID 148770136, Attempt 2: Success. Solved: CFpu
+2025-06-01 17:09:22,521 - [Solver] FID 148770136, Attempt 3: DdddOcr raw result='vr2v' (0.011s)
+2025-06-01 17:09:22,521 - [Solver] FID 148770136, Attempt 3: Success. Solved: vr2v
+2025-06-01 17:09:26,388 - [Solver] FID 149434074, Attempt 1: DdddOcr raw result='bnsp' (0.011s)
+2025-06-01 17:09:26,388 - [Solver] FID 149434074, Attempt 1: Success. Solved: bnsp
+2025-06-01 17:09:29,467 - [Solver] FID 149434074, Attempt 2: DdddOcr raw result='zt7k' (0.009s)
+2025-06-01 17:09:29,468 - [Solver] FID 149434074, Attempt 2: Success. Solved: zt7k
+2025-06-01 17:09:33,065 - [Solver] FID 149696111, Attempt 1: DdddOcr raw result='qe4c' (0.009s)
+2025-06-01 17:09:33,066 - [Solver] FID 149696111, Attempt 1: Success. Solved: qe4c
+2025-06-01 17:09:36,230 - [Solver] FID 150173161, Attempt 1: DdddOcr raw result='m5ng' (0.009s)
+2025-06-01 17:09:36,230 - [Solver] FID 150173161, Attempt 1: Success. Solved: m5ng
+2025-06-01 17:09:39,238 - [Solver] FID 150547737, Attempt 1: DdddOcr raw result='qbba' (0.010s)
+2025-06-01 17:09:39,238 - [Solver] FID 150547737, Attempt 1: Success. Solved: qbba
+2025-06-01 17:09:41,997 - [Solver] FID 150695633, Attempt 1: DdddOcr raw result='nnly' (0.012s)
+2025-06-01 17:09:41,997 - [Solver] FID 150695633, Attempt 1: Success. Solved: nnly
+2025-06-01 17:09:44,591 - [Solver] FID 150695633, Attempt 2: DdddOcr raw result='mfcv' (0.010s)
+2025-06-01 17:09:44,592 - [Solver] FID 150695633, Attempt 2: Success. Solved: mfcv
+2025-06-01 17:09:47,712 - [Solver] FID 150695633, Attempt 3: DdddOcr raw result='8sEJ' (0.009s)
+2025-06-01 17:09:47,712 - [Solver] FID 150695633, Attempt 3: Success. Solved: 8sEJ
+2025-06-01 17:09:51,489 - [Solver] FID 151005608, Attempt 1: DdddOcr raw result='rnau' (0.010s)
+2025-06-01 17:09:51,490 - [Solver] FID 151005608, Attempt 1: Success. Solved: rnau
+2025-06-01 17:09:54,580 - [Solver] FID 151191538, Attempt 1: DdddOcr raw result='9v4p' (0.009s)
+2025-06-01 17:09:54,580 - [Solver] FID 151191538, Attempt 1: Success. Solved: 9v4p
+2025-06-01 17:09:57,363 - [Solver] FID 151191538, Attempt 2: DdddOcr raw result='hPuk' (0.009s)
+2025-06-01 17:09:57,363 - [Solver] FID 151191538, Attempt 2: Success. Solved: hPuk
+2025-06-01 17:10:01,123 - [Solver] FID 151641886, Attempt 1: DdddOcr raw result='jx3r' (0.008s)
+2025-06-01 17:10:01,123 - [Solver] FID 151641886, Attempt 1: Success. Solved: jx3r
+2025-06-01 17:10:03,652 - [Solver] FID 151641886, Attempt 2: DdddOcr raw result='Rehw' (0.009s)
+2025-06-01 17:10:03,653 - [Solver] FID 151641886, Attempt 2: Success. Solved: Rehw
+2025-06-01 17:10:06,643 - [Solver] FID 151879543, Attempt 1: DdddOcr raw result='FPjD' (0.010s)
+2025-06-01 17:10:06,644 - [Solver] FID 151879543, Attempt 1: Success. Solved: FPjD
+2025-06-01 17:10:09,314 - [Solver] FID 152239976, Attempt 1: DdddOcr raw result='jvvk' (0.010s)
+2025-06-01 17:10:09,314 - [Solver] FID 152239976, Attempt 1: Success. Solved: jvvk
+2025-06-01 17:10:12,013 - [Solver] FID 152239976, Attempt 2: DdddOcr raw result='hcdj' (0.009s)
+2025-06-01 17:10:12,014 - [Solver] FID 152239976, Attempt 2: Success. Solved: hcdj
+2025-06-01 17:10:19,130 - [Solver] FID 152518509, Attempt 1: DdddOcr raw result='juqq' (0.009s)
+2025-06-01 17:10:19,130 - [Solver] FID 152518509, Attempt 1: Success. Solved: juqq
+2025-06-01 17:10:23,461 - [Solver] FID 152534925, Attempt 1: DdddOcr raw result='tKuT' (0.008s)
+2025-06-01 17:10:23,462 - [Solver] FID 152534925, Attempt 1: Success. Solved: tKuT
+2025-06-01 17:10:26,236 - [Solver] FID 152581570, Attempt 1: DdddOcr raw result='amv' (0.010s)
+2025-06-01 17:10:26,236 - [Solver] FID 152581570, Attempt 1: Failed validation (Length: 3, Chars OK: True)
+2025-06-01 17:10:26,582 - [Solver] FID 152581570, Attempt 2: DdddOcr raw result='z8vf' (0.009s)
+2025-06-01 17:10:26,582 - [Solver] FID 152581570, Attempt 2: Success. Solved: z8vf
+2025-06-01 17:10:29,645 - [Solver] FID 152581570, Attempt 3: DdddOcr raw result='vhdP' (0.009s)
+2025-06-01 17:10:29,645 - [Solver] FID 152581570, Attempt 3: Success. Solved: vhdP
+2025-06-01 17:10:32,622 - [Solver] FID 152581570, Attempt 4: DdddOcr raw result='tyvj' (0.009s)
+2025-06-01 17:10:32,623 - [Solver] FID 152581570, Attempt 4: Success. Solved: tyvj
+2025-06-01 17:10:35,864 - [Solver] FID 153075669, Attempt 1: DdddOcr raw result='ybqx' (0.009s)
+2025-06-01 17:10:35,864 - [Solver] FID 153075669, Attempt 1: Success. Solved: ybqx
+2025-06-01 17:10:38,226 - [Solver] FID 153125988, Attempt 1: DdddOcr raw result='amh3' (0.010s)
+2025-06-01 17:10:38,227 - [Solver] FID 153125988, Attempt 1: Success. Solved: amh3
+2025-06-01 17:10:41,230 - [Solver] FID 153125988, Attempt 2: DdddOcr raw result='8RIn' (0.009s)
+2025-06-01 17:10:41,231 - [Solver] FID 153125988, Attempt 2: Success. Solved: 8RIn
+2025-06-01 17:10:43,926 - [Solver] FID 153125988, Attempt 3: DdddOcr raw result='bjyu' (0.009s)
+2025-06-01 17:10:43,926 - [Solver] FID 153125988, Attempt 3: Success. Solved: bjyu
+2025-06-01 17:10:46,892 - [Solver] FID 153386918, Attempt 1: DdddOcr raw result='Lapq' (0.008s)
+2025-06-01 17:10:46,892 - [Solver] FID 153386918, Attempt 1: Success. Solved: Lapq
+2025-06-01 17:10:52,753 - [Solver] FID 153436146, Attempt 1: DdddOcr raw result='p6正E' (0.009s)
+2025-06-01 17:10:52,754 - [Solver] FID 153436146, Attempt 1: Failed validation (Length: 4, Chars OK: False)
+2025-06-01 17:10:53,122 - [Solver] FID 153436146, Attempt 2: DdddOcr raw result='z87x' (0.008s)
+2025-06-01 17:10:53,122 - [Solver] FID 153436146, Attempt 2: Success. Solved: z87x
+2025-06-01 17:10:56,108 - [Solver] FID 153994513, Attempt 1: DdddOcr raw result='2mt' (0.008s)
+2025-06-01 17:10:56,109 - [Solver] FID 153994513, Attempt 1: Failed validation (Length: 3, Chars OK: True)
+2025-06-01 17:10:56,504 - [Solver] FID 153994513, Attempt 2: DdddOcr raw result='xtpK' (0.009s)
+2025-06-01 17:10:56,504 - [Solver] FID 153994513, Attempt 2: Success. Solved: xtpK
+2025-06-01 17:10:59,655 - [Solver] FID 153994513, Attempt 3: DdddOcr raw result='cZGp' (0.007s)
+2025-06-01 17:10:59,656 - [Solver] FID 153994513, Attempt 3: Success. Solved: cZGp
+2025-06-01 17:11:05,818 - [Solver] FID 154222449, Attempt 1: DdddOcr raw result='1gdh' (0.009s)
+2025-06-01 17:11:05,818 - [Solver] FID 154222449, Attempt 1: Success. Solved: 1gdh
+2025-06-01 17:11:08,131 - [Solver] FID 154222449, Attempt 2: DdddOcr raw result='fnx' (0.010s)
+2025-06-01 17:11:08,131 - [Solver] FID 154222449, Attempt 2: Failed validation (Length: 3, Chars OK: True)
+2025-06-01 17:11:08,491 - [Solver] FID 154222449, Attempt 3: DdddOcr raw result='F3ru' (0.009s)
+2025-06-01 17:11:08,491 - [Solver] FID 154222449, Attempt 3: Success. Solved: F3ru
+2025-06-01 17:11:12,015 - [Solver] FID 154550150, Attempt 1: DdddOcr raw result='hCyw' (0.008s)
+2025-06-01 17:11:12,016 - [Solver] FID 154550150, Attempt 1: Success. Solved: hCyw
+2025-06-01 17:11:15,284 - [Solver] FID 154550150, Attempt 2: DdddOcr raw result='zea7' (0.011s)
+2025-06-01 17:11:15,284 - [Solver] FID 154550150, Attempt 2: Success. Solved: zea7
+2025-06-01 17:11:18,059 - [Solver] FID 154550150, Attempt 3: DdddOcr raw result='nbeu' (0.010s)
+2025-06-01 17:11:18,060 - [Solver] FID 154550150, Attempt 3: Success. Solved: nbeu
+2025-06-01 17:11:21,840 - [Solver] FID 154986624, Attempt 1: DdddOcr raw result='fna' (0.010s)
+2025-06-01 17:11:21,840 - [Solver] FID 154986624, Attempt 1: Failed validation (Length: 3, Chars OK: True)
+2025-06-01 17:11:22,166 - [Solver] FID 154986624, Attempt 2: DdddOcr raw result='2hxv' (0.010s)
+2025-06-01 17:11:22,166 - [Solver] FID 154986624, Attempt 2: Success. Solved: 2hxv
+2025-06-01 17:11:25,035 - [Solver] FID 155123629, Attempt 1: DdddOcr raw result='b8y' (0.008s)
+2025-06-01 17:11:25,035 - [Solver] FID 155123629, Attempt 1: Failed validation (Length: 3, Chars OK: True)
+2025-06-01 17:11:25,431 - [Solver] FID 155123629, Attempt 2: DdddOcr raw result='-BRs7' (0.010s)
+2025-06-01 17:11:25,431 - [Solver] FID 155123629, Attempt 2: Failed validation (Length: 5, Chars OK: False)
+2025-06-01 17:11:25,798 - [Solver] FID 155123629, Attempt 3: DdddOcr raw result='5qpg' (0.009s)
+2025-06-01 17:11:25,799 - [Solver] FID 155123629, Attempt 3: Success. Solved: 5qpg
+2025-06-01 17:11:29,084 - [Solver] FID 155304312, Attempt 1: DdddOcr raw result='BpCs' (0.011s)
+2025-06-01 17:11:29,084 - [Solver] FID 155304312, Attempt 1: Success. Solved: BpCs
+2025-06-01 17:11:31,950 - [Solver] FID 155324906, Attempt 1: DdddOcr raw result='maqp' (0.009s)
+2025-06-01 17:11:31,951 - [Solver] FID 155324906, Attempt 1: Success. Solved: maqp
+2025-06-01 17:11:35,019 - [Solver] FID 155451415, Attempt 1: DdddOcr raw result='rvwx' (0.009s)
+2025-06-01 17:11:35,019 - [Solver] FID 155451415, Attempt 1: Success. Solved: rvwx
+2025-06-01 17:11:37,807 - [Solver] FID 155451415, Attempt 2: DdddOcr raw result='mm3p' (0.009s)
+2025-06-01 17:11:37,807 - [Solver] FID 155451415, Attempt 2: Success. Solved: mm3p
+2025-06-01 17:11:40,875 - [Solver] FID 155566396, Attempt 1: DdddOcr raw result='xx9z' (0.009s)
+2025-06-01 17:11:40,875 - [Solver] FID 155566396, Attempt 1: Success. Solved: xx9z
+2025-06-01 17:11:43,489 - [Solver] FID 155566479, Attempt 1: DdddOcr raw result='RvG' (0.009s)
+2025-06-01 17:11:43,490 - [Solver] FID 155566479, Attempt 1: Failed validation (Length: 3, Chars OK: True)
+2025-06-01 17:11:43,808 - [Solver] FID 155566479, Attempt 2: DdddOcr raw result='zK3r' (0.009s)
+2025-06-01 17:11:43,809 - [Solver] FID 155566479, Attempt 2: Success. Solved: zK3r
+2025-06-01 17:11:49,161 - [Solver] FID 156025089, Attempt 1: DdddOcr raw result='xeei' (0.008s)
+2025-06-01 17:11:49,162 - [Solver] FID 156025089, Attempt 1: Success. Solved: xeei
+2025-06-01 17:11:53,374 - [Solver] FID 156958825, Attempt 1: DdddOcr raw result='69Fc' (0.010s)
+2025-06-01 17:11:53,375 - [Solver] FID 156958825, Attempt 1: Success. Solved: 69Fc
+2025-06-01 17:11:57,296 - [Solver] FID 157204806, Attempt 1: DdddOcr raw result='3Eb8' (0.011s)
+2025-06-01 17:11:57,296 - [Solver] FID 157204806, Attempt 1: Success. Solved: 3Eb8
+2025-06-01 17:12:00,508 - [Solver] FID 157354827, Attempt 1: DdddOcr raw result='m272' (0.010s)
+2025-06-01 17:12:00,508 - [Solver] FID 157354827, Attempt 1: Success. Solved: m272
+2025-06-01 17:12:03,535 - [Solver] FID 157500260, Attempt 1: DdddOcr raw result='t7Rx' (0.008s)
+2025-06-01 17:12:03,536 - [Solver] FID 157500260, Attempt 1: Success. Solved: t7Rx
+2025-06-01 17:12:06,556 - [Solver] FID 157500260, Attempt 2: DdddOcr raw result='fwnf' (0.009s)
+2025-06-01 17:12:06,556 - [Solver] FID 157500260, Attempt 2: Success. Solved: fwnf
+2025-06-01 17:12:09,716 - [Solver] FID 157515800, Attempt 1: DdddOcr raw result='Rt8' (0.010s)
+2025-06-01 17:12:09,716 - [Solver] FID 157515800, Attempt 1: Failed validation (Length: 3, Chars OK: True)
+2025-06-01 17:12:10,042 - [Solver] FID 157515800, Attempt 2: DdddOcr raw result='fteo' (0.008s)
+2025-06-01 17:12:10,043 - [Solver] FID 157515800, Attempt 2: Failed validation (Length: 4, Chars OK: False)
+2025-06-01 17:12:10,377 - [Solver] FID 157515800, Attempt 3: DdddOcr raw result='pUG2' (0.008s)
+2025-06-01 17:12:10,378 - [Solver] FID 157515800, Attempt 3: Success. Solved: pUG2
+2025-06-01 17:12:12,747 - [Solver] FID 157778293, Attempt 1: DdddOcr raw result='hNBz' (0.009s)
+2025-06-01 17:12:12,748 - [Solver] FID 157778293, Attempt 1: Success. Solved: hNBz
+2025-06-01 17:12:16,524 - [Solver] FID 157794405, Attempt 1: DdddOcr raw result='y8xe' (0.009s)
+2025-06-01 17:12:16,524 - [Solver] FID 157794405, Attempt 1: Success. Solved: y8xe
+2025-06-01 17:12:19,313 - [Solver] FID 157991083, Attempt 1: DdddOcr raw result='V3t' (0.009s)
+2025-06-01 17:12:19,313 - [Solver] FID 157991083, Attempt 1: Failed validation (Length: 3, Chars OK: True)
+2025-06-01 17:12:19,757 - [Solver] FID 157991083, Attempt 2: DdddOcr raw result='darr' (0.010s)
+2025-06-01 17:12:19,758 - [Solver] FID 157991083, Attempt 2: Success. Solved: darr
+2025-06-01 17:12:21,960 - [Solver] FID 157991083, Attempt 3: DdddOcr raw result='aq8' (0.009s)
+2025-06-01 17:12:21,960 - [Solver] FID 157991083, Attempt 3: Failed validation (Length: 3, Chars OK: True)
+2025-06-01 17:12:22,299 - [Solver] FID 157991083, Attempt 4: DdddOcr raw result='Rzgo' (0.009s)
+2025-06-01 17:12:22,299 - [Solver] FID 157991083, Attempt 4: Failed validation (Length: 4, Chars OK: False)
+2025-06-01 17:12:25,087 - [Solver] FID 158155130, Attempt 1: DdddOcr raw result='Xq6d' (0.008s)
+2025-06-01 17:12:25,088 - [Solver] FID 158155130, Attempt 1: Success. Solved: Xq6d
+2025-06-01 17:12:27,577 - [Solver] FID 158518860, Attempt 1: DdddOcr raw result='Nwc9' (0.008s)
+2025-06-01 17:12:27,577 - [Solver] FID 158518860, Attempt 1: Success. Solved: Nwc9
+2025-06-01 17:12:31,264 - [Solver] FID 158810301, Attempt 1: DdddOcr raw result='rw7u' (0.008s)
+2025-06-01 17:12:31,265 - [Solver] FID 158810301, Attempt 1: Success. Solved: rw7u
+2025-06-01 17:12:37,733 - [Solver] FID 158892149, Attempt 1: DdddOcr raw result='q9ym' (0.008s)
+2025-06-01 17:12:37,733 - [Solver] FID 158892149, Attempt 1: Success. Solved: q9ym
+2025-06-01 17:12:40,735 - [Solver] FID 158908605, Attempt 1: DdddOcr raw result='u3y' (0.010s)
+2025-06-01 17:12:40,735 - [Solver] FID 158908605, Attempt 1: Failed validation (Length: 3, Chars OK: True)
+2025-06-01 17:12:41,072 - [Solver] FID 158908605, Attempt 2: DdddOcr raw result='5Hqs' (0.009s)
+2025-06-01 17:12:41,072 - [Solver] FID 158908605, Attempt 2: Success. Solved: 5Hqs
+2025-06-01 17:12:50,833 - [Solver] FID 159350797, Attempt 1: DdddOcr raw result='ceke' (0.010s)
+2025-06-01 17:12:50,834 - [Solver] FID 159350797, Attempt 1: Success. Solved: ceke
+2025-06-01 17:12:55,620 - [Solver] FID 160112192, Attempt 1: DdddOcr raw result='W4q' (0.009s)
+2025-06-01 17:12:55,620 - [Solver] FID 160112192, Attempt 1: Failed validation (Length: 3, Chars OK: True)
+2025-06-01 17:12:55,949 - [Solver] FID 160112192, Attempt 2: DdddOcr raw result='chjv' (0.010s)
+2025-06-01 17:12:55,950 - [Solver] FID 160112192, Attempt 2: Success. Solved: chjv
+2025-06-01 17:12:59,953 - [Solver] FID 165270329, Attempt 1: DdddOcr raw result='vq38' (0.009s)
+2025-06-01 17:12:59,953 - [Solver] FID 165270329, Attempt 1: Success. Solved: vq38
+2025-06-01 17:13:02,911 - [Solver] FID 197605525, Attempt 1: DdddOcr raw result='48fw' (0.009s)
+2025-06-01 17:13:02,911 - [Solver] FID 197605525, Attempt 1: Success. Solved: 48fw
+2025-06-01 17:13:06,048 - [Solver] FID 214793760, Attempt 1: DdddOcr raw result='N4k8' (0.009s)
+2025-06-01 17:13:06,048 - [Solver] FID 214793760, Attempt 1: Success. Solved: N4k8
+2025-06-01 17:13:09,606 - [Solver] FID 232308131, Attempt 1: DdddOcr raw result='nd8e' (0.010s)
+2025-06-01 17:13:09,606 - [Solver] FID 232308131, Attempt 1: Success. Solved: nd8e
+2025-06-01 17:13:12,390 - [Solver] FID 232308131, Attempt 2: DdddOcr raw result='Wq6q' (0.010s)
+2025-06-01 17:13:12,391 - [Solver] FID 232308131, Attempt 2: Success. Solved: Wq6q
+2025-06-01 17:13:15,519 - [Solver] FID 468739286, Attempt 1: DdddOcr raw result='nhky' (0.008s)
+2025-06-01 17:13:15,520 - [Solver] FID 468739286, Attempt 1: Success. Solved: nhky
+2025-06-01 17:13:18,592 - [Solver] FID 468739286, Attempt 2: DdddOcr raw result='qpdh' (0.009s)
+2025-06-01 17:13:18,592 - [Solver] FID 468739286, Attempt 2: Success. Solved: qpdh
+2025-06-01 17:13:24,246 - [Solver] FID 157991083, Attempt 1: DdddOcr raw result='pvw' (0.008s)
+2025-06-01 17:13:24,247 - [Solver] FID 157991083, Attempt 1: Failed validation (Length: 3, Chars OK: True)
+2025-06-01 17:13:24,544 - [Solver] FID 157991083, Attempt 2: DdddOcr raw result='awpm' (0.010s)
+2025-06-01 17:13:24,544 - [Solver] FID 157991083, Attempt 2: Success. Solved: awpm
+2025-06-01 17:16:03,702 - Initializing DdddOcr...
+2025-06-01 17:16:03,758 - DdddOcr object created. Performing test classification...
+2025-06-01 17:16:03,782 - DdddOcr test classification successful (Result: ''). Initialization complete.
+2025-06-01 17:18:29,080 - Initializing DdddOcr...
+2025-06-01 17:18:29,136 - DdddOcr object created. Performing test classification...
+2025-06-01 17:18:29,156 - DdddOcr test classification successful (Result: ''). Initialization complete.

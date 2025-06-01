@@ -1,0 +1,464 @@
+
+==================================================
+Date: 2025-06-01 15:53:02
+Administrator: lokesh_lokii (ID: 306446821004410890)
+Alliance: PXW (ID: 1)
+FIDs to Process: 154812262,156467620,360951616,154124121
+Total Members to Process: 4
+--------------------------------------------------
+
+API Response for FID 154812262:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 154812262, 'nickname': 'Nyx\xa0ᴾˣᵂ', 'kid': 1059, 'stove_lv': 65, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_7.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2025/06/01/4WKGM2_1748740325.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 156467620:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 156467620, 'nickname': 'ツʟᴏᴋɪ፝֟፝֟\xa0°ᴾˣᵂ', 'kid': 1059, 'stove_lv': 69, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_7.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2025/05/30/oAJq3B_1748634963.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 360951616:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 360951616, 'nickname': 'Baby\xa0Nyx', 'kid': 1059, 'stove_lv': 25, 'stove_lv_content': 25, 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2025/05/30/1vBLY0_1748627962.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 154124121:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 154124121, 'nickname': 'Ｌｏｋｅｓｈ', 'kid': 1059, 'stove_lv': 47, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_3.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2025/04/19/l86EPj_1745037440.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+Final Results:
+Successfully Added: 4
+Failed: 0
+Already Exists: 0
+==================================================
+
+==================================================
+Date: 2025-06-01 16:13:29
+Administrator: wackadoodle0456_82843 (ID: 1267710414540771391)
+Alliance: PXW (ID: 1)
+FIDs to Process: 147582735,151529462,158404307,147926399,149957951,153003051,148975338,153118638,153561550,155075701,151307367,151356480,158485883,148581351,158761357,152430430,153780116,152741981,150498861,158236906,151970653,157253832,157155747,154812262,155052245,156467620,128547543
+Total Members to Process: 27
+--------------------------------------------------
+
+API Response for FID 147582735:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 147582735, 'nickname': 'ⒿⓐⓒⓚⓐⓢⓢⒾⓝⒶⒸⓐⓝ', 'kid': 1059, 'stove_lv': 65, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_7.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2025/05/25/9pRJqz_1748146334.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 151529462:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 151529462, 'nickname': 'Ebar', 'kid': 1059, 'stove_lv': 65, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_7.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar-dev/2023/07/17/1036.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 158404307:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 158404307, 'nickname': 'Matron\xa0Malice', 'kid': 1059, 'stove_lv': 70, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_8.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2025/05/25/Gwxzz8_1748197391.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 147926399:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 147926399, 'nickname': 'Llamaste', 'kid': 1059, 'stove_lv': 65, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_7.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar-dev/2023/07/17/1011.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 149957951:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 149957951, 'nickname': 'NameRequired', 'kid': 1059, 'stove_lv': 65, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_7.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2025/04/11/rEyonW_1744377956.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 153003051:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 153003051, 'nickname': 'ꉓꍏ꒒ꀤꊼ꓄ꍏ', 'kid': 1059, 'stove_lv': 65, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_7.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2025/05/24/JEEyAg_1748107209.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 148975338:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 148975338, 'nickname': 'JääJää', 'kid': 1059, 'stove_lv': 60, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2025/05/28/X7mZz8_1748422074.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 153118638:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 153118638, 'nickname': 'ωєη\xa0°ᴾˣᵂ°', 'kid': 1059, 'stove_lv': 65, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_7.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2025/05/30/VJJ6mW_1748610339.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 153561550:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 153561550, 'nickname': 'queenjulez', 'kid': 1059, 'stove_lv': 65, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_7.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar-dev/2023/07/17/1029.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 155075701:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 155075701, 'nickname': 'Lumiere', 'kid': 1059, 'stove_lv': 65, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_7.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2025/04/08/8X181W_1744117939.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 151307367:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 151307367, 'nickname': 'QueenVic', 'kid': 1059, 'stove_lv': 65, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_7.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2025/05/25/R8o2vw_1748196888.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 151356480:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 151356480, 'nickname': 'Solo', 'kid': 1059, 'stove_lv': 65, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_7.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2025/05/26/EK9NX4_1748247447.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 158485883:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 158485883, 'nickname': '~\xa0ᏉᎪᏆᎪᏁᏞᎾᏒᎠ\xa0~', 'kid': 1059, 'stove_lv': 65, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_7.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2025/04/03/8XA2mL_1743674811.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 148581351:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 148581351, 'nickname': 'Frankeinsteinᴾˣᵂ', 'kid': 1059, 'stove_lv': 62, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2025/01/15/EZrGxl_1736948731.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 158761357:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 158761357, 'nickname': 'Abdulrhman\xa0pasha', 'kid': 1059, 'stove_lv': 65, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_7.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2024/10/11/rg7wmW_1728653239.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 152430430:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 152430430, 'nickname': 'King\xa0Horus', 'kid': 1059, 'stove_lv': 56, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_5.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2025/05/26/EKKwm4_1748265994.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 153780116:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 153780116, 'nickname': 'Slayer', 'kid': 1059, 'stove_lv': 66, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_7.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2025/05/27/jAJgBR_1748378422.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 152741981:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 152741981, 'nickname': 'kominic', 'kid': 1059, 'stove_lv': 70, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_8.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2025/05/27/g77Arl_1748374318.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 150498861:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 150498861, 'nickname': 'Funny\xa0BEAST', 'kid': 1059, 'stove_lv': 60, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2025/05/24/OEVKoQ_1748130242.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 158236906:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 158236906, 'nickname': 'SomeBro', 'kid': 1059, 'stove_lv': 70, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_8.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2025/05/24/jAJj1l_1748120160.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 151970653:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 151970653, 'nickname': 'Sargnarg', 'kid': 1059, 'stove_lv': 65, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_7.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2025/05/30/g7xv43_1748641154.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 157253832:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 157253832, 'nickname': 'Sonic', 'kid': 1059, 'stove_lv': 65, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_7.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2025/05/24/zql8j8_1748111741.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 157155747:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 157155747, 'nickname': 'ᏰᎧᎧ', 'kid': 1059, 'stove_lv': 65, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_7.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2025/05/29/B1E54Q_1748493679.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 154812262:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 154812262, 'nickname': 'Nyx\xa0ᴾˣᵂ', 'kid': 1059, 'stove_lv': 65, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_7.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2025/06/01/4WKGM2_1748740325.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+WARNING: Member already exists - Nyx ᴾˣᵂ (FID: 154812262)
+
+API Response for FID 155052245:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 155052245, 'nickname': 'SᴛOʀм\xa0°ᴾˣᵂ°', 'kid': 1059, 'stove_lv': 65, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_7.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2025/04/27/0AAv4G_1745741702.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 156467620:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 156467620, 'nickname': 'ツʟᴏᴋɪ፝֟፝֟\xa0°ᴾˣᵂ', 'kid': 1059, 'stove_lv': 69, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_7.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2025/05/30/oAJq3B_1748634963.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+WARNING: Member already exists - ツʟᴏᴋɪ፝֟፝֟ °ᴾˣᵂ (FID: 156467620)
+
+API Response for FID 128547543:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 128547543, 'nickname': 'VamPire', 'kid': 1059, 'stove_lv': 70, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_8.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2025/02/03/29mpAz_1738544984.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+Final Results:
+Successfully Added: 25
+Failed: 0
+Already Exists: 2
+==================================================
+
+==================================================
+Date: 2025-06-01 16:16:24
+Administrator: wackadoodle0456_82843 (ID: 1267710414540771391)
+Alliance: PXW (ID: 1)
+FIDs to Process: 152545632
+Total Members to Process: 1
+--------------------------------------------------
+
+API Response for FID 152545632:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 152545632, 'nickname': 'Wackadoodle', 'kid': 1059, 'stove_lv': 65, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_7.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2025/05/25/LA57mj_1748193127.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+Final Results:
+Successfully Added: 1
+Failed: 0
+Already Exists: 0
+==================================================
+
+==================================================
+Date: 2025-06-01 16:56:52
+Administrator: icy_maya22 (ID: 1239812913137717248)
+Alliance: PXW (ID: 1)
+FIDs to Process: 155123629,139937578,153386918,153075669,150173161,158908605,151191538,151641886,158155130,157778293,157204806,157778293,155566396,135289899,155566479,148500027,146877863,128793369,128269128,152534925,152239976,147042042,153994513,149696111,157794405,148770136,157515800,154550150,150695633,127007689,468739286,126474911,151879543,138624622,152581570,157354827,232308131,155324906,154222449,156025089,214793760,156958825,156958825,165270329,155304312,153436146,157500260,158810301,197605525,160112192,128695070,157991083,154986624,151005608,150547737,147451216,152518509,158518860,129022614,159350797,146878747,149434074,138666412,140817703,158892149,153125988,155451415
+Total Members to Process: 67
+--------------------------------------------------
+
+API Response for FID 155123629:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 155123629, 'nickname': 'Firewitch', 'kid': 1059, 'stove_lv': 60, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2025/05/28/jAJBL4_1748423259.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 139937578:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 139937578, 'nickname': 'Beth\xa0Dutton', 'kid': 1059, 'stove_lv': 60, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2024/12/27/9pLz1x_1735321757.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 153386918:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 153386918, 'nickname': '黑狗兄', 'kid': 1059, 'stove_lv': 58, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_5.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2024/06/12/DwEZMx_1718195640.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 153075669:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 153075669, 'nickname': '@bidusse', 'kid': 1059, 'stove_lv': 59, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_5.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2024/07/12/93XBzZ_1720807467.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 150173161:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 150173161, 'nickname': 'rona', 'kid': 1059, 'stove_lv': 60, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2024/06/26/Gw69DJ_1719415565.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 158908605:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 158908605, 'nickname': 'carpio', 'kid': 1059, 'stove_lv': 56, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_5.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2024/04/19/4WKr90_1713551835.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 151191538:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 151191538, 'nickname': 'Logan!', 'kid': 1059, 'stove_lv': 58, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_5.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar-dev/2023/07/17/1001.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 151641886:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 151641886, 'nickname': 'Lord\xa0of\xa0Thunder', 'kid': 1059, 'stove_lv': 60, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar-dev/2023/07/17/1001.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 158155130:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 158155130, 'nickname': 'PISTOLA', 'kid': 1059, 'stove_lv': 60, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar-dev/2023/07/17/1016.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 157778293:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 157778293, 'nickname': 'Blanks\xa0ᴾˣᵂ', 'kid': 1059, 'stove_lv': 59, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_5.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2025/03/07/l86366_1741314616.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 157204806:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 157204806, 'nickname': 'ᵒˢᵃᵐᵃ\xa0ʸᵉᵐᵉᶰ\xa0ᴶᵉᶠᶠ', 'kid': 1059, 'stove_lv': 60, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2025/04/17/g7XozZ_1744891165.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 157778293:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 157778293, 'nickname': 'Blanks\xa0ᴾˣᵂ', 'kid': 1059, 'stove_lv': 59, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_5.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2025/03/07/l86366_1741314616.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+WARNING: Member already exists - Blanks ᴾˣᵂ (FID: 157778293)
+
+API Response for FID 155566396:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 155566396, 'nickname': 'Hossam', 'kid': 1059, 'stove_lv': 57, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_5.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar-dev/2023/07/17/1027.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 135289899:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 135289899, 'nickname': 'ڣڗٵ̍؏ジ', 'kid': 1059, 'stove_lv': 60, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2024/10/02/NE9WOm_1727860476.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 155566479:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 155566479, 'nickname': 'Just\xa0Jess', 'kid': 1059, 'stove_lv': 60, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2025/03/31/zqlG6O_1743433451.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 148500027:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 148500027, 'nickname': 'orz', 'kid': 1059, 'stove_lv': 60, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar-dev/2023/07/17/1001.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 146877863:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 146877863, 'nickname': 'Romme', 'kid': 1059, 'stove_lv': 60, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar-dev/2023/07/17/1001.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 128793369:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 128793369, 'nickname': 'HoCiNe\xa0父', 'kid': 1059, 'stove_lv': 60, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2025/05/26/pzvv0p_1748261298.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 128269128:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 128269128, 'nickname': '3SJX', 'kid': 1059, 'stove_lv': 60, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2024/12/07/XMzKVV_1733560641.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 152534925:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 152534925, 'nickname': '༺ﮩ٨ـﮩTürkﮩ٨ـﮩ༻', 'kid': 1059, 'stove_lv': 60, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2024/10/11/WWBK8E_1728677181.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 152239976:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 152239976, 'nickname': 'Nezukoo', 'kid': 1059, 'stove_lv': 60, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2025/03/31/m7XNL3_1743421268.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 147042042:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 147042042, 'nickname': 'Taz', 'kid': 1059, 'stove_lv': 60, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2025/01/04/ovp3AA_1736010213.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 153994513:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 153994513, 'nickname': 'Vit', 'kid': 1059, 'stove_lv': 60, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2025/04/26/0AY8XN_1745628358.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 149696111:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 149696111, 'nickname': 'Menz', 'kid': 1059, 'stove_lv': 62, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2025/05/24/OEVrjG_1748097412.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 157794405:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 157794405, 'nickname': 'Morvë\xa0Lys', 'kid': 1059, 'stove_lv': 65, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_7.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2025/05/13/l86g6J_1747156262.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 148770136:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 148770136, 'nickname': 'Moshi', 'kid': 1059, 'stove_lv': 60, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar-dev/2023/07/17/1009.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 157515800:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 157515800, 'nickname': 'Wolverine', 'kid': 1059, 'stove_lv': 60, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2024/11/30/l86mGM_1732978399.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 154550150:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 154550150, 'nickname': 'KristijanZrinski', 'kid': 1059, 'stove_lv': 60, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2025/03/02/rg77Jw_1740923968.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 150695633:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 150695633, 'nickname': 'BugsBunny', 'kid': 1059, 'stove_lv': 60, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2024/11/15/wEMGXR_1731630710.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 127007689:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 127007689, 'nickname': 'Nabil', 'kid': 1059, 'stove_lv': 56, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_5.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2025/05/25/PYo4Vw_1748136745.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 468739286:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 468739286, 'nickname': 'FrankenWeenie', 'kid': 1059, 'stove_lv': 11, 'stove_lv_content': 11, 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2025/05/29/r1EN6B_1748534354.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 126474911:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 126474911, 'nickname': 'Alshekh', 'kid': 1059, 'stove_lv': 60, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2024/11/11/PYAGBW_1731368118.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 151879543:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 151879543, 'nickname': 'LordHadrien', 'kid': 1059, 'stove_lv': 60, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2025/05/25/oAJJnz_1748161312.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 138624622:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 138624622, 'nickname': 'X̌ŜTĖVẸ', 'kid': 1059, 'stove_lv': 70, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_8.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2025/05/31/EZmZjv_1748728826.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 152581570:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 152581570, 'nickname': 'Liñda', 'kid': 1059, 'stove_lv': 68, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_7.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2025/05/28/qA692y_1748438557.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 157354827:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 157354827, 'nickname': 'Azka~', 'kid': 1059, 'stove_lv': 60, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2025/06/01/l80l0J_1748763213.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 232308131:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 232308131, 'nickname': 'icy~', 'kid': 1054, 'stove_lv': 36, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_1.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2025/05/31/RBqpqE_1748721407.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 155324906:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 155324906, 'nickname': '༒\u06dd\xa0ĎϒŞŞÝѦ\xa0\u06dd༒', 'kid': 1059, 'stove_lv': 55, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_5.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar-dev/2023/07/17/1034.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 154222449:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 154222449, 'nickname': 'linkyparky', 'kid': 1059, 'stove_lv': 55, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_5.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2024/04/18/A8OOmP_1713429992.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 156025089:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 156025089, 'nickname': 'MechaGodzilla', 'kid': 1059, 'stove_lv': 50, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_4.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2025/03/30/g7XjNZ_1743352424.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 214793760:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 214793760, 'nickname': 'King\xa0H0rus', 'kid': 1059, 'stove_lv': 53, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_4.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2025/05/31/Wo0GzW_1748698465.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 156958825:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 156958825, 'nickname': 'Latess', 'kid': 1059, 'stove_lv': 50, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_4.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar-dev/2023/07/17/1025.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 156958825:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 156958825, 'nickname': 'Latess', 'kid': 1059, 'stove_lv': 50, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_4.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar-dev/2023/07/17/1025.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+WARNING: Member already exists - Latess (FID: 156958825)
+
+API Response for FID 165270329:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 165270329, 'nickname': 'Duck\xa0Plug', 'kid': 1059, 'stove_lv': 60, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2025/03/09/5AJ5BR_1741546672.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 155304312:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 155304312, 'nickname': '小茜茜', 'kid': 1059, 'stove_lv': 60, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2024/05/03/oAJ5mz_1714751611.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 153436146:
+Status Code: 429
+Rate Limit exceeded - Waiting 60 seconds
+
+API Response for FID 153436146:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 153436146, 'nickname': '갈간이', 'kid': 1059, 'stove_lv': 56, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_5.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar-dev/2023/07/17/1016.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 157500260:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 157500260, 'nickname': 'W_Riz_004', 'kid': 1059, 'stove_lv': 55, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_5.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2025/04/17/p9o8vp_1744913973.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 158810301:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 158810301, 'nickname': 'Lord\xa0Kağan', 'kid': 1059, 'stove_lv': 55, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_5.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2025/01/13/XYVGY8_1736757534.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 197605525:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 197605525, 'nickname': 'FιʂԋAɳԃCԋιρʂ', 'kid': 1059, 'stove_lv': 55, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_5.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2025/05/19/vRw728_1747647556.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 160112192:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 160112192, 'nickname': '420Dmoney1982', 'kid': 1059, 'stove_lv': 58, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_5.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar-dev/2023/07/17/1023.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 128695070:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 128695070, 'nickname': 'محمد\xa0ö', 'kid': 1059, 'stove_lv': 59, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_5.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar-dev/2023/07/17/1028.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 157991083:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 157991083, 'nickname': 'ᴊ\xa0ᴇ\xa0s\xa0s\xa0ɪ\xa0ᴇ\xa0~', 'kid': 1059, 'stove_lv': 54, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_4.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2025/05/25/VJZzj1_1748163992.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 154986624:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 154986624, 'nickname': 'Kimmie', 'kid': 1059, 'stove_lv': 61, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2025/01/28/rggK9W_1738028381.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 151005608:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 151005608, 'nickname': 'Dhimant_Boricha', 'kid': 1059, 'stove_lv': 53, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_4.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar-dev/2023/07/17/1028.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 150547737:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 150547737, 'nickname': 'Marvel', 'kid': 1059, 'stove_lv': 60, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2025/03/10/wEMv7g_1741587892.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 147451216:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 147451216, 'nickname': 'Chickenthigh', 'kid': 1059, 'stove_lv': 60, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2024/11/23/5lJzl8_1732389968.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 152518509:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 152518509, 'nickname': 'Sysy', 'kid': 1059, 'stove_lv': 55, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_5.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar-dev/2023/07/17/1024.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 158518860:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 158518860, 'nickname': 'Lone\xa0Wolf', 'kid': 1059, 'stove_lv': 62, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar-dev/2023/07/17/1028.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 129022614:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 129022614, 'nickname': 'IAmNr3', 'kid': 1059, 'stove_lv': 55, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_5.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2024/09/16/nzq9ml_1726498324.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 159350797:
+Status Code: 429
+Rate Limit exceeded - Waiting 60 seconds
+
+API Response for FID 159350797:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 159350797, 'nickname': 'McMace', 'kid': 1059, 'stove_lv': 60, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar-dev/2023/07/17/1035.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 146878747:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 146878747, 'nickname': 'FrostDogeThe1st', 'kid': 1059, 'stove_lv': 62, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2025/01/05/zqP9XY_1736111589.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 149434074:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 149434074, 'nickname': '꧁༒༺MrツCสrl༻༒꧂', 'kid': 1059, 'stove_lv': 60, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2025/03/30/rEyL2W_1743359720.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 138666412:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 138666412, 'nickname': 'some\xa0guy\xa0here', 'kid': 1059, 'stove_lv': 60, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar-dev/2023/07/17/1036.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 140817703:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 140817703, 'nickname': 'konkedo', 'kid': 1059, 'stove_lv': 55, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_5.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar-dev/2023/07/17/1028.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 158892149:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 158892149, 'nickname': 'Nikkiᴾˣᵂ', 'kid': 1059, 'stove_lv': 56, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_5.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar/2025/05/23/KAEy3n_1748029981.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 153125988:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 153125988, 'nickname': 'MonAmi', 'kid': 1059, 'stove_lv': 56, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_5.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar-dev/2023/07/17/1024.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+API Response for FID 155451415:
+Status Code: 200
+API Response Data: {'code': 0, 'data': {'fid': 155451415, 'nickname': 'yasin', 'kid': 1059, 'stove_lv': 55, 'stove_lv_content': 'https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_5.png', 'avatar_image': 'https://gof-formal-avatar.akamaized.net/avatar-dev/2023/07/17/1001.png', 'total_recharge_amount': 0}, 'msg': 'success', 'err_code': ''}
+
+Final Results:
+Successfully Added: 65
+Failed: 0
+Already Exists: 2
+==================================================

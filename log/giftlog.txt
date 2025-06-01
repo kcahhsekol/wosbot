@@ -1,0 +1,3624 @@
+2025-06-01 15:56:50,246 - 2025-06-01 15:56:50.246152 API REQUEST - Player Info
+Player ID: 154124121
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 154124121,
+    "nickname": "\uff2c\uff4f\uff4b\uff45\uff53\uff48",
+    "kid": 1059,
+    "stove_lv": 47,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_3.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2025/04/19/l86EPj_1745037440.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 15:56:50,748 - 2025-06-01 15:56:50.748848 OCR solved for 154124121: 3cpz (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 15:56:51,079 - 2025-06-01 15:56:51.079841 API REQ - Gift Code Redeem
+FID:154124121, Code:RowYourBoat, Captcha:3cpz
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 15:56:51,113 - DATABASE - Saved/Updated status for User 154124121, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 15:56:53,573 - 2025-06-01 15:56:53.573265 API REQUEST - Player Info
+Player ID: 154812262
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 154812262,
+    "nickname": "Nyx\u00a0\u1d3e\u02e3\u1d42",
+    "kid": 1059,
+    "stove_lv": 65,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_7.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2025/06/01/4WKGM2_1748740325.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 15:56:53,876 - 2025-06-01 15:56:53.876589 OCR solved for 154812262: LzHx (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 15:56:54,186 - 2025-06-01 15:56:54.186636 API REQ - Gift Code Redeem
+FID:154812262, Code:RowYourBoat, Captcha:LzHx
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 15:56:54,218 - DATABASE - Saved/Updated status for User 154812262, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 15:56:56,590 - 2025-06-01 15:56:56.590218 API REQUEST - Player Info
+Player ID: 156467620
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 156467620,
+    "nickname": "\u30c4\u029f\u1d0f\u1d0b\u026a\u135d\u059f\u135d\u059f\u00a0\u00b0\u1d3e\u02e3\u1d42",
+    "kid": 1059,
+    "stove_lv": 69,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_7.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2025/05/30/oAJq3B_1748634963.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 15:56:56,978 - 2025-06-01 15:56:56.977584 OCR solved for 156467620: Vnvu (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 15:56:57,271 - 2025-06-01 15:56:57.271870 API REQ - Gift Code Redeem
+FID:156467620, Code:RowYourBoat, Captcha:Vnvu
+Resp Code: 200
+Response JSON:
+{
+  "code": 1,
+  "data": [],
+  "msg": "RECEIVED.",
+  "err_code": 40008
+}
+--------------------------------------------------
+2025-06-01 15:56:57,301 - DATABASE - Saved/Updated status for User 156467620, Code 'RowYourBoat', Status RECEIVED
+
+2025-06-01 15:56:59,141 - 2025-06-01 15:56:59.140948 API REQUEST - Player Info
+Player ID: 360951616
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 360951616,
+    "nickname": "Baby\u00a0Nyx",
+    "kid": 1059,
+    "stove_lv": 25,
+    "stove_lv_content": 25,
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2025/05/30/1vBLY0_1748627962.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 15:56:59,669 - 2025-06-01 15:56:59.666876 OCR solved for 360951616: k9Bc (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 15:56:59,955 - 2025-06-01 15:56:59.955950 API REQ - Gift Code Redeem
+FID:360951616, Code:RowYourBoat, Captcha:k9Bc
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 15:56:59,986 - DATABASE - Saved/Updated status for User 360951616, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 16:17:50,853 - 2025-06-01 16:17:50.853339 API REQUEST - Player Info
+Player ID: 128547543
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 128547543,
+    "nickname": "VamPire",
+    "kid": 1059,
+    "stove_lv": 70,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_8.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2025/02/03/29mpAz_1738544984.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 16:17:51,300 - 2025-06-01 16:17:51.300632 OCR solved for 128547543: NLfw (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 16:17:51,970 - 2025-06-01 16:17:51.970682 API REQ - Gift Code Redeem
+FID:128547543, Code:RowYourBoat, Captcha:NLfw
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 16:17:52,001 - DATABASE - Saved/Updated status for User 128547543, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 16:17:54,269 - 2025-06-01 16:17:54.268347 API REQUEST - Player Info
+Player ID: 147582735
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 147582735,
+    "nickname": "\u24bf\u24d0\u24d2\u24da\u24d0\u24e2\u24e2\u24be\u24dd\u24b6\u24b8\u24d0\u24dd",
+    "kid": 1059,
+    "stove_lv": 65,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_7.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2025/05/25/9pRJqz_1748146334.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 16:17:54,686 - 2025-06-01 16:17:54.650081 OCR solved for 147582735: v3s4 (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 16:17:55,041 - 2025-06-01 16:17:55.040069 API REQ - Gift Code Redeem
+FID:147582735, Code:RowYourBoat, Captcha:v3s4
+Resp Code: 200
+Response JSON:
+{
+  "code": 1,
+  "data": [],
+  "msg": "RECEIVED.",
+  "err_code": 40008
+}
+--------------------------------------------------
+2025-06-01 16:17:55,067 - DATABASE - Saved/Updated status for User 147582735, Code 'RowYourBoat', Status RECEIVED
+
+2025-06-01 16:17:57,809 - 2025-06-01 16:17:57.809006 API REQUEST - Player Info
+Player ID: 147926399
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 147926399,
+    "nickname": "Llamaste",
+    "kid": 1059,
+    "stove_lv": 65,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_7.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar-dev/2023/07/17/1011.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 16:17:58,158 - 2025-06-01 16:17:58.158141 OCR failed for FID 147926399 on attempt 1
+
+2025-06-01 16:17:58,555 - 2025-06-01 16:17:58.554464 OCR solved for 147926399: np4n (meth:DdddOcr, conf:1.00, att:2)
+
+2025-06-01 16:17:58,960 - 2025-06-01 16:17:58.960981 API REQ - Gift Code Redeem
+FID:147926399, Code:RowYourBoat, Captcha:np4n
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 16:17:58,990 - DATABASE - Saved/Updated status for User 147926399, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 16:18:00,764 - 2025-06-01 16:18:00.764198 API REQUEST - Player Info
+Player ID: 148581351
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 148581351,
+    "nickname": "Frankeinstein\u1d3e\u02e3\u1d42",
+    "kid": 1059,
+    "stove_lv": 62,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2025/01/15/EZrGxl_1736948731.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 16:18:01,169 - 2025-06-01 16:18:01.169947 OCR solved for 148581351: IA2E (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 16:18:01,501 - 2025-06-01 16:18:01.501345 API REQ - Gift Code Redeem
+FID:148581351, Code:RowYourBoat, Captcha:IA2E
+Resp Code: 200
+Response JSON:
+{
+  "code": 1,
+  "data": [],
+  "msg": "RECEIVED.",
+  "err_code": 40008
+}
+--------------------------------------------------
+2025-06-01 16:18:01,532 - DATABASE - Saved/Updated status for User 148581351, Code 'RowYourBoat', Status RECEIVED
+
+2025-06-01 16:18:04,086 - 2025-06-01 16:18:04.086029 API REQUEST - Player Info
+Player ID: 148975338
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 148975338,
+    "nickname": "J\u00e4\u00e4J\u00e4\u00e4",
+    "kid": 1059,
+    "stove_lv": 60,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2025/05/28/X7mZz8_1748422074.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 16:18:04,451 - 2025-06-01 16:18:04.451289 OCR solved for 148975338: rr72 (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 16:18:04,778 - 2025-06-01 16:18:04.778157 API REQ - Gift Code Redeem
+FID:148975338, Code:RowYourBoat, Captcha:rr72
+Resp Code: 200
+Response JSON:
+{
+  "code": 1,
+  "data": [],
+  "msg": "RECEIVED.",
+  "err_code": 40008
+}
+--------------------------------------------------
+2025-06-01 16:18:04,806 - DATABASE - Saved/Updated status for User 148975338, Code 'RowYourBoat', Status RECEIVED
+
+2025-06-01 16:18:07,021 - 2025-06-01 16:18:07.021958 API REQUEST - Player Info
+Player ID: 149957951
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 149957951,
+    "nickname": "NameRequired",
+    "kid": 1059,
+    "stove_lv": 65,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_7.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2025/04/11/rEyonW_1744377956.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 16:18:07,387 - 2025-06-01 16:18:07.387155 OCR solved for 149957951: npwP (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 16:18:07,740 - 2025-06-01 16:18:07.740950 API REQ - Gift Code Redeem
+FID:149957951, Code:RowYourBoat, Captcha:npwP
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 16:18:07,773 - DATABASE - Saved/Updated status for User 149957951, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 16:18:10,126 - 2025-06-01 16:18:10.126607 API REQUEST - Player Info
+Player ID: 150498861
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 150498861,
+    "nickname": "Funny\u00a0BEAST",
+    "kid": 1059,
+    "stove_lv": 60,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2025/05/24/OEVKoQ_1748130242.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 16:18:10,556 - 2025-06-01 16:18:10.556690 OCR solved for 150498861: ushk (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 16:18:10,875 - 2025-06-01 16:18:10.875617 API REQ - Gift Code Redeem
+FID:150498861, Code:RowYourBoat, Captcha:ushk
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 16:18:10,905 - DATABASE - Saved/Updated status for User 150498861, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 16:18:12,757 - 2025-06-01 16:18:12.756077 API REQUEST - Player Info
+Player ID: 151307367
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 151307367,
+    "nickname": "QueenVic",
+    "kid": 1059,
+    "stove_lv": 65,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_7.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2025/05/25/R8o2vw_1748196888.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 16:18:13,165 - 2025-06-01 16:18:13.165923 OCR solved for 151307367: zxdc (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 16:18:13,498 - 2025-06-01 16:18:13.498567 API REQ - Gift Code Redeem
+FID:151307367, Code:RowYourBoat, Captcha:zxdc
+Resp Code: 200
+Response JSON:
+{
+  "code": 1,
+  "data": [],
+  "msg": "RECEIVED.",
+  "err_code": 40008
+}
+--------------------------------------------------
+2025-06-01 16:18:13,529 - DATABASE - Saved/Updated status for User 151307367, Code 'RowYourBoat', Status RECEIVED
+
+2025-06-01 16:18:16,033 - 2025-06-01 16:18:16.032730 API REQUEST - Player Info
+Player ID: 151356480
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 151356480,
+    "nickname": "Solo",
+    "kid": 1059,
+    "stove_lv": 65,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_7.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2025/05/26/EK9NX4_1748247447.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 16:18:16,368 - 2025-06-01 16:18:16.368975 OCR solved for 151356480: tgnR (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 16:18:16,957 - 2025-06-01 16:18:16.956295 API REQ - Gift Code Redeem
+FID:151356480, Code:RowYourBoat, Captcha:tgnR
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 16:18:16,988 - DATABASE - Saved/Updated status for User 151356480, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 16:18:19,090 - 2025-06-01 16:18:19.090853 API REQUEST - Player Info
+Player ID: 151529462
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 151529462,
+    "nickname": "Ebar",
+    "kid": 1059,
+    "stove_lv": 65,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_7.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar-dev/2023/07/17/1036.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 16:18:19,500 - 2025-06-01 16:18:19.500105 OCR failed for FID 151529462 on attempt 1
+
+2025-06-01 16:18:19,848 - 2025-06-01 16:18:19.848993 OCR solved for 151529462: xumx (meth:DdddOcr, conf:1.00, att:2)
+
+2025-06-01 16:18:20,233 - 2025-06-01 16:18:20.233167 API REQ - Gift Code Redeem
+FID:151529462, Code:RowYourBoat, Captcha:xumx
+Resp Code: 200
+Response JSON:
+{
+  "code": 1,
+  "data": [],
+  "msg": "CAPTCHA CHECK ERROR.",
+  "err_code": 40103
+}
+--------------------------------------------------
+2025-06-01 16:18:22,561 - 2025-06-01 16:18:22.561684 OCR solved for 151529462: cks9 (meth:DdddOcr, conf:1.00, att:3)
+
+2025-06-01 16:18:22,902 - 2025-06-01 16:18:22.902105 API REQ - Gift Code Redeem
+FID:151529462, Code:RowYourBoat, Captcha:cks9
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 16:18:22,906 - DATABASE - Saved/Updated status for User 151529462, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 16:18:25,408 - 2025-06-01 16:18:25.408350 API REQUEST - Player Info
+Player ID: 151970653
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 151970653,
+    "nickname": "Sargnarg",
+    "kid": 1059,
+    "stove_lv": 65,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_7.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2025/05/30/g7xv43_1748641154.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 16:18:25,740 - 2025-06-01 16:18:25.740319 OCR solved for 151970653: c7x2 (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 16:18:26,031 - 2025-06-01 16:18:26.030701 API REQ - Gift Code Redeem
+FID:151970653, Code:RowYourBoat, Captcha:c7x2
+Resp Code: 200
+Response JSON:
+{
+  "code": 1,
+  "data": [],
+  "msg": "CAPTCHA CHECK ERROR.",
+  "err_code": 40103
+}
+--------------------------------------------------
+2025-06-01 16:18:27,993 - 2025-06-01 16:18:27.993120 OCR solved for 151970653: Wmfx (meth:DdddOcr, conf:1.00, att:2)
+
+2025-06-01 16:18:28,298 - 2025-06-01 16:18:28.298537 API REQ - Gift Code Redeem
+FID:151970653, Code:RowYourBoat, Captcha:Wmfx
+Resp Code: 200
+Response JSON:
+{
+  "code": 1,
+  "data": [],
+  "msg": "CAPTCHA CHECK ERROR.",
+  "err_code": 40103
+}
+--------------------------------------------------
+2025-06-01 16:18:30,429 - 2025-06-01 16:18:30.429744 OCR solved for 151970653: n8nq (meth:DdddOcr, conf:1.00, att:3)
+
+2025-06-01 16:18:30,741 - 2025-06-01 16:18:30.741801 API REQ - Gift Code Redeem
+FID:151970653, Code:RowYourBoat, Captcha:n8nq
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 16:18:30,771 - DATABASE - Saved/Updated status for User 151970653, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 16:18:37,545 - 2025-06-01 16:18:37.545092 API REQUEST - Player Info
+Player ID: 152430430
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 152430430,
+    "nickname": "King\u00a0Horus",
+    "kid": 1059,
+    "stove_lv": 56,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_5.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2025/05/26/EKKwm4_1748265994.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 16:18:38,013 - 2025-06-01 16:18:38.013641 OCR solved for 152430430: Geen (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 16:18:38,373 - 2025-06-01 16:18:38.373684 API REQ - Gift Code Redeem
+FID:152430430, Code:RowYourBoat, Captcha:Geen
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 16:18:38,405 - DATABASE - Saved/Updated status for User 152430430, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 16:18:41,596 - 2025-06-01 16:18:41.595117 API REQUEST - Player Info
+Player ID: 152545632
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 152545632,
+    "nickname": "Wackadoodle",
+    "kid": 1059,
+    "stove_lv": 65,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_7.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2025/05/25/LA57mj_1748193127.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 16:18:41,943 - 2025-06-01 16:18:41.943022 OCR solved for 152545632: B32T (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 16:18:42,257 - 2025-06-01 16:18:42.257169 API REQ - Gift Code Redeem
+FID:152545632, Code:RowYourBoat, Captcha:B32T
+Resp Code: 200
+Response JSON:
+{
+  "code": 1,
+  "data": [],
+  "msg": "RECEIVED.",
+  "err_code": 40008
+}
+--------------------------------------------------
+2025-06-01 16:18:42,285 - DATABASE - Saved/Updated status for User 152545632, Code 'RowYourBoat', Status RECEIVED
+
+2025-06-01 16:18:45,144 - 2025-06-01 16:18:45.144370 API REQUEST - Player Info
+Player ID: 152741981
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 152741981,
+    "nickname": "kominic",
+    "kid": 1059,
+    "stove_lv": 70,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_8.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2025/05/27/g77Arl_1748374318.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 16:18:45,534 - 2025-06-01 16:18:45.534084 OCR failed for FID 152741981 on attempt 1
+
+2025-06-01 16:18:45,879 - 2025-06-01 16:18:45.879065 OCR failed for FID 152741981 on attempt 2
+
+2025-06-01 16:18:46,237 - 2025-06-01 16:18:46.237991 OCR solved for 152741981: Uara (meth:DdddOcr, conf:1.00, att:3)
+
+2025-06-01 16:18:46,661 - 2025-06-01 16:18:46.661158 API REQ - Gift Code Redeem
+FID:152741981, Code:RowYourBoat, Captcha:Uara
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 16:18:46,691 - DATABASE - Saved/Updated status for User 152741981, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 16:18:49,382 - 2025-06-01 16:18:49.381901 API REQUEST - Player Info
+Player ID: 153003051
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 153003051,
+    "nickname": "\ua253\ua34f\ua492\ua024\ua2bc\ua4c4\ua34f",
+    "kid": 1059,
+    "stove_lv": 65,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_7.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2025/05/24/JEEyAg_1748107209.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 16:18:49,733 - 2025-06-01 16:18:49.733790 OCR solved for 153003051: zTG4 (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 16:18:50,071 - 2025-06-01 16:18:50.071563 API REQ - Gift Code Redeem
+FID:153003051, Code:RowYourBoat, Captcha:zTG4
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 16:18:50,101 - DATABASE - Saved/Updated status for User 153003051, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 16:18:53,306 - 2025-06-01 16:18:53.306587 API REQUEST - Player Info
+Player ID: 153118638
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 153118638,
+    "nickname": "\u03c9\u0454\u03b7\u00a0\u00b0\u1d3e\u02e3\u1d42\u00b0",
+    "kid": 1059,
+    "stove_lv": 65,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_7.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2025/05/30/VJJ6mW_1748610339.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 16:18:53,638 - 2025-06-01 16:18:53.638123 OCR failed for FID 153118638 on attempt 1
+
+2025-06-01 16:18:54,059 - 2025-06-01 16:18:54.059879 OCR solved for 153118638: kbbk (meth:DdddOcr, conf:1.00, att:2)
+
+2025-06-01 16:18:54,394 - 2025-06-01 16:18:54.394056 API REQ - Gift Code Redeem
+FID:153118638, Code:RowYourBoat, Captcha:kbbk
+Resp Code: 200
+Response JSON:
+{
+  "code": 1,
+  "data": [],
+  "msg": "RECEIVED.",
+  "err_code": 40008
+}
+--------------------------------------------------
+2025-06-01 16:18:54,424 - DATABASE - Saved/Updated status for User 153118638, Code 'RowYourBoat', Status RECEIVED
+
+2025-06-01 16:18:56,740 - 2025-06-01 16:18:56.740015 API REQUEST - Player Info
+Player ID: 153561550
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 153561550,
+    "nickname": "queenjulez",
+    "kid": 1059,
+    "stove_lv": 65,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_7.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar-dev/2023/07/17/1029.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 16:18:57,151 - 2025-06-01 16:18:57.148401 OCR solved for 153561550: sqDW (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 16:18:57,477 - 2025-06-01 16:18:57.476042 API REQ - Gift Code Redeem
+FID:153561550, Code:RowYourBoat, Captcha:sqDW
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 16:18:57,505 - DATABASE - Saved/Updated status for User 153561550, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 16:18:59,133 - 2025-06-01 16:18:59.132687 API REQUEST - Player Info
+Player ID: 153780116
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 153780116,
+    "nickname": "Slayer",
+    "kid": 1059,
+    "stove_lv": 66,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_7.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2025/05/27/jAJgBR_1748378422.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 16:18:59,493 - 2025-06-01 16:18:59.493042 OCR solved for 153780116: jkty (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 16:18:59,852 - 2025-06-01 16:18:59.851588 API REQ - Gift Code Redeem
+FID:153780116, Code:RowYourBoat, Captcha:jkty
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 16:18:59,884 - DATABASE - Saved/Updated status for User 153780116, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 16:19:02,296 - 2025-06-01 16:19:02.296421 API REQUEST - Player Info
+Player ID: 155052245
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 155052245,
+    "nickname": "S\u1d1bO\u0280\u043c\u00a0\u00b0\u1d3e\u02e3\u1d42\u00b0",
+    "kid": 1059,
+    "stove_lv": 65,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_7.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2025/04/27/0AAv4G_1745741702.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 16:19:02,646 - 2025-06-01 16:19:02.646110 OCR solved for 155052245: cycE (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 16:19:03,009 - 2025-06-01 16:19:03.008710 API REQ - Gift Code Redeem
+FID:155052245, Code:RowYourBoat, Captcha:cycE
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 16:19:03,042 - DATABASE - Saved/Updated status for User 155052245, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 16:19:05,037 - 2025-06-01 16:19:05.037648 API REQUEST - Player Info
+Player ID: 155075701
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 155075701,
+    "nickname": "Lumiere",
+    "kid": 1059,
+    "stove_lv": 65,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_7.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2025/04/08/8X181W_1744117939.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 16:19:05,429 - 2025-06-01 16:19:05.429518 OCR solved for 155075701: xvzy (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 16:19:05,737 - 2025-06-01 16:19:05.737325 API REQ - Gift Code Redeem
+FID:155075701, Code:RowYourBoat, Captcha:xvzy
+Resp Code: 200
+Response JSON:
+{
+  "code": 1,
+  "data": [],
+  "msg": "RECEIVED.",
+  "err_code": 40008
+}
+--------------------------------------------------
+2025-06-01 16:19:05,766 - DATABASE - Saved/Updated status for User 155075701, Code 'RowYourBoat', Status RECEIVED
+
+2025-06-01 16:19:08,441 - 2025-06-01 16:19:08.441629 API REQUEST - Player Info
+Player ID: 157155747
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 157155747,
+    "nickname": "\u13f0\u13a7\u13a7",
+    "kid": 1059,
+    "stove_lv": 65,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_7.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2025/05/29/B1E54Q_1748493679.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 16:19:08,791 - 2025-06-01 16:19:08.791783 OCR solved for 157155747: 2sfm (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 16:19:09,103 - 2025-06-01 16:19:09.103607 API REQ - Gift Code Redeem
+FID:157155747, Code:RowYourBoat, Captcha:2sfm
+Resp Code: 200
+Response JSON:
+{
+  "code": 1,
+  "data": [],
+  "msg": "RECEIVED.",
+  "err_code": 40008
+}
+--------------------------------------------------
+2025-06-01 16:19:09,134 - DATABASE - Saved/Updated status for User 157155747, Code 'RowYourBoat', Status RECEIVED
+
+2025-06-01 16:19:11,252 - 2025-06-01 16:19:11.252321 API REQUEST - Player Info
+Player ID: 157253832
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 157253832,
+    "nickname": "Sonic",
+    "kid": 1059,
+    "stove_lv": 65,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_7.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2025/05/24/zql8j8_1748111741.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 16:19:11,581 - 2025-06-01 16:19:11.581771 OCR failed for FID 157253832 on attempt 1
+
+2025-06-01 16:19:11,940 - 2025-06-01 16:19:11.940493 OCR solved for 157253832: kse6 (meth:DdddOcr, conf:1.00, att:2)
+
+2025-06-01 16:19:12,286 - 2025-06-01 16:19:12.286132 API REQ - Gift Code Redeem
+FID:157253832, Code:RowYourBoat, Captcha:kse6
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 16:19:12,318 - DATABASE - Saved/Updated status for User 157253832, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 16:19:14,508 - 2025-06-01 16:19:14.508779 API REQUEST - Player Info
+Player ID: 158236906
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 158236906,
+    "nickname": "SomeBro",
+    "kid": 1059,
+    "stove_lv": 70,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_8.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2025/05/24/jAJj1l_1748120160.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 16:19:14,878 - 2025-06-01 16:19:14.878318 OCR failed for FID 158236906 on attempt 1
+
+2025-06-01 16:19:15,299 - 2025-06-01 16:19:15.299144 OCR solved for 158236906: akau (meth:DdddOcr, conf:1.00, att:2)
+
+2025-06-01 16:19:15,627 - 2025-06-01 16:19:15.626276 API REQ - Gift Code Redeem
+FID:158236906, Code:RowYourBoat, Captcha:akau
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 16:19:15,658 - DATABASE - Saved/Updated status for User 158236906, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 16:19:17,361 - 2025-06-01 16:19:17.361020 API REQUEST - Player Info
+Player ID: 158404307
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 158404307,
+    "nickname": "Matron\u00a0Malice",
+    "kid": 1059,
+    "stove_lv": 70,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_8.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2025/05/25/Gwxzz8_1748197391.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 16:19:17,843 - 2025-06-01 16:19:17.843801 OCR solved for 158404307: BhCt (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 16:19:18,146 - 2025-06-01 16:19:18.146921 API REQ - Gift Code Redeem
+FID:158404307, Code:RowYourBoat, Captcha:BhCt
+Resp Code: 200
+Response JSON:
+{
+  "code": 1,
+  "data": [],
+  "msg": "RECEIVED.",
+  "err_code": 40008
+}
+--------------------------------------------------
+2025-06-01 16:19:18,176 - DATABASE - Saved/Updated status for User 158404307, Code 'RowYourBoat', Status RECEIVED
+
+2025-06-01 16:19:20,448 - 2025-06-01 16:19:20.446982 API REQUEST - Player Info
+Player ID: 158485883
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 158485883,
+    "nickname": "~\u00a0\u13c9\u13aa\u13c6\u13aa\u13c1\u13de\u13be\u13d2\u13a0\u00a0~",
+    "kid": 1059,
+    "stove_lv": 65,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_7.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2025/04/03/8XA2mL_1743674811.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 16:19:20,856 - 2025-06-01 16:19:20.856192 OCR solved for 158485883: v2mt (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 16:19:21,189 - 2025-06-01 16:19:21.188526 API REQ - Gift Code Redeem
+FID:158485883, Code:RowYourBoat, Captcha:v2mt
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 16:19:21,218 - DATABASE - Saved/Updated status for User 158485883, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 16:19:22,839 - 2025-06-01 16:19:22.838973 API REQUEST - Player Info
+Player ID: 158761357
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 158761357,
+    "nickname": "Abdulrhman\u00a0pasha",
+    "kid": 1059,
+    "stove_lv": 65,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_7.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2024/10/11/rg7wmW_1728653239.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 16:19:23,200 - 2025-06-01 16:19:23.200080 OCR solved for 158761357: n6c2 (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 16:19:23,617 - 2025-06-01 16:19:23.617967 API REQ - Gift Code Redeem
+FID:158761357, Code:RowYourBoat, Captcha:n6c2
+Resp Code: 200
+Response JSON:
+{
+  "code": 1,
+  "data": [],
+  "msg": "CAPTCHA CHECK ERROR.",
+  "err_code": 40103
+}
+--------------------------------------------------
+2025-06-01 16:19:26,191 - 2025-06-01 16:19:26.191786 OCR solved for 158761357: aeej (meth:DdddOcr, conf:1.00, att:2)
+
+2025-06-01 16:19:26,621 - 2025-06-01 16:19:26.620058 API REQ - Gift Code Redeem
+FID:158761357, Code:RowYourBoat, Captcha:aeej
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 16:19:26,650 - DATABASE - Saved/Updated status for User 158761357, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 17:07:15,025 - 2025-06-01 17:07:15.024585 API REQUEST - Player Info
+Player ID: 126474911
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 126474911,
+    "nickname": "Alshekh",
+    "kid": 1059,
+    "stove_lv": 60,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2024/11/11/PYAGBW_1731368118.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:07:15,482 - 2025-06-01 17:07:15.482391 OCR solved for 126474911: vqp4 (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 17:07:15,794 - 2025-06-01 17:07:15.794465 API REQ - Gift Code Redeem
+FID:126474911, Code:RowYourBoat, Captcha:vqp4
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 17:07:15,803 - DATABASE - Saved/Updated status for User 126474911, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 17:07:20,674 - 2025-06-01 17:07:20.673314 API REQUEST - Player Info
+Player ID: 127007689
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 127007689,
+    "nickname": "Nabil",
+    "kid": 1059,
+    "stove_lv": 56,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_5.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2025/05/25/PYo4Vw_1748136745.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:07:21,184 - 2025-06-01 17:07:21.184398 OCR solved for 127007689: 3xan (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 17:07:21,834 - 2025-06-01 17:07:21.834971 API REQ - Gift Code Redeem
+FID:127007689, Code:RowYourBoat, Captcha:3xan
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 17:07:21,867 - DATABASE - Saved/Updated status for User 127007689, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 17:07:24,663 - 2025-06-01 17:07:24.663238 API REQUEST - Player Info
+Player ID: 128269128
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 128269128,
+    "nickname": "3SJX",
+    "kid": 1059,
+    "stove_lv": 60,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2024/12/07/XMzKVV_1733560641.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:07:25,180 - 2025-06-01 17:07:25.180203 OCR solved for 128269128: xCZD (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 17:07:25,547 - 2025-06-01 17:07:25.547509 API REQ - Gift Code Redeem
+FID:128269128, Code:RowYourBoat, Captcha:xCZD
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 17:07:25,576 - DATABASE - Saved/Updated status for User 128269128, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 17:07:27,419 - 2025-06-01 17:07:27.419109 API REQUEST - Player Info
+Player ID: 128695070
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 128695070,
+    "nickname": "\u0645\u062d\u0645\u062f\u00a0\u00f6",
+    "kid": 1059,
+    "stove_lv": 59,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_5.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar-dev/2023/07/17/1028.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:07:27,750 - 2025-06-01 17:07:27.750692 OCR solved for 128695070: kwf4 (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 17:07:28,262 - 2025-06-01 17:07:28.261017 API REQ - Gift Code Redeem
+FID:128695070, Code:RowYourBoat, Captcha:kwf4
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 17:07:28,290 - DATABASE - Saved/Updated status for User 128695070, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 17:07:32,203 - 2025-06-01 17:07:32.203403 API REQUEST - Player Info
+Player ID: 128793369
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 128793369,
+    "nickname": "HoCiNe\u00a0\u7236",
+    "kid": 1059,
+    "stove_lv": 60,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2025/05/26/pzvv0p_1748261298.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:07:32,538 - 2025-06-01 17:07:32.538075 OCR failed for FID 128793369 on attempt 1
+
+2025-06-01 17:07:32,869 - 2025-06-01 17:07:32.868031 OCR solved for 128793369: zmhs (meth:DdddOcr, conf:1.00, att:2)
+
+2025-06-01 17:07:33,204 - 2025-06-01 17:07:33.204163 API REQ - Gift Code Redeem
+FID:128793369, Code:RowYourBoat, Captcha:zmhs
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 17:07:33,233 - DATABASE - Saved/Updated status for User 128793369, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 17:07:35,710 - 2025-06-01 17:07:35.710144 API REQUEST - Player Info
+Player ID: 129022614
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 129022614,
+    "nickname": "IAmNr3",
+    "kid": 1059,
+    "stove_lv": 55,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_5.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2024/09/16/nzq9ml_1726498324.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:07:36,142 - 2025-06-01 17:07:36.142806 OCR solved for 129022614: qf5k (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 17:07:36,486 - 2025-06-01 17:07:36.486489 API REQ - Gift Code Redeem
+FID:129022614, Code:RowYourBoat, Captcha:qf5k
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 17:07:36,518 - DATABASE - Saved/Updated status for User 129022614, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 17:08:02,053 - 2025-06-01 17:08:02.053282 API REQUEST - Player Info
+Player ID: 135289899
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 135289899,
+    "nickname": "\u06a3\u0697\u0675\u030d\u060f\u30b8",
+    "kid": 1059,
+    "stove_lv": 60,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2024/10/02/NE9WOm_1727860476.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:08:02,490 - 2025-06-01 17:08:02.490258 OCR solved for 135289899: plrd (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 17:08:02,865 - 2025-06-01 17:08:02.865640 API REQ - Gift Code Redeem
+FID:135289899, Code:RowYourBoat, Captcha:plrd
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 17:08:02,876 - DATABASE - Saved/Updated status for User 135289899, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 17:08:16,876 - 2025-06-01 17:08:16.876459 API REQUEST - Player Info
+Player ID: 138624622
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 138624622,
+    "nickname": "X\u030c\u015cT\u0116V\u1eb8",
+    "kid": 1059,
+    "stove_lv": 70,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_8.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2025/05/31/EZmZjv_1748728826.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:08:17,542 - 2025-06-01 17:08:17.542563 OCR solved for 138624622: 3u9n (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 17:08:17,921 - 2025-06-01 17:08:17.921395 API REQ - Gift Code Redeem
+FID:138624622, Code:RowYourBoat, Captcha:3u9n
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 17:08:17,952 - DATABASE - Saved/Updated status for User 138624622, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 17:08:30,670 - 2025-06-01 17:08:30.670852 API REQUEST - Player Info
+Player ID: 138666412
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 138666412,
+    "nickname": "some\u00a0guy\u00a0here",
+    "kid": 1059,
+    "stove_lv": 60,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar-dev/2023/07/17/1036.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:08:31,077 - 2025-06-01 17:08:31.077933 OCR solved for 138666412: jY5a (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 17:08:31,408 - 2025-06-01 17:08:31.408715 API REQ - Gift Code Redeem
+FID:138666412, Code:RowYourBoat, Captcha:jY5a
+Resp Code: 200
+Response JSON:
+{
+  "code": 1,
+  "data": [],
+  "msg": "RECEIVED.",
+  "err_code": 40008
+}
+--------------------------------------------------
+2025-06-01 17:08:31,442 - DATABASE - Saved/Updated status for User 138666412, Code 'RowYourBoat', Status RECEIVED
+
+2025-06-01 17:08:34,249 - 2025-06-01 17:08:34.248555 API REQUEST - Player Info
+Player ID: 139937578
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 139937578,
+    "nickname": "Beth\u00a0Dutton",
+    "kid": 1059,
+    "stove_lv": 60,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2024/12/27/9pLz1x_1735321757.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:08:34,626 - 2025-06-01 17:08:34.626503 OCR solved for 139937578: vkGx (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 17:08:35,022 - 2025-06-01 17:08:35.022596 API REQ - Gift Code Redeem
+FID:139937578, Code:RowYourBoat, Captcha:vkGx
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 17:08:35,053 - DATABASE - Saved/Updated status for User 139937578, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 17:08:37,066 - 2025-06-01 17:08:37.066962 API REQUEST - Player Info
+Player ID: 140817703
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 140817703,
+    "nickname": "konkedo",
+    "kid": 1059,
+    "stove_lv": 55,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_5.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar-dev/2023/07/17/1028.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:08:37,509 - 2025-06-01 17:08:37.509087 OCR solved for 140817703: arBX (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 17:08:37,876 - 2025-06-01 17:08:37.876713 API REQ - Gift Code Redeem
+FID:140817703, Code:RowYourBoat, Captcha:arBX
+Resp Code: 200
+Response JSON:
+{
+  "code": 1,
+  "data": [],
+  "msg": "CAPTCHA CHECK ERROR.",
+  "err_code": 40103
+}
+--------------------------------------------------
+2025-06-01 17:08:40,699 - 2025-06-01 17:08:40.699765 OCR solved for 140817703: ekxJ (meth:DdddOcr, conf:1.00, att:2)
+
+2025-06-01 17:08:41,457 - 2025-06-01 17:08:41.457784 API REQ - Gift Code Redeem
+FID:140817703, Code:RowYourBoat, Captcha:ekxJ
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 17:08:41,464 - DATABASE - Saved/Updated status for User 140817703, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 17:08:47,406 - 2025-06-01 17:08:47.406693 API REQUEST - Player Info
+Player ID: 146877863
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 146877863,
+    "nickname": "Romme",
+    "kid": 1059,
+    "stove_lv": 60,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar-dev/2023/07/17/1001.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:08:48,694 - 2025-06-01 17:08:48.694919 OCR solved for 146877863: y2f2 (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 17:08:49,077 - 2025-06-01 17:08:49.077644 API REQ - Gift Code Redeem
+FID:146877863, Code:RowYourBoat, Captcha:y2f2
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 17:08:49,107 - DATABASE - Saved/Updated status for User 146877863, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 17:09:04,506 - 2025-06-01 17:09:04.505234 API REQUEST - Player Info
+Player ID: 146878747
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 146878747,
+    "nickname": "FrostDogeThe1st",
+    "kid": 1059,
+    "stove_lv": 62,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2025/01/05/zqP9XY_1736111589.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:09:04,850 - 2025-06-01 17:09:04.850226 OCR solved for 146878747: bbrp (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 17:09:05,159 - 2025-06-01 17:09:05.159457 API REQ - Gift Code Redeem
+FID:146878747, Code:RowYourBoat, Captcha:bbrp
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 17:09:05,189 - DATABASE - Saved/Updated status for User 146878747, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 17:09:07,827 - 2025-06-01 17:09:07.826319 API REQUEST - Player Info
+Player ID: 147042042
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 147042042,
+    "nickname": "Taz",
+    "kid": 1059,
+    "stove_lv": 60,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2025/01/04/ovp3AA_1736010213.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:09:08,177 - 2025-06-01 17:09:08.177117 OCR solved for 147042042: zyck (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 17:09:08,504 - 2025-06-01 17:09:08.504987 API REQ - Gift Code Redeem
+FID:147042042, Code:RowYourBoat, Captcha:zyck
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 17:09:08,536 - DATABASE - Saved/Updated status for User 147042042, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 17:09:10,205 - 2025-06-01 17:09:10.205747 API REQUEST - Player Info
+Player ID: 147451216
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 147451216,
+    "nickname": "Chickenthigh",
+    "kid": 1059,
+    "stove_lv": 60,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2024/11/23/5lJzl8_1732389968.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:09:10,562 - 2025-06-01 17:09:10.562547 OCR solved for 147451216: xdRy (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 17:09:10,948 - 2025-06-01 17:09:10.948858 API REQ - Gift Code Redeem
+FID:147451216, Code:RowYourBoat, Captcha:xdRy
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 17:09:10,958 - DATABASE - Saved/Updated status for User 147451216, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 17:09:13,483 - 2025-06-01 17:09:13.483428 API REQUEST - Player Info
+Player ID: 148500027
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 148500027,
+    "nickname": "orz",
+    "kid": 1059,
+    "stove_lv": 60,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar-dev/2023/07/17/1001.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:09:13,890 - 2025-06-01 17:09:13.890039 OCR solved for 148500027: 43xg (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 17:09:14,583 - 2025-06-01 17:09:14.583851 API REQ - Gift Code Redeem
+FID:148500027, Code:RowYourBoat, Captcha:43xg
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 17:09:14,591 - DATABASE - Saved/Updated status for User 148500027, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 17:09:18,696 - 2025-06-01 17:09:18.696510 API REQUEST - Player Info
+Player ID: 148770136
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 148770136,
+    "nickname": "Moshi",
+    "kid": 1059,
+    "stove_lv": 60,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar-dev/2023/07/17/1009.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:09:19,115 - 2025-06-01 17:09:19.115678 OCR failed for FID 148770136 on attempt 1
+
+2025-06-01 17:09:19,513 - 2025-06-01 17:09:19.513181 OCR solved for 148770136: CFpu (meth:DdddOcr, conf:1.00, att:2)
+
+2025-06-01 17:09:19,808 - 2025-06-01 17:09:19.808473 API REQ - Gift Code Redeem
+FID:148770136, Code:RowYourBoat, Captcha:CFpu
+Resp Code: 200
+Response JSON:
+{
+  "code": 1,
+  "data": [],
+  "msg": "CAPTCHA CHECK ERROR.",
+  "err_code": 40103
+}
+--------------------------------------------------
+2025-06-01 17:09:22,522 - 2025-06-01 17:09:22.522018 OCR solved for 148770136: vr2v (meth:DdddOcr, conf:1.00, att:3)
+
+2025-06-01 17:09:23,033 - 2025-06-01 17:09:23.033407 API REQ - Gift Code Redeem
+FID:148770136, Code:RowYourBoat, Captcha:vr2v
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 17:09:23,043 - DATABASE - Saved/Updated status for User 148770136, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 17:09:25,725 - 2025-06-01 17:09:25.725806 API REQUEST - Player Info
+Player ID: 149434074
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 149434074,
+    "nickname": "\ua9c1\u0f12\u0f3aMr\u30c4C\u0e2arl\u0f3b\u0f12\ua9c2",
+    "kid": 1059,
+    "stove_lv": 60,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2025/03/30/rEyL2W_1743359720.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:09:26,389 - 2025-06-01 17:09:26.389610 OCR solved for 149434074: bnsp (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 17:09:26,903 - 2025-06-01 17:09:26.903010 API REQ - Gift Code Redeem
+FID:149434074, Code:RowYourBoat, Captcha:bnsp
+Resp Code: 200
+Response JSON:
+{
+  "code": 1,
+  "data": [],
+  "msg": "CAPTCHA CHECK ERROR.",
+  "err_code": 40103
+}
+--------------------------------------------------
+2025-06-01 17:09:29,468 - 2025-06-01 17:09:29.468334 OCR solved for 149434074: zt7k (meth:DdddOcr, conf:1.00, att:2)
+
+2025-06-01 17:09:29,867 - 2025-06-01 17:09:29.867117 API REQ - Gift Code Redeem
+FID:149434074, Code:RowYourBoat, Captcha:zt7k
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 17:09:29,875 - DATABASE - Saved/Updated status for User 149434074, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 17:09:32,544 - 2025-06-01 17:09:32.544218 API REQUEST - Player Info
+Player ID: 149696111
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 149696111,
+    "nickname": "Menz",
+    "kid": 1059,
+    "stove_lv": 62,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2025/05/24/OEVrjG_1748097412.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:09:33,066 - 2025-06-01 17:09:33.066819 OCR solved for 149696111: qe4c (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 17:09:33,402 - 2025-06-01 17:09:33.401942 API REQ - Gift Code Redeem
+FID:149696111, Code:RowYourBoat, Captcha:qe4c
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 17:09:33,407 - DATABASE - Saved/Updated status for User 149696111, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 17:09:35,845 - 2025-06-01 17:09:35.845264 API REQUEST - Player Info
+Player ID: 150173161
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 150173161,
+    "nickname": "rona",
+    "kid": 1059,
+    "stove_lv": 60,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2024/06/26/Gw69DJ_1719415565.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:09:36,230 - 2025-06-01 17:09:36.230925 OCR solved for 150173161: m5ng (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 17:09:36,578 - 2025-06-01 17:09:36.578401 API REQ - Gift Code Redeem
+FID:150173161, Code:RowYourBoat, Captcha:m5ng
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 17:09:36,584 - DATABASE - Saved/Updated status for User 150173161, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 17:09:38,912 - 2025-06-01 17:09:38.912747 API REQUEST - Player Info
+Player ID: 150547737
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 150547737,
+    "nickname": "Marvel",
+    "kid": 1059,
+    "stove_lv": 60,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2025/03/10/wEMv7g_1741587892.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:09:39,238 - 2025-06-01 17:09:39.238440 OCR solved for 150547737: qbba (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 17:09:39,588 - 2025-06-01 17:09:39.588219 API REQ - Gift Code Redeem
+FID:150547737, Code:RowYourBoat, Captcha:qbba
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 17:09:39,594 - DATABASE - Saved/Updated status for User 150547737, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 17:09:41,345 - 2025-06-01 17:09:41.345825 API REQUEST - Player Info
+Player ID: 150695633
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 150695633,
+    "nickname": "BugsBunny",
+    "kid": 1059,
+    "stove_lv": 60,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2024/11/15/wEMGXR_1731630710.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:09:41,997 - 2025-06-01 17:09:41.997815 OCR solved for 150695633: nnly (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 17:09:42,328 - 2025-06-01 17:09:42.328950 API REQ - Gift Code Redeem
+FID:150695633, Code:RowYourBoat, Captcha:nnly
+Resp Code: 200
+Response JSON:
+{
+  "code": 1,
+  "data": [],
+  "msg": "CAPTCHA CHECK ERROR.",
+  "err_code": 40103
+}
+--------------------------------------------------
+2025-06-01 17:09:44,592 - 2025-06-01 17:09:44.592606 OCR solved for 150695633: mfcv (meth:DdddOcr, conf:1.00, att:2)
+
+2025-06-01 17:09:45,078 - 2025-06-01 17:09:45.078229 API REQ - Gift Code Redeem
+FID:150695633, Code:RowYourBoat, Captcha:mfcv
+Resp Code: 200
+Response JSON:
+{
+  "code": 1,
+  "data": [],
+  "msg": "CAPTCHA CHECK ERROR.",
+  "err_code": 40103
+}
+--------------------------------------------------
+2025-06-01 17:09:47,712 - 2025-06-01 17:09:47.712124 OCR solved for 150695633: 8sEJ (meth:DdddOcr, conf:1.00, att:3)
+
+2025-06-01 17:09:48,036 - 2025-06-01 17:09:48.036578 API REQ - Gift Code Redeem
+FID:150695633, Code:RowYourBoat, Captcha:8sEJ
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 17:09:48,043 - DATABASE - Saved/Updated status for User 150695633, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 17:09:50,708 - 2025-06-01 17:09:50.707898 API REQUEST - Player Info
+Player ID: 151005608
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 151005608,
+    "nickname": "Dhimant_Boricha",
+    "kid": 1059,
+    "stove_lv": 53,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_4.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar-dev/2023/07/17/1028.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:09:51,490 - 2025-06-01 17:09:51.490066 OCR solved for 151005608: rnau (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 17:09:51,970 - 2025-06-01 17:09:51.970022 API REQ - Gift Code Redeem
+FID:151005608, Code:RowYourBoat, Captcha:rnau
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 17:09:51,977 - DATABASE - Saved/Updated status for User 151005608, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 17:09:54,178 - 2025-06-01 17:09:54.178986 API REQUEST - Player Info
+Player ID: 151191538
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 151191538,
+    "nickname": "Logan!",
+    "kid": 1059,
+    "stove_lv": 58,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_5.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar-dev/2023/07/17/1001.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:09:54,581 - 2025-06-01 17:09:54.581993 OCR solved for 151191538: 9v4p (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 17:09:54,915 - 2025-06-01 17:09:54.915032 API REQ - Gift Code Redeem
+FID:151191538, Code:RowYourBoat, Captcha:9v4p
+Resp Code: 200
+Response JSON:
+{
+  "code": 1,
+  "data": [],
+  "msg": "CAPTCHA CHECK ERROR.",
+  "err_code": 40103
+}
+--------------------------------------------------
+2025-06-01 17:09:57,363 - 2025-06-01 17:09:57.363544 OCR solved for 151191538: hPuk (meth:DdddOcr, conf:1.00, att:2)
+
+2025-06-01 17:09:57,698 - 2025-06-01 17:09:57.698260 API REQ - Gift Code Redeem
+FID:151191538, Code:RowYourBoat, Captcha:hPuk
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 17:09:57,705 - DATABASE - Saved/Updated status for User 151191538, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 17:10:00,782 - 2025-06-01 17:10:00.782906 API REQUEST - Player Info
+Player ID: 151641886
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 151641886,
+    "nickname": "Lord\u00a0of\u00a0Thunder",
+    "kid": 1059,
+    "stove_lv": 60,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar-dev/2023/07/17/1001.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:10:01,123 - 2025-06-01 17:10:01.123197 OCR solved for 151641886: jx3r (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 17:10:01,594 - 2025-06-01 17:10:01.594428 API REQ - Gift Code Redeem
+FID:151641886, Code:RowYourBoat, Captcha:jx3r
+Resp Code: 200
+Response JSON:
+{
+  "code": 1,
+  "data": [],
+  "msg": "CAPTCHA CHECK ERROR.",
+  "err_code": 40103
+}
+--------------------------------------------------
+2025-06-01 17:10:03,653 - 2025-06-01 17:10:03.653591 OCR solved for 151641886: Rehw (meth:DdddOcr, conf:1.00, att:2)
+
+2025-06-01 17:10:04,014 - 2025-06-01 17:10:04.014222 API REQ - Gift Code Redeem
+FID:151641886, Code:RowYourBoat, Captcha:Rehw
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 17:10:04,022 - DATABASE - Saved/Updated status for User 151641886, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 17:10:06,311 - 2025-06-01 17:10:06.311999 API REQUEST - Player Info
+Player ID: 151879543
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 151879543,
+    "nickname": "LordHadrien",
+    "kid": 1059,
+    "stove_lv": 60,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2025/05/25/oAJJnz_1748161312.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:10:06,644 - 2025-06-01 17:10:06.644043 OCR solved for 151879543: FPjD (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 17:10:06,960 - 2025-06-01 17:10:06.960309 API REQ - Gift Code Redeem
+FID:151879543, Code:RowYourBoat, Captcha:FPjD
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 17:10:06,966 - DATABASE - Saved/Updated status for User 151879543, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 17:10:08,971 - 2025-06-01 17:10:08.971014 API REQUEST - Player Info
+Player ID: 152239976
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 152239976,
+    "nickname": "Nezukoo",
+    "kid": 1059,
+    "stove_lv": 60,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2025/03/31/m7XNL3_1743421268.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:10:09,314 - 2025-06-01 17:10:09.314103 OCR solved for 152239976: jvvk (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 17:10:09,843 - 2025-06-01 17:10:09.843500 API REQ - Gift Code Redeem
+FID:152239976, Code:RowYourBoat, Captcha:jvvk
+Resp Code: 200
+Response JSON:
+{
+  "code": 1,
+  "data": [],
+  "msg": "CAPTCHA CHECK ERROR.",
+  "err_code": 40103
+}
+--------------------------------------------------
+2025-06-01 17:10:12,014 - 2025-06-01 17:10:12.014245 OCR solved for 152239976: hcdj (meth:DdddOcr, conf:1.00, att:2)
+
+2025-06-01 17:10:12,500 - 2025-06-01 17:10:12.500484 API REQ - Gift Code Redeem
+FID:152239976, Code:RowYourBoat, Captcha:hcdj
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 17:10:12,507 - DATABASE - Saved/Updated status for User 152239976, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 17:10:18,599 - 2025-06-01 17:10:18.599319 API REQUEST - Player Info
+Player ID: 152518509
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 152518509,
+    "nickname": "Sysy",
+    "kid": 1059,
+    "stove_lv": 55,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_5.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar-dev/2023/07/17/1024.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:10:19,130 - 2025-06-01 17:10:19.130328 OCR solved for 152518509: juqq (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 17:10:19,527 - 2025-06-01 17:10:19.526209 API REQ - Gift Code Redeem
+FID:152518509, Code:RowYourBoat, Captcha:juqq
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 17:10:19,534 - DATABASE - Saved/Updated status for User 152518509, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 17:10:23,076 - 2025-06-01 17:10:23.076063 API REQUEST - Player Info
+Player ID: 152534925
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 152534925,
+    "nickname": "\u0f3a\ufba9\u0668\u0640\ufba9T\u00fcrk\ufba9\u0668\u0640\ufba9\u0f3b",
+    "kid": 1059,
+    "stove_lv": 60,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2024/10/11/WWBK8E_1728677181.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:10:23,462 - 2025-06-01 17:10:23.462250 OCR solved for 152534925: tKuT (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 17:10:23,812 - 2025-06-01 17:10:23.812652 API REQ - Gift Code Redeem
+FID:152534925, Code:RowYourBoat, Captcha:tKuT
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 17:10:23,819 - DATABASE - Saved/Updated status for User 152534925, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 17:10:25,872 - 2025-06-01 17:10:25.872748 API REQUEST - Player Info
+Player ID: 152581570
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 152581570,
+    "nickname": "Li\u00f1da",
+    "kid": 1059,
+    "stove_lv": 68,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_7.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2025/05/28/qA692y_1748438557.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:10:26,236 - 2025-06-01 17:10:26.236686 OCR failed for FID 152581570 on attempt 1
+
+2025-06-01 17:10:26,582 - 2025-06-01 17:10:26.582586 OCR solved for 152581570: z8vf (meth:DdddOcr, conf:1.00, att:2)
+
+2025-06-01 17:10:26,884 - 2025-06-01 17:10:26.884606 API REQ - Gift Code Redeem
+FID:152581570, Code:RowYourBoat, Captcha:z8vf
+Resp Code: 200
+Response JSON:
+{
+  "code": 1,
+  "data": [],
+  "msg": "CAPTCHA CHECK ERROR.",
+  "err_code": 40103
+}
+--------------------------------------------------
+2025-06-01 17:10:29,645 - 2025-06-01 17:10:29.645330 OCR solved for 152581570: vhdP (meth:DdddOcr, conf:1.00, att:3)
+
+2025-06-01 17:10:30,044 - 2025-06-01 17:10:30.044719 API REQ - Gift Code Redeem
+FID:152581570, Code:RowYourBoat, Captcha:vhdP
+Resp Code: 200
+Response JSON:
+{
+  "code": 1,
+  "data": [],
+  "msg": "CAPTCHA CHECK ERROR.",
+  "err_code": 40103
+}
+--------------------------------------------------
+2025-06-01 17:10:32,623 - 2025-06-01 17:10:32.623503 OCR solved for 152581570: tyvj (meth:DdddOcr, conf:1.00, att:4)
+
+2025-06-01 17:10:32,971 - 2025-06-01 17:10:32.971652 API REQ - Gift Code Redeem
+FID:152581570, Code:RowYourBoat, Captcha:tyvj
+Resp Code: 200
+Response JSON:
+{
+  "code": 1,
+  "data": [],
+  "msg": "RECEIVED.",
+  "err_code": 40008
+}
+--------------------------------------------------
+2025-06-01 17:10:32,979 - DATABASE - Saved/Updated status for User 152581570, Code 'RowYourBoat', Status RECEIVED
+
+2025-06-01 17:10:35,540 - 2025-06-01 17:10:35.540675 API REQUEST - Player Info
+Player ID: 153075669
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 153075669,
+    "nickname": "@bidusse",
+    "kid": 1059,
+    "stove_lv": 59,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_5.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2024/07/12/93XBzZ_1720807467.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:10:35,864 - 2025-06-01 17:10:35.864011 OCR solved for 153075669: ybqx (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 17:10:36,213 - 2025-06-01 17:10:36.213012 API REQ - Gift Code Redeem
+FID:153075669, Code:RowYourBoat, Captcha:ybqx
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 17:10:36,219 - DATABASE - Saved/Updated status for User 153075669, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 17:10:37,902 - 2025-06-01 17:10:37.902395 API REQUEST - Player Info
+Player ID: 153125988
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 153125988,
+    "nickname": "MonAmi",
+    "kid": 1059,
+    "stove_lv": 56,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_5.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar-dev/2023/07/17/1024.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:10:38,227 - 2025-06-01 17:10:38.227037 OCR solved for 153125988: amh3 (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 17:10:38,521 - 2025-06-01 17:10:38.521078 API REQ - Gift Code Redeem
+FID:153125988, Code:RowYourBoat, Captcha:amh3
+Resp Code: 200
+Response JSON:
+{
+  "code": 1,
+  "data": [],
+  "msg": "CAPTCHA CHECK ERROR.",
+  "err_code": 40103
+}
+--------------------------------------------------
+2025-06-01 17:10:41,231 - 2025-06-01 17:10:41.231018 OCR solved for 153125988: 8RIn (meth:DdddOcr, conf:1.00, att:2)
+
+2025-06-01 17:10:41,527 - 2025-06-01 17:10:41.527890 API REQ - Gift Code Redeem
+FID:153125988, Code:RowYourBoat, Captcha:8RIn
+Resp Code: 200
+Response JSON:
+{
+  "code": 1,
+  "data": [],
+  "msg": "CAPTCHA CHECK ERROR.",
+  "err_code": 40103
+}
+--------------------------------------------------
+2025-06-01 17:10:43,927 - 2025-06-01 17:10:43.926028 OCR solved for 153125988: bjyu (meth:DdddOcr, conf:1.00, att:3)
+
+2025-06-01 17:10:44,271 - 2025-06-01 17:10:44.271385 API REQ - Gift Code Redeem
+FID:153125988, Code:RowYourBoat, Captcha:bjyu
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 17:10:44,281 - DATABASE - Saved/Updated status for User 153125988, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 17:10:46,524 - 2025-06-01 17:10:46.524508 API REQUEST - Player Info
+Player ID: 153386918
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 153386918,
+    "nickname": "\u9ed1\u72d7\u5144",
+    "kid": 1059,
+    "stove_lv": 58,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_5.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2024/06/12/DwEZMx_1718195640.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:10:46,893 - 2025-06-01 17:10:46.893686 OCR solved for 153386918: Lapq (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 17:10:47,588 - 2025-06-01 17:10:47.588048 API REQ - Gift Code Redeem
+FID:153386918, Code:RowYourBoat, Captcha:Lapq
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 17:10:47,594 - DATABASE - Saved/Updated status for User 153386918, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 17:10:52,412 - 2025-06-01 17:10:52.412650 API REQUEST - Player Info
+Player ID: 153436146
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 153436146,
+    "nickname": "\uac08\uac04\uc774",
+    "kid": 1059,
+    "stove_lv": 56,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_5.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar-dev/2023/07/17/1016.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:10:52,754 - 2025-06-01 17:10:52.754321 OCR failed for FID 153436146 on attempt 1
+
+2025-06-01 17:10:53,123 - 2025-06-01 17:10:53.122224 OCR solved for 153436146: z87x (meth:DdddOcr, conf:1.00, att:2)
+
+2025-06-01 17:10:53,509 - 2025-06-01 17:10:53.509114 API REQ - Gift Code Redeem
+FID:153436146, Code:RowYourBoat, Captcha:z87x
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 17:10:53,516 - DATABASE - Saved/Updated status for User 153436146, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 17:10:55,661 - 2025-06-01 17:10:55.661173 API REQUEST - Player Info
+Player ID: 153994513
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 153994513,
+    "nickname": "Vit",
+    "kid": 1059,
+    "stove_lv": 60,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2025/04/26/0AY8XN_1745628358.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:10:56,109 - 2025-06-01 17:10:56.109600 OCR failed for FID 153994513 on attempt 1
+
+2025-06-01 17:10:56,505 - 2025-06-01 17:10:56.505718 OCR solved for 153994513: xtpK (meth:DdddOcr, conf:1.00, att:2)
+
+2025-06-01 17:10:56,821 - 2025-06-01 17:10:56.820435 API REQ - Gift Code Redeem
+FID:153994513, Code:RowYourBoat, Captcha:xtpK
+Resp Code: 200
+Response JSON:
+{
+  "code": 1,
+  "data": [],
+  "msg": "CAPTCHA CHECK ERROR.",
+  "err_code": 40103
+}
+--------------------------------------------------
+2025-06-01 17:10:59,656 - 2025-06-01 17:10:59.656139 OCR solved for 153994513: cZGp (meth:DdddOcr, conf:1.00, att:3)
+
+2025-06-01 17:10:59,959 - 2025-06-01 17:10:59.959122 API REQ - Gift Code Redeem
+FID:153994513, Code:RowYourBoat, Captcha:cZGp
+Resp Code: 200
+Response JSON:
+{
+  "code": 1,
+  "data": [],
+  "msg": "RECEIVED.",
+  "err_code": 40008
+}
+--------------------------------------------------
+2025-06-01 17:10:59,965 - DATABASE - Saved/Updated status for User 153994513, Code 'RowYourBoat', Status RECEIVED
+
+2025-06-01 17:11:05,475 - 2025-06-01 17:11:05.475681 API REQUEST - Player Info
+Player ID: 154222449
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 154222449,
+    "nickname": "linkyparky",
+    "kid": 1059,
+    "stove_lv": 55,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_5.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2024/04/18/A8OOmP_1713429992.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:11:05,818 - 2025-06-01 17:11:05.818325 OCR solved for 154222449: 1gdh (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 17:11:06,130 - 2025-06-01 17:11:06.129556 API REQ - Gift Code Redeem
+FID:154222449, Code:RowYourBoat, Captcha:1gdh
+Resp Code: 200
+Response JSON:
+{
+  "code": 1,
+  "data": [],
+  "msg": "CAPTCHA CHECK ERROR.",
+  "err_code": 40103
+}
+--------------------------------------------------
+2025-06-01 17:11:08,131 - 2025-06-01 17:11:08.131380 OCR failed for FID 154222449 on attempt 2
+
+2025-06-01 17:11:08,491 - 2025-06-01 17:11:08.491988 OCR solved for 154222449: F3ru (meth:DdddOcr, conf:1.00, att:3)
+
+2025-06-01 17:11:08,852 - 2025-06-01 17:11:08.852643 API REQ - Gift Code Redeem
+FID:154222449, Code:RowYourBoat, Captcha:F3ru
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 17:11:08,859 - DATABASE - Saved/Updated status for User 154222449, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 17:11:11,675 - 2025-06-01 17:11:11.675778 API REQUEST - Player Info
+Player ID: 154550150
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 154550150,
+    "nickname": "KristijanZrinski",
+    "kid": 1059,
+    "stove_lv": 60,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2025/03/02/rg77Jw_1740923968.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:11:12,016 - 2025-06-01 17:11:12.016834 OCR solved for 154550150: hCyw (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 17:11:12,334 - 2025-06-01 17:11:12.334485 API REQ - Gift Code Redeem
+FID:154550150, Code:RowYourBoat, Captcha:hCyw
+Resp Code: 200
+Response JSON:
+{
+  "code": 1,
+  "data": [],
+  "msg": "CAPTCHA CHECK ERROR.",
+  "err_code": 40103
+}
+--------------------------------------------------
+2025-06-01 17:11:15,284 - 2025-06-01 17:11:15.284415 OCR solved for 154550150: zea7 (meth:DdddOcr, conf:1.00, att:2)
+
+2025-06-01 17:11:15,712 - 2025-06-01 17:11:15.712396 API REQ - Gift Code Redeem
+FID:154550150, Code:RowYourBoat, Captcha:zea7
+Resp Code: 200
+Response JSON:
+{
+  "code": 1,
+  "data": [],
+  "msg": "CAPTCHA CHECK ERROR.",
+  "err_code": 40103
+}
+--------------------------------------------------
+2025-06-01 17:11:18,060 - 2025-06-01 17:11:18.060364 OCR solved for 154550150: nbeu (meth:DdddOcr, conf:1.00, att:3)
+
+2025-06-01 17:11:18,445 - 2025-06-01 17:11:18.445645 API REQ - Gift Code Redeem
+FID:154550150, Code:RowYourBoat, Captcha:nbeu
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 17:11:18,451 - DATABASE - Saved/Updated status for User 154550150, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 17:11:21,465 - 2025-06-01 17:11:21.465017 API REQUEST - Player Info
+Player ID: 154986624
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 154986624,
+    "nickname": "Kimmie",
+    "kid": 1059,
+    "stove_lv": 61,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2025/01/28/rggK9W_1738028381.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:11:21,841 - 2025-06-01 17:11:21.841997 OCR failed for FID 154986624 on attempt 1
+
+2025-06-01 17:11:22,166 - 2025-06-01 17:11:22.166383 OCR solved for 154986624: 2hxv (meth:DdddOcr, conf:1.00, att:2)
+
+2025-06-01 17:11:22,485 - 2025-06-01 17:11:22.485783 API REQ - Gift Code Redeem
+FID:154986624, Code:RowYourBoat, Captcha:2hxv
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 17:11:22,493 - DATABASE - Saved/Updated status for User 154986624, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 17:11:24,622 - 2025-06-01 17:11:24.622785 API REQUEST - Player Info
+Player ID: 155123629
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 155123629,
+    "nickname": "Firewitch",
+    "kid": 1059,
+    "stove_lv": 60,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2025/05/28/jAJBL4_1748423259.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:11:25,036 - 2025-06-01 17:11:25.036619 OCR failed for FID 155123629 on attempt 1
+
+2025-06-01 17:11:25,431 - 2025-06-01 17:11:25.431853 OCR failed for FID 155123629 on attempt 2
+
+2025-06-01 17:11:25,799 - 2025-06-01 17:11:25.799343 OCR solved for 155123629: 5qpg (meth:DdddOcr, conf:1.00, att:3)
+
+2025-06-01 17:11:26,147 - 2025-06-01 17:11:26.147372 API REQ - Gift Code Redeem
+FID:155123629, Code:RowYourBoat, Captcha:5qpg
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 17:11:26,153 - DATABASE - Saved/Updated status for User 155123629, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 17:11:28,762 - 2025-06-01 17:11:28.762202 API REQUEST - Player Info
+Player ID: 155304312
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 155304312,
+    "nickname": "\u5c0f\u831c\u831c",
+    "kid": 1059,
+    "stove_lv": 60,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2024/05/03/oAJ5mz_1714751611.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:11:29,084 - 2025-06-01 17:11:29.084921 OCR solved for 155304312: BpCs (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 17:11:29,431 - 2025-06-01 17:11:29.431054 API REQ - Gift Code Redeem
+FID:155304312, Code:RowYourBoat, Captcha:BpCs
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 17:11:29,439 - DATABASE - Saved/Updated status for User 155304312, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 17:11:31,622 - 2025-06-01 17:11:31.622523 API REQUEST - Player Info
+Player ID: 155324906
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 155324906,
+    "nickname": "\u0f12\u06dd\u00a0\u010e\u03d2\u015e\u015e\u00dd\u0466\u00a0\u06dd\u0f12",
+    "kid": 1059,
+    "stove_lv": 55,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_5.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar-dev/2023/07/17/1034.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:11:31,951 - 2025-06-01 17:11:31.951472 OCR solved for 155324906: maqp (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 17:11:32,289 - 2025-06-01 17:11:32.289603 API REQ - Gift Code Redeem
+FID:155324906, Code:RowYourBoat, Captcha:maqp
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 17:11:32,294 - DATABASE - Saved/Updated status for User 155324906, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 17:11:34,701 - 2025-06-01 17:11:34.701298 API REQUEST - Player Info
+Player ID: 155451415
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 155451415,
+    "nickname": "yasin",
+    "kid": 1059,
+    "stove_lv": 55,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_5.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar-dev/2023/07/17/1001.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:11:35,019 - 2025-06-01 17:11:35.019534 OCR solved for 155451415: rvwx (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 17:11:35,614 - 2025-06-01 17:11:35.614718 API REQ - Gift Code Redeem
+FID:155451415, Code:RowYourBoat, Captcha:rvwx
+Resp Code: 200
+Response JSON:
+{
+  "code": 1,
+  "data": [],
+  "msg": "CAPTCHA CHECK ERROR.",
+  "err_code": 40103
+}
+--------------------------------------------------
+2025-06-01 17:11:37,807 - 2025-06-01 17:11:37.807393 OCR solved for 155451415: mm3p (meth:DdddOcr, conf:1.00, att:2)
+
+2025-06-01 17:11:38,321 - 2025-06-01 17:11:38.321917 API REQ - Gift Code Redeem
+FID:155451415, Code:RowYourBoat, Captcha:mm3p
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 17:11:38,328 - DATABASE - Saved/Updated status for User 155451415, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 17:11:40,543 - 2025-06-01 17:11:40.543633 API REQUEST - Player Info
+Player ID: 155566396
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 155566396,
+    "nickname": "Hossam",
+    "kid": 1059,
+    "stove_lv": 57,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_5.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar-dev/2023/07/17/1027.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:11:40,875 - 2025-06-01 17:11:40.875819 OCR solved for 155566396: xx9z (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 17:11:41,375 - 2025-06-01 17:11:41.375348 API REQ - Gift Code Redeem
+FID:155566396, Code:RowYourBoat, Captcha:xx9z
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 17:11:41,382 - DATABASE - Saved/Updated status for User 155566396, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 17:11:43,144 - 2025-06-01 17:11:43.144310 API REQUEST - Player Info
+Player ID: 155566479
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 155566479,
+    "nickname": "Just\u00a0Jess",
+    "kid": 1059,
+    "stove_lv": 60,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2025/03/31/zqlG6O_1743433451.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:11:43,490 - 2025-06-01 17:11:43.490623 OCR failed for FID 155566479 on attempt 1
+
+2025-06-01 17:11:43,809 - 2025-06-01 17:11:43.809783 OCR solved for 155566479: zK3r (meth:DdddOcr, conf:1.00, att:2)
+
+2025-06-01 17:11:44,520 - 2025-06-01 17:11:44.520074 API REQ - Gift Code Redeem
+FID:155566479, Code:RowYourBoat, Captcha:zK3r
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 17:11:44,530 - DATABASE - Saved/Updated status for User 155566479, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 17:11:48,757 - 2025-06-01 17:11:48.757606 API REQUEST - Player Info
+Player ID: 156025089
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 156025089,
+    "nickname": "MechaGodzilla",
+    "kid": 1059,
+    "stove_lv": 50,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_4.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2025/03/30/g7XjNZ_1743352424.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:11:49,162 - 2025-06-01 17:11:49.162459 OCR solved for 156025089: xeei (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 17:11:49,481 - 2025-06-01 17:11:49.481163 API REQ - Gift Code Redeem
+FID:156025089, Code:RowYourBoat, Captcha:xeei
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 17:11:49,489 - DATABASE - Saved/Updated status for User 156025089, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 17:11:52,520 - 2025-06-01 17:11:52.520984 API REQUEST - Player Info
+Player ID: 156958825
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 156958825,
+    "nickname": "Latess",
+    "kid": 1059,
+    "stove_lv": 50,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_4.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar-dev/2023/07/17/1025.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:11:53,375 - 2025-06-01 17:11:53.375030 OCR solved for 156958825: 69Fc (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 17:11:54,120 - 2025-06-01 17:11:54.120629 API REQ - Gift Code Redeem
+FID:156958825, Code:RowYourBoat, Captcha:69Fc
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 17:11:54,126 - DATABASE - Saved/Updated status for User 156958825, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 17:11:56,828 - 2025-06-01 17:11:56.828222 API REQUEST - Player Info
+Player ID: 157204806
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 157204806,
+    "nickname": "\u1d52\u02e2\u1d43\u1d50\u1d43\u00a0\u02b8\u1d49\u1d50\u1d49\u1db0\u00a0\u1d36\u1d49\u1da0\u1da0",
+    "kid": 1059,
+    "stove_lv": 60,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2025/04/17/g7XozZ_1744891165.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:11:57,296 - 2025-06-01 17:11:57.296200 OCR solved for 157204806: 3Eb8 (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 17:11:58,085 - 2025-06-01 17:11:58.085109 API REQ - Gift Code Redeem
+FID:157204806, Code:RowYourBoat, Captcha:3Eb8
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 17:11:58,092 - DATABASE - Saved/Updated status for User 157204806, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 17:11:59,987 - 2025-06-01 17:11:59.987080 API REQUEST - Player Info
+Player ID: 157354827
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 157354827,
+    "nickname": "Azka~",
+    "kid": 1059,
+    "stove_lv": 60,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2025/06/01/l80l0J_1748763213.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:12:00,508 - 2025-06-01 17:12:00.508634 OCR solved for 157354827: m272 (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 17:12:00,856 - 2025-06-01 17:12:00.856189 API REQ - Gift Code Redeem
+FID:157354827, Code:RowYourBoat, Captcha:m272
+Resp Code: 200
+Response JSON:
+{
+  "code": 1,
+  "data": [],
+  "msg": "RECEIVED.",
+  "err_code": 40008
+}
+--------------------------------------------------
+2025-06-01 17:12:00,862 - DATABASE - Saved/Updated status for User 157354827, Code 'RowYourBoat', Status RECEIVED
+
+2025-06-01 17:12:03,221 - 2025-06-01 17:12:03.221652 API REQUEST - Player Info
+Player ID: 157500260
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 157500260,
+    "nickname": "W_Riz_004",
+    "kid": 1059,
+    "stove_lv": 55,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_5.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2025/04/17/p9o8vp_1744913973.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:12:03,536 - 2025-06-01 17:12:03.536666 OCR solved for 157500260: t7Rx (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 17:12:03,864 - 2025-06-01 17:12:03.864878 API REQ - Gift Code Redeem
+FID:157500260, Code:RowYourBoat, Captcha:t7Rx
+Resp Code: 200
+Response JSON:
+{
+  "code": 1,
+  "data": [],
+  "msg": "CAPTCHA CHECK ERROR.",
+  "err_code": 40103
+}
+--------------------------------------------------
+2025-06-01 17:12:06,556 - 2025-06-01 17:12:06.556437 OCR solved for 157500260: fwnf (meth:DdddOcr, conf:1.00, att:2)
+
+2025-06-01 17:12:06,893 - 2025-06-01 17:12:06.893151 API REQ - Gift Code Redeem
+FID:157500260, Code:RowYourBoat, Captcha:fwnf
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 17:12:06,901 - DATABASE - Saved/Updated status for User 157500260, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 17:12:09,353 - 2025-06-01 17:12:09.353539 API REQUEST - Player Info
+Player ID: 157515800
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 157515800,
+    "nickname": "Wolverine",
+    "kid": 1059,
+    "stove_lv": 60,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2024/11/30/l86mGM_1732978399.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:12:09,716 - 2025-06-01 17:12:09.716773 OCR failed for FID 157515800 on attempt 1
+
+2025-06-01 17:12:10,043 - 2025-06-01 17:12:10.043024 OCR failed for FID 157515800 on attempt 2
+
+2025-06-01 17:12:10,378 - 2025-06-01 17:12:10.378992 OCR solved for 157515800: pUG2 (meth:DdddOcr, conf:1.00, att:3)
+
+2025-06-01 17:12:10,740 - 2025-06-01 17:12:10.740732 API REQ - Gift Code Redeem
+FID:157515800, Code:RowYourBoat, Captcha:pUG2
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 17:12:10,746 - DATABASE - Saved/Updated status for User 157515800, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 17:12:12,405 - 2025-06-01 17:12:12.405612 API REQUEST - Player Info
+Player ID: 157778293
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 157778293,
+    "nickname": "Blanks\u00a0\u1d3e\u02e3\u1d42",
+    "kid": 1059,
+    "stove_lv": 59,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_5.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2025/03/07/l86366_1741314616.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:12:12,748 - 2025-06-01 17:12:12.748487 OCR solved for 157778293: hNBz (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 17:12:13,077 - 2025-06-01 17:12:13.077357 API REQ - Gift Code Redeem
+FID:157778293, Code:RowYourBoat, Captcha:hNBz
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 17:12:13,085 - DATABASE - Saved/Updated status for User 157778293, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 17:12:16,208 - 2025-06-01 17:12:16.208051 API REQUEST - Player Info
+Player ID: 157794405
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 157794405,
+    "nickname": "Morv\u00eb\u00a0Lys",
+    "kid": 1059,
+    "stove_lv": 65,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_7.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2025/05/13/l86g6J_1747156262.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:12:16,524 - 2025-06-01 17:12:16.524706 OCR solved for 157794405: y8xe (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 17:12:16,887 - 2025-06-01 17:12:16.887003 API REQ - Gift Code Redeem
+FID:157794405, Code:RowYourBoat, Captcha:y8xe
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 17:12:16,896 - DATABASE - Saved/Updated status for User 157794405, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 17:12:18,787 - 2025-06-01 17:12:18.787157 API REQUEST - Player Info
+Player ID: 157991083
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 157991083,
+    "nickname": "\u1d0a\u00a0\u1d07\u00a0s\u00a0s\u00a0\u026a\u00a0\u1d07\u00a0~",
+    "kid": 1059,
+    "stove_lv": 54,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_4.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2025/05/25/VJZzj1_1748163992.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:12:19,313 - 2025-06-01 17:12:19.313628 OCR failed for FID 157991083 on attempt 1
+
+2025-06-01 17:12:19,758 - 2025-06-01 17:12:19.758357 OCR solved for 157991083: darr (meth:DdddOcr, conf:1.00, att:2)
+
+2025-06-01 17:12:20,065 - 2025-06-01 17:12:20.065048 API REQ - Gift Code Redeem
+FID:157991083, Code:RowYourBoat, Captcha:darr
+Resp Code: 200
+Response JSON:
+{
+  "code": 1,
+  "data": [],
+  "msg": "CAPTCHA CHECK ERROR.",
+  "err_code": 40103
+}
+--------------------------------------------------
+2025-06-01 17:12:21,960 - 2025-06-01 17:12:21.960375 OCR failed for FID 157991083 on attempt 3
+
+2025-06-01 17:12:22,299 - 2025-06-01 17:12:22.299976 OCR failed for FID 157991083 on attempt 4
+
+2025-06-01 17:12:24,739 - 2025-06-01 17:12:24.739218 API REQUEST - Player Info
+Player ID: 158155130
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 158155130,
+    "nickname": "PISTOLA",
+    "kid": 1059,
+    "stove_lv": 60,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar-dev/2023/07/17/1016.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:12:25,088 - 2025-06-01 17:12:25.088070 OCR solved for 158155130: Xq6d (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 17:12:25,412 - 2025-06-01 17:12:25.411888 API REQ - Gift Code Redeem
+FID:158155130, Code:RowYourBoat, Captcha:Xq6d
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 17:12:25,419 - DATABASE - Saved/Updated status for User 158155130, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 17:12:27,247 - 2025-06-01 17:12:27.247390 API REQUEST - Player Info
+Player ID: 158518860
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 158518860,
+    "nickname": "Lone\u00a0Wolf",
+    "kid": 1059,
+    "stove_lv": 62,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar-dev/2023/07/17/1028.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:12:27,578 - 2025-06-01 17:12:27.578523 OCR solved for 158518860: Nwc9 (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 17:12:27,907 - 2025-06-01 17:12:27.907672 API REQ - Gift Code Redeem
+FID:158518860, Code:RowYourBoat, Captcha:Nwc9
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 17:12:27,914 - DATABASE - Saved/Updated status for User 158518860, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 17:12:30,896 - 2025-06-01 17:12:30.896988 API REQUEST - Player Info
+Player ID: 158810301
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 158810301,
+    "nickname": "Lord\u00a0Ka\u011fan",
+    "kid": 1059,
+    "stove_lv": 55,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_5.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2025/01/13/XYVGY8_1736757534.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:12:31,265 - 2025-06-01 17:12:31.265429 OCR solved for 158810301: rw7u (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 17:12:32,160 - 2025-06-01 17:12:32.160100 API REQ - Gift Code Redeem
+FID:158810301, Code:RowYourBoat, Captcha:rw7u
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 17:12:32,166 - DATABASE - Saved/Updated status for User 158810301, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 17:12:37,405 - 2025-06-01 17:12:37.405533 API REQUEST - Player Info
+Player ID: 158892149
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 158892149,
+    "nickname": "Nikki\u1d3e\u02e3\u1d42",
+    "kid": 1059,
+    "stove_lv": 56,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_5.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2025/05/23/KAEy3n_1748029981.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:12:37,733 - 2025-06-01 17:12:37.733823 OCR solved for 158892149: q9ym (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 17:12:38,105 - 2025-06-01 17:12:38.105932 API REQ - Gift Code Redeem
+FID:158892149, Code:RowYourBoat, Captcha:q9ym
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 17:12:38,114 - DATABASE - Saved/Updated status for User 158892149, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 17:12:40,400 - 2025-06-01 17:12:40.400777 API REQUEST - Player Info
+Player ID: 158908605
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 158908605,
+    "nickname": "carpio",
+    "kid": 1059,
+    "stove_lv": 56,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_5.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2024/04/19/4WKr90_1713551835.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:12:40,736 - 2025-06-01 17:12:40.736535 OCR failed for FID 158908605 on attempt 1
+
+2025-06-01 17:12:41,072 - 2025-06-01 17:12:41.072602 OCR solved for 158908605: 5Hqs (meth:DdddOcr, conf:1.00, att:2)
+
+2025-06-01 17:12:41,573 - 2025-06-01 17:12:41.573591 API REQ - Gift Code Redeem
+FID:158908605, Code:RowYourBoat, Captcha:5Hqs
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 17:12:41,579 - DATABASE - Saved/Updated status for User 158908605, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 17:12:50,481 - 2025-06-01 17:12:50.481429 API REQUEST - Player Info
+Player ID: 159350797
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 159350797,
+    "nickname": "McMace",
+    "kid": 1059,
+    "stove_lv": 60,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar-dev/2023/07/17/1035.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:12:50,834 - 2025-06-01 17:12:50.834264 OCR solved for 159350797: ceke (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 17:12:51,661 - 2025-06-01 17:12:51.660514 API REQ - Gift Code Redeem
+FID:159350797, Code:RowYourBoat, Captcha:ceke
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 17:12:51,668 - DATABASE - Saved/Updated status for User 159350797, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 17:12:55,155 - 2025-06-01 17:12:55.155767 API REQUEST - Player Info
+Player ID: 160112192
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 160112192,
+    "nickname": "420Dmoney1982",
+    "kid": 1059,
+    "stove_lv": 58,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_5.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar-dev/2023/07/17/1023.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:12:55,620 - 2025-06-01 17:12:55.620591 OCR failed for FID 160112192 on attempt 1
+
+2025-06-01 17:12:55,950 - 2025-06-01 17:12:55.950801 OCR solved for 160112192: chjv (meth:DdddOcr, conf:1.00, att:2)
+
+2025-06-01 17:12:56,285 - 2025-06-01 17:12:56.285969 API REQ - Gift Code Redeem
+FID:160112192, Code:RowYourBoat, Captcha:chjv
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 17:12:56,293 - DATABASE - Saved/Updated status for User 160112192, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 17:12:59,595 - 2025-06-01 17:12:59.595128 API REQUEST - Player Info
+Player ID: 165270329
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 165270329,
+    "nickname": "Duck\u00a0Plug",
+    "kid": 1059,
+    "stove_lv": 60,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_6.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2025/03/09/5AJ5BR_1741546672.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:12:59,953 - 2025-06-01 17:12:59.953789 OCR solved for 165270329: vq38 (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 17:13:00,308 - 2025-06-01 17:13:00.308906 API REQ - Gift Code Redeem
+FID:165270329, Code:RowYourBoat, Captcha:vq38
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 17:13:00,316 - DATABASE - Saved/Updated status for User 165270329, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 17:13:02,585 - 2025-06-01 17:13:02.585019 API REQUEST - Player Info
+Player ID: 197605525
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 197605525,
+    "nickname": "F\u03b9\u0282\u050bA\u0273\u0503C\u050b\u03b9\u03c1\u0282",
+    "kid": 1059,
+    "stove_lv": 55,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_5.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2025/05/19/vRw728_1747647556.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:13:02,911 - 2025-06-01 17:13:02.911772 OCR solved for 197605525: 48fw (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 17:13:03,236 - 2025-06-01 17:13:03.235195 API REQ - Gift Code Redeem
+FID:197605525, Code:RowYourBoat, Captcha:48fw
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 17:13:03,242 - DATABASE - Saved/Updated status for User 197605525, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 17:13:05,709 - 2025-06-01 17:13:05.709518 API REQUEST - Player Info
+Player ID: 214793760
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 214793760,
+    "nickname": "King\u00a0H0rus",
+    "kid": 1059,
+    "stove_lv": 53,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_4.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2025/05/31/Wo0GzW_1748698465.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:13:06,049 - 2025-06-01 17:13:06.049630 OCR solved for 214793760: N4k8 (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 17:13:06,367 - 2025-06-01 17:13:06.367634 API REQ - Gift Code Redeem
+FID:214793760, Code:RowYourBoat, Captcha:N4k8
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 17:13:06,374 - DATABASE - Saved/Updated status for User 214793760, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 17:13:09,102 - 2025-06-01 17:13:09.102933 API REQUEST - Player Info
+Player ID: 232308131
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 232308131,
+    "nickname": "icy~",
+    "kid": 1054,
+    "stove_lv": 36,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_1.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2025/05/31/RBqpqE_1748721407.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:13:09,606 - 2025-06-01 17:13:09.606308 OCR solved for 232308131: nd8e (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 17:13:10,202 - 2025-06-01 17:13:10.202130 API REQ - Gift Code Redeem
+FID:232308131, Code:RowYourBoat, Captcha:nd8e
+Resp Code: 200
+Response JSON:
+{
+  "code": 1,
+  "data": [],
+  "msg": "CAPTCHA CHECK ERROR.",
+  "err_code": 40103
+}
+--------------------------------------------------
+2025-06-01 17:13:12,391 - 2025-06-01 17:13:12.391789 OCR solved for 232308131: Wq6q (meth:DdddOcr, conf:1.00, att:2)
+
+2025-06-01 17:13:12,732 - 2025-06-01 17:13:12.732121 API REQ - Gift Code Redeem
+FID:232308131, Code:RowYourBoat, Captcha:Wq6q
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 17:13:12,738 - DATABASE - Saved/Updated status for User 232308131, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 17:13:15,178 - 2025-06-01 17:13:15.178425 API REQUEST - Player Info
+Player ID: 468739286
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 468739286,
+    "nickname": "FrankenWeenie",
+    "kid": 1059,
+    "stove_lv": 11,
+    "stove_lv_content": 11,
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2025/05/29/r1EN6B_1748534354.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:13:15,520 - 2025-06-01 17:13:15.520933 OCR solved for 468739286: nhky (meth:DdddOcr, conf:1.00, att:1)
+
+2025-06-01 17:13:15,892 - 2025-06-01 17:13:15.892186 API REQ - Gift Code Redeem
+FID:468739286, Code:RowYourBoat, Captcha:nhky
+Resp Code: 200
+Response JSON:
+{
+  "code": 1,
+  "data": [],
+  "msg": "CAPTCHA CHECK ERROR.",
+  "err_code": 40103
+}
+--------------------------------------------------
+2025-06-01 17:13:18,593 - 2025-06-01 17:13:18.593363 OCR solved for 468739286: qpdh (meth:DdddOcr, conf:1.00, att:2)
+
+2025-06-01 17:13:19,138 - 2025-06-01 17:13:19.138573 API REQ - Gift Code Redeem
+FID:468739286, Code:RowYourBoat, Captcha:qpdh
+Resp Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": [],
+  "msg": "SUCCESS",
+  "err_code": 20000
+}
+--------------------------------------------------
+2025-06-01 17:13:19,145 - DATABASE - Saved/Updated status for User 468739286, Code 'RowYourBoat', Status SUCCESS
+
+2025-06-01 17:13:23,954 - 2025-06-01 17:13:23.954396 API REQUEST - Player Info
+Player ID: 157991083
+Response Code: 200
+Response JSON:
+{
+  "code": 0,
+  "data": {
+    "fid": 157991083,
+    "nickname": "\u1d0a\u00a0\u1d07\u00a0s\u00a0s\u00a0\u026a\u00a0\u1d07\u00a0~",
+    "kid": 1059,
+    "stove_lv": 54,
+    "stove_lv_content": "https://gof-formal-avatar.akamaized.net/img/icon/stove_lv_4.png",
+    "avatar_image": "https://gof-formal-avatar.akamaized.net/avatar/2025/05/25/VJZzj1_1748163992.png",
+    "total_recharge_amount": 0
+  },
+  "msg": "success",
+  "err_code": ""
+}
+--------------------------------------------------
+2025-06-01 17:13:24,247 - 2025-06-01 17:13:24.247756 OCR failed for FID 157991083 on attempt 1
+
+2025-06-01 17:13:24,544 - 2025-06-01 17:13:24.544157 OCR solved for 157991083: awpm (meth:DdddOcr, conf:1.00, att:2)
+
+2025-06-01 17:13:24,985 - 2025-06-01 17:13:24.985008 API REQ - Gift Code Redeem
+FID:157991083, Code:RowYourBoat, Captcha:awpm
+Resp Code: 200
+Response JSON:
+{
+  "code": 1,
+  "data": [],
+  "msg": "RECEIVED.",
+  "err_code": 40008
+}
+--------------------------------------------------
+2025-06-01 17:13:24,990 - DATABASE - Saved/Updated status for User 157991083, Code 'RowYourBoat', Status RECEIVED
+
